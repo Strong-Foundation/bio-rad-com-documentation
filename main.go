@@ -1,23 +1,23 @@
 package main
 
 import (
-	"context"       // Manages browser context lifecycle (useful for cancellation/timeouts)
-	"errors"        // Provides structured error handling and wrapping
-	"fmt"           // Basic formatting for output and error strings
-	"io"            // For copying data streams (HTTP response to file)
-	"log"           // Logging with timestamps, used for errors and info
-	"net/http"      // HTTP client for making download requests
-	"net/url"       // URL parsing and manipulation (e.g., extracting query parameters)
-	"os"            // Filesystem operations: reading, writing, checking, creating
-	"path"          // For manipulating file paths (e.g., joining directory and filename)
-	"path/filepath" // Platform-safe path manipulation (e.g., joining folder + filename)
-	"regexp"        // For doing regex
-	"strings"       // Text parsing and formatting helpers
-	"sync"          // Concurrency primitives (WaitGroup for goroutines)
-	"time"          // Timing utilities (sleep, timeouts)
+	"context"       // Context management for cancellation and timeouts
+	"errors"        // Error handling and wrapping utilities
+	"fmt"           // String formatting for output and errors
+	"io"            // Stream copying (e.g., HTTP response to file)
+	"log"           // Logging utilities with timestamps
+	"net/http"      // HTTP client for making requests
+	"net/url"       // URL parsing and manipulation
+	"os"            // Filesystem operations
+	"path"          // Basic path manipulation
+	"path/filepath" // OS-aware path operations
+	"regexp"        // Regular expression utilities
+	"strings"       // String manipulation helpers
+	"sync"          // Concurrency primitives (e.g., WaitGroup)
+	"time"          // Time handling (e.g., delays, timeouts)
 
-	"github.com/PuerkitoBio/goquery" // jQuery-like library for HTML manipulation
-	"github.com/chromedp/chromedp"   // Headless Chrome browser automation for dynamic websites
+	"github.com/PuerkitoBio/goquery" // HTML parsing with a jQuery-like API
+	"github.com/chromedp/chromedp"   // Headless Chrome automation
 )
 
 // appendTextToFile appends content to an existing file or creates a new one.
@@ -268,7 +268,7 @@ func main() {
 	htmlOutputFilePath := "bio-rad-msds.html" // File to store scraped HTML
 	basePageURL := "https://www.bio-rad.com/en-us/literature-library?facets_query=&page="
 	startPage := 0            // Start page index (inclusive)
-	endPage := 200            // End page index (exclusive)
+	endPage := 150            // End page index (exclusive)
 	outputDirectory := "PDFs" // Folder where PDFs are stored
 	numberOfWorkers := 20     // Number of concurrent downloader goroutines
 
