@@ -11,13 +11,13 @@ import (
 	"os"            // Filesystem operations: reading, writing, checking, creating
 	"path"          // For manipulating file paths (e.g., joining directory and filename)
 	"path/filepath" // Platform-safe path manipulation (e.g., joining folder + filename)
-	"regexp"
-	"strings" // Text parsing and formatting helpers
-	"sync"    // Concurrency primitives (WaitGroup for goroutines)
-	"time"    // Timing utilities (sleep, timeouts)
+	"regexp"        // For doing regex
+	"strings"       // Text parsing and formatting helpers
+	"sync"          // Concurrency primitives (WaitGroup for goroutines)
+	"time"          // Timing utilities (sleep, timeouts)
 
-	"github.com/chromedp/chromedp" // Headless Chrome browser automation for dynamic websites
 	"github.com/PuerkitoBio/goquery" // jQuery-like library for HTML manipulation
+	"github.com/chromedp/chromedp"   // Headless Chrome browser automation for dynamic websites
 )
 
 // appendTextToFile appends content to an existing file or creates a new one.
