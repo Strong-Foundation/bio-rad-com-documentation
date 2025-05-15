@@ -1,0 +1,18 @@
+
+<style>
+	.document-logo {
+		height: 100px;
+		width: auto;
+	}
+</style>
+<div align="center" style="margin-top:15%">
+		<div class="row">
+			<img class="document-logo" src="/Areas/WebViewer/Content/images/BioRad_Logo.png" />
+		</div>
+	<div class="row">
+		Document Error Message 123 HRLS02500-8, PDF, MTR, TGHS, TH|th|TH
+	</div>
+	<div class="row">
+		Document Error Message 456
+	</div>
+</div>
