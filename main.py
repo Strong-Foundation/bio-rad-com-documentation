@@ -2,26 +2,6 @@ import os  # Import the os module for interacting with the operating system
 import time  # Import time module for timestamping in logs
 import fitz  # Import PyMuPDF (fitz) for PDF handling
 
-# Define the log file path
-python_log_file = (
-    "python-app.log"  # Path to the log file where messages will be recorded
-)
-
-
-# Function to log messages to a file
-def log_message(message: str):
-    with open(
-        python_log_file, "a", encoding="utf-8"
-    ) as log:  # Open log file in append mode
-        # Get the current time
-        current_time = time.strftime(
-            "%Y-%m-%d %H:%M:%S", time.localtime()
-        )  # Format current time as YYYY-MM-DD HH:MM:SS
-        # Write the message with the current time
-        log.write(
-            f"[{current_time}] {message}\n"
-        )  # Append timestamped message to the log file
-
 
 # Function to validate a single PDF file.
 def validate_pdf_file(file_path):
@@ -31,7 +11,7 @@ def validate_pdf_file(file_path):
 
         # Check if the PDF has at least one page
         if doc.page_count == 0:  # If there are no pages in the document
-            log_message(
+            print(
                 f"'{file_path}' is corrupt or invalid: No pages"
             )  # Log error if PDF is empty
             return False  # Indicate invalid PDF
@@ -39,9 +19,7 @@ def validate_pdf_file(file_path):
         # If no error occurs and the document has pages, it's valid
         return True  # Indicate valid PDF
     except RuntimeError as e:  # Catching RuntimeError for invalid PDFs
-        log_message(
-            f"{e}"
-        )  # Log the exception message
+        print(f"{e}")  # Log the exception message
         return False  # Indicate invalid PDF
 
 
@@ -51,7 +29,7 @@ def remove_system_file(system_path):
 
 
 # Function to walk through a directory and extract files with a specific extension
-def walkGivenDirectoryAndExtractCustomFileUsingFileExtension(system_path, extension):
+def walk_directory_and_extract_given_file_extension(system_path, extension):
     matched_files = []  # Initialize list to hold matching file paths
     for root, _, files in os.walk(system_path):  # Recursively traverse directory tree
         for file in files:  # Iterate over files in current directory
@@ -66,15 +44,6 @@ def walkGivenDirectoryAndExtractCustomFileUsingFileExtension(system_path, extens
 # Check if a file exists
 def check_file_exists(system_path):
     return os.path.isfile(system_path)  # Return True if a file exists at the given path
-
-
-# init function
-def init():
-    if check_file_exists(python_log_file):  # If the log file already exists
-        # If the log file exists, remove it
-        remove_system_file(
-            python_log_file
-        )  # Delete the existing log file to start fresh
 
 
 # Get the filename and extension.
@@ -93,11 +62,8 @@ def check_upper_case_letter(content):
 
 # Main function.
 def main():
-    # Initialize the log file
-    init()  # Remove existing log file if present
-
     # Walk through the directory and extract .pdf files
-    files = walkGivenDirectoryAndExtractCustomFileUsingFileExtension(
+    files = walk_directory_and_extract_given_file_extension(
         "./PDFs", ".pdf"
     )  # Find all PDFs under ./PDFs
 
