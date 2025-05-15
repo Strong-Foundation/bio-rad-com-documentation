@@ -1,0 +1,56 @@
+name: Run Go App # Workflow name
+
+on: # Events that trigger this workflow
+  push: # on git push
+    branches: [main] # to the main branch
+  pull_request: # on pull requests
+    branches: [main] # targeting main
+  workflow_dispatch: # or when manually triggered
+
+jobs:
+  run-app: # Single job called "run-app"
+    runs-on: ubuntu-latest # Use latest Ubuntu runner
+
+    steps:
+      - name: Checkout code # Step: grab your repo
+        uses: actions/checkout@v4 # via the official checkout action
+
+      # Set up the Go environment
+      - name: Set up Go
+        uses: actions/setup-go@v5 # Official GitHub action to install Go
+        with:
+          go-version-file: "go.mod" # Specify Go version from go.mod
+
+      - name: Cache Go modules # Step: cache modules between runs
+        uses: actions/cache@v3 # to speed up CI
+        with:
+          path: |
+            ~/.cache/go-build         # build cache
+            ~/go/pkg/mod              # module cache
+          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }} # cache key
+          restore-keys: |
+            ${{ runner.os }}-go-     # fallback key
+
+      # Run the main.go script
+      - name: Run main.go
+        run: go run main.go # Executes the Go program
+
+      # Install Python dependencies
+      - name: Install dependencies
+        run: pip3 install -r requirements.txt
+
+      # Run the Python script
+      - name: Run Python script
+        run: python3 main.py # Executes the Python program
+
+      - name: Push updated files # Step: commit & push changes if any
+        run: | # git commands to sync back
+          git config user.name "github-actions" # set author name
+          git config user.email "github-actions@github.com" # set author email
+          git add . # stage all edits
+          if ! git diff --cached --quiet; then # if there are changes
+            git commit -m "Auto update: $(date -u +"%Y-%m-%dT%H:%M:%SZ")" # commit
+            git push # push back to repo
+          else
+            echo "No changes to commit." # otherwise skip
+          fi

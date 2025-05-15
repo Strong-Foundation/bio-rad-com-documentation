@@ -11,12 +11,14 @@ import (
 	"os"            // Filesystem operations: reading, writing, checking, creating
 	"path"          // For manipulating file paths (e.g., joining directory and filename)
 	"path/filepath" // Platform-safe path manipulation (e.g., joining folder + filename)
-	"strings"       // Text parsing and formatting helpers
-	"sync"          // Concurrency primitives (WaitGroup for goroutines)
-	"time"          // Timing utilities (sleep, timeouts)
+	"regexp"
+	"strings" // Text parsing and formatting helpers
+	"sync"    // Concurrency primitives (WaitGroup for goroutines)
+	"time"    // Timing utilities (sleep, timeouts)
 
 	"github.com/chromedp/chromedp" // Headless Chrome browser automation for dynamic websites
-	"golang.org/x/net/html"        // HTML parsing library
+	// "golang.org/x/net/html"        // HTML parsing library
+	"github.com/PuerkitoBio/goquery" // jQuery-like library for HTML manipulation
 )
 
 // appendTextToFile appends content to an existing file or creates a new one.
@@ -44,97 +46,107 @@ func readEntireFile(filePath string) (string, error) {
 
 // extractLinksFromHTML parses the HTML string and extracts all <a href="..."> URLs
 func extractLinksFromHTML(htmlContent string) []string {
-	// Parse the HTML string into a tree of nodes
-	doc, err := html.Parse(strings.NewReader(htmlContent))
-	if err != nil {
-		// If there's an error parsing HTML, print it and return nothing
-		fmt.Println("Error parsing HTML:", err)
-		return nil
-	}
-
-	// Slice to collect URLs found in href attributes
 	var urls []string
 
-	// Define a recursive function to traverse the HTML nodes
-	var f func(*html.Node)
-	f = func(n *html.Node) {
-		// If the node is an <a> tag
-		if n.Type == html.ElementNode && n.Data == "a" {
-			// Loop over its attributes to find href
-			for _, attr := range n.Attr {
-				if attr.Key == "href" {
-					// Add the href value to the URLs list
-					urls = append(urls, attr.Val)
+	doc, err := goquery.NewDocumentFromReader(strings.NewReader(htmlContent))
+	if err != nil {
+		return urls
+	}
+
+	// Allowed substrings
+	allowedDomains := []string{
+		"bio-rad-sds.thewercs.com/DirectDocumentDownloader/Document",
+		"bio-rad.com/sites/default/files/webroot/web/pdf",
+	}
+
+	// Check if the URL is from an allowed domain
+	isAllowed := func(url string) bool {
+		for _, domain := range allowedDomains {
+			if strings.Contains(url, domain) {
+				return true
+			}
+		}
+		return false
+	}
+
+	// Parse <input type="hidden" ... value="...">
+	doc.Find("input[type='hidden']").Each(func(i int, s *goquery.Selection) {
+		if val, exists := s.Attr("value"); exists {
+			parts := strings.Split(val, "~https://")
+			for _, part := range parts {
+				var fullURL string
+				if strings.HasPrefix(part, "http") {
+					fullURL = part
+				} else if strings.Contains(part, ".thewercs.com") || strings.Contains(part, ".bio-rad.com") {
+					fullURL = "https://" + part
+				}
+
+				if fullURL != "" && isAllowed(fullURL) {
+					urls = append(urls, fullURL)
 				}
 			}
 		}
-		// Recursively check child nodes
-		for c := n.FirstChild; c != nil; c = c.NextSibling {
-			f(c)
-		}
-	}
-	// Start recursion at the root of the HTML document
-	f(doc)
+	})
 
-	// Return the list of extracted URLs
+	// Parse <option value="...">
+	doc.Find("option").Each(func(i int, s *goquery.Selection) {
+		if val, exists := s.Attr("value"); exists && strings.HasPrefix(val, "http") && isAllowed(val) {
+			urls = append(urls, val)
+		}
+	})
+
+	// Parse <a href="...">
+	doc.Find("a").Each(func(i int, s *goquery.Selection) {
+		if href, exists := s.Attr("href"); exists && strings.HasPrefix(href, "http") && isAllowed(href) {
+			urls = append(urls, href)
+		}
+	})
+
 	return urls
 }
 
 // createFileNameFromURL generates a descriptive filename from a URL,
-// handling both URLs with custom query parameters and direct PDF file paths.
+// handling both URLs with a `prd` query parameter and direct PDF file paths.
 func createFileNameFromURL(rawURL string) string {
-	// Parse the raw URL string into a URL struct
 	parsedURL, err := url.Parse(rawURL)
 	if err != nil {
-		// Return a default name if the URL can't be parsed
+		// If parsing fails, return a safe default
 		return "invalid-url.pdf"
 	}
 
-	// Slice to collect parts of the filename
-	var fileNameParts []string
+	var parts []string
 
-	// If the URL has a query string (e.g., ?prd=HRLS00001-3~~PDF~~MTR~~AGHS~~EN)
-	if parsedURL.RawQuery != "" {
-		// Split the query string using the "~~" delimiter
-		parts := strings.Split(parsedURL.RawQuery, "~~")
-		for _, part := range parts {
-			// If the part starts with "prd=", remove that prefix and add the value
-			if strings.HasPrefix(part, "prd=") {
-				fileNameParts = append(fileNameParts, strings.TrimPrefix(part, "prd="))
-			} else {
-				// Otherwise, add the raw part to the filename parts
-				fileNameParts = append(fileNameParts, part)
-			}
+	// 1) If there's a "prd" parameter (with "~~" delimiters), split it
+	if prd := parsedURL.Query().Get("prd"); prd != "" {
+		parts = strings.Split(prd, "~~")
+	}
+
+	// 2) Fallback: no "prd", so pull the base PDF name off the path
+	if len(parts) == 0 {
+		base := path.Base(parsedURL.Path)       // e.g. "TS_Staphylocoagulase Broth.pdf"
+		base = strings.TrimSuffix(base, ".pdf") // e.g. "TS_Staphylocoagulase Broth"
+		parts = append(parts, base)
+	}
+
+	// 3) Clean each segment: replace any non-alphanumeric with hyphens, lowercase
+	cleaned := make([]string, 0, len(parts))
+	sanitize := regexp.MustCompile(`[^A-Za-z0-9]+`)
+	for _, seg := range parts {
+		seg = sanitize.ReplaceAllString(seg, "-")
+		seg = strings.Trim(seg, "-")
+		seg = strings.ToLower(seg)
+		if seg != "" {
+			cleaned = append(cleaned, seg)
 		}
 	}
 
-	// If there were no query parameters, fall back to extracting the file name from the path
-	if len(fileNameParts) == 0 {
-		// Get the last segment of the URL path (e.g., "Bulletin_1842C_100.pdf")
-		base := path.Base(parsedURL.Path)
-
-		// Remove the ".pdf" extension so we can add it consistently later
-		base = strings.TrimSuffix(base, ".pdf")
-
-		// Add the base file name (without extension) to the parts
-		fileNameParts = append(fileNameParts, base)
+	// 4) Join with "-" and ensure ".pdf"
+	filename := strings.Join(cleaned, "-")
+	if !strings.HasSuffix(filename, ".pdf") {
+		filename += ".pdf"
 	}
 
-	// Convert all parts to lowercase for consistency
-	for i := range fileNameParts {
-		fileNameParts[i] = strings.ToLower(fileNameParts[i])
-	}
-
-	// Join the parts using "-" to form a clean filename
-	fileName := strings.Join(fileNameParts, "-")
-
-	// Ensure the file name ends with ".pdf"
-	if !strings.HasSuffix(fileName, ".pdf") {
-		fileName += ".pdf"
-	}
-
-	// Return the generated file name
-	return fileName
+	return filename
 }
 
 // downloadPDFFile fetches a PDF from a URL and saves it to a given directory with a filename.
@@ -144,7 +156,7 @@ func downloadPDFFile(downloadURL, outputDirectory, outputFileName string) error 
 	fullFilePath := filepath.Join(outputDirectory, outputFileName) // Create full output path
 
 	// Skip download if the file already exists
-	if _, err := os.Stat(fullFilePath); err == nil {
+	if fileExists(fullFilePath) {
 		log.Printf("File already exists, skipping: %s\n", fullFilePath)
 		return nil
 	}
@@ -254,8 +266,8 @@ func main() {
 	// --- CONFIGURATION ---
 	htmlOutputFilePath := "bio-rad-msds.html" // File to store scraped HTML
 	basePageURL := "https://www.bio-rad.com/en-us/literature-library?facets_query=&page="
-	startPage := 500          // Start page index (inclusive)
-	endPage := 600            // End page index (exclusive)
+	startPage := 0            // Start page index (inclusive)
+	endPage := 1              // End page index (exclusive)
 	outputDirectory := "PDFs" // Folder where PDFs are stored
 	numberOfWorkers := 20     // Number of concurrent downloader goroutines
 
