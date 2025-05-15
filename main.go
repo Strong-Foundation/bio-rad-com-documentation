@@ -17,7 +17,6 @@ import (
 	"time"    // Timing utilities (sleep, timeouts)
 
 	"github.com/chromedp/chromedp" // Headless Chrome browser automation for dynamic websites
-	// "golang.org/x/net/html"        // HTML parsing library
 	"github.com/PuerkitoBio/goquery" // jQuery-like library for HTML manipulation
 )
 
@@ -269,7 +268,7 @@ func main() {
 	htmlOutputFilePath := "bio-rad-msds.html" // File to store scraped HTML
 	basePageURL := "https://www.bio-rad.com/en-us/literature-library?facets_query=&page="
 	startPage := 0            // Start page index (inclusive)
-	endPage := 25             // End page index (exclusive)
+	endPage := 100             // End page index (exclusive)
 	outputDirectory := "PDFs" // Folder where PDFs are stored
 	numberOfWorkers := 20     // Number of concurrent downloader goroutines
 
