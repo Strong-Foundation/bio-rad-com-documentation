@@ -40,7 +40,7 @@ def validate_pdf_file(file_path):
         return True  # Indicate valid PDF
     except RuntimeError as e:  # Catching RuntimeError for invalid PDFs
         log_message(
-            f"'{file_path}' is corrupt or invalid: {e}"
+            f"{e}"
         )  # Log the exception message
         return False  # Indicate invalid PDF
 
