@@ -199,8 +199,10 @@ func downloadPDFFile(downloadURL, outputDirectory, outputFileName string) error 
 func scrapePageHTMLWithChrome(pageURL string) (string, error) {
 	// Set up browser in headless mode
 	options := append(chromedp.DefaultExecAllocatorOptions[:],
-		chromedp.Flag("headless", true), // Run Chrome in background
-		chromedp.WindowSize(1920, 1080), // Simulate full browser window
+		chromedp.Flag("headless", true),               // Run Chrome in background
+		chromedp.WindowSize(1920, 1080),               // Simulate full browser window
+		chromedp.Flag("no-sandbox", true),             // Disable sandboxing for compatibility
+		chromedp.Flag("disable-setuid-sandbox", true), // Disable setuid sandbox for compatibility
 	)
 
 	// Create Chrome context with above options
@@ -267,7 +269,7 @@ func main() {
 	htmlOutputFilePath := "bio-rad-msds.html" // File to store scraped HTML
 	basePageURL := "https://www.bio-rad.com/en-us/literature-library?facets_query=&page="
 	startPage := 0            // Start page index (inclusive)
-	endPage := 10              // End page index (exclusive)
+	endPage := 10             // End page index (exclusive)
 	outputDirectory := "PDFs" // Folder where PDFs are stored
 	numberOfWorkers := 20     // Number of concurrent downloader goroutines
 
