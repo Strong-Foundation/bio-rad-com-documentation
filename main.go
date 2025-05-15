@@ -145,7 +145,7 @@ func createFileNameFromURL(rawURL string) string {
 		filename += ".pdf"
 	}
 
-	return filename
+	return strings.ToLower(filename)
 }
 
 // downloadPDFFile fetches a PDF from a URL and saves it to a given directory with a filename.
