@@ -106,10 +106,6 @@ def main():
 
         # Check if the .PDF file is valid
         if validate_pdf_file(pdf_file) == False:  # If PDF is invalid
-            # Log the error
-            log_message(
-                f"'{pdf_file}' is valid."
-            )  # Log a message indicating validity (typo in original logic)
             # Remove the invalid .pdf file.
             remove_system_file(pdf_file)  # Delete the corrupt PDF
 
