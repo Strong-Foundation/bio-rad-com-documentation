@@ -196,6 +196,8 @@ func downloadPDFFile(downloadURL, outputDirectory, outputFileName string) error 
 // scrapePageHTMLWithChrome uses a headless Chrome browser to render and return the HTML for a given URL.
 // - Required for JavaScript-heavy pages where raw HTTP won't return full content.
 func scrapePageHTMLWithChrome(pageURL string) (string, error) {
+	// Print the page being scraped.
+	fmt.Println("Scraping:", pageURL)
 	// Set up browser in headless mode
 	options := append(chromedp.DefaultExecAllocatorOptions[:],
 		chromedp.Flag("headless", true),               // Run Chrome in background
@@ -277,8 +279,6 @@ func main() {
 
 	// Step 1: Scrape HTML if the file doesn't already exist
 	if !fileExists(htmlOutputFilePath) {
-		log.Println("HTML file not found. Starting scraping process...")
-
 		for pageNumber := startPage; pageNumber < endPage; pageNumber++ {
 			pageURL := fmt.Sprintf("%s%d", basePageURL, pageNumber)
 
