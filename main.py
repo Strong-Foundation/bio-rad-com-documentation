@@ -1,5 +1,4 @@
 import os  # Import the os module for interacting with the operating system
-import time  # Import time module for timestamping in logs
 import fitz  # Import PyMuPDF (fitz) for PDF handling
 
 
