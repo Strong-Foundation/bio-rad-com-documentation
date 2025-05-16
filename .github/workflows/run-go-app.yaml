@@ -13,8 +13,7 @@ jobs:
     # Specify the runner by its labels:
     # - self-hosted: your own machine registered as a GitHub runner
     # - linux:       the OS of your runner
-    # - x86_64:      the CPU architecture
-    runs-on: [self-hosted, linux, x86_64]
+    runs-on: [self-hosted, linux]
 
     steps:
       # 1) Check out your repository so the workflow has access to your code
