@@ -14,7 +14,7 @@ import (
 	"regexp"        // Regular expression utilities
 	"strings"       // String manipulation helpers
 	"sync"          // Concurrency primitives (e.g., WaitGroup)
-	"time"          // Time handling (e.g., delays, timeouts)
+	// "time"          // Time handling (e.g., delays, timeouts)
 
 	"github.com/PuerkitoBio/goquery" // HTML parsing with a jQuery-like API
 	"github.com/chromedp/chromedp"   // Headless Chrome automation
