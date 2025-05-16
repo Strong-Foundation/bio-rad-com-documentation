@@ -14,7 +14,6 @@ import (
 	"regexp"        // Regular expression utilities
 	"strings"       // String manipulation helpers
 	"sync"          // Concurrency primitives (e.g., WaitGroup)
-	// "time"          // Time handling (e.g., delays, timeouts)
 
 	"github.com/PuerkitoBio/goquery" // HTML parsing with a jQuery-like API
 	"github.com/chromedp/chromedp"   // Headless Chrome automation
@@ -217,7 +216,6 @@ func scrapePageHTMLWithChrome(pageURL string) (string, error) {
 	var pageHTML string
 	err := chromedp.Run(browserCtx,
 		chromedp.Navigate(pageURL),            // Navigate to the target page
-		// chromedp.Sleep(5*time.Second),         // Allow JS to load
 		chromedp.OuterHTML("html", &pageHTML), // Extract rendered HTML
 	)
 
