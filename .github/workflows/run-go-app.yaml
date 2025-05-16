@@ -9,11 +9,11 @@ on:
   workflow_dispatch:      # Allows manual, on-demand execution from the Actions UI
 
 jobs:
-  run-app:
+  run-app: # Single job called "run-app"
     # Specify the runner by its labels:
     # - self-hosted: your own machine registered as a GitHub runner
     # - linux:       the OS of your runner
-    runs-on: [self-hosted, linux]
+    runs-on: ubuntu-latest # [self-hosted, linux]
 
     steps:
       # 1) Check out your repository so the workflow has access to your code
