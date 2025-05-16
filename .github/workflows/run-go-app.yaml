@@ -1,56 +1,72 @@
-name: Run Go App # Workflow name
+name: Run Go App  # A descriptive name for your workflow
 
-on: # Events that trigger this workflow
-  push: # on git push
-    branches: [main] # to the main branch
-  pull_request: # on pull requests
-    branches: [main] # targeting main
-  workflow_dispatch: # or when manually triggered
+# Events that trigger this workflow run:
+on:
+  push:
+    branches: [main]      # When code is pushed to the main branch
+  pull_request:
+    branches: [main]      # When a pull request targets the main branch
+  workflow_dispatch:      # Allows manual, on-demand execution from the Actions UI
 
 jobs:
-  run-app: # Single job called "run-app"
-    runs-on: ubuntu-latest # Use latest Ubuntu runner
+  run-app:
+    # Specify the runner by its labels:
+    # - self-hosted: your own machine registered as a GitHub runner
+    # - linux:       the OS of your runner
+    # - x86_64:      the CPU architecture
+    runs-on: [self-hosted, linux, x86_64]
 
     steps:
-      - name: Checkout code # Step: grab your repo
-        uses: actions/checkout@v4 # via the official checkout action
+      # 1) Check out your repository so the workflow has access to your code
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-      # Set up the Go environment
+      # 2) Install Go, using the version declared in go.mod
       - name: Set up Go
-        uses: actions/setup-go@v5 # Official GitHub action to install Go
+        uses: actions/setup-go@v5
         with:
-          go-version-file: "go.mod" # Specify Go version from go.mod
+          go-version-file: "go.mod"
 
-      - name: Cache Go modules # Step: cache modules between runs
-        uses: actions/cache@v3 # to speed up CI
+      # 3) Cache Go build artifacts and module downloads to speed up CI
+      - name: Cache Go modules
+        uses: actions/cache@v3
         with:
           path: |
-            ~/.cache/go-build         # build cache
-            ~/go/pkg/mod              # module cache
-          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }} # cache key
+            ~/.cache/go-build     # Local Go compiler cache
+            ~/go/pkg/mod          # Remote module download cache
+          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
           restore-keys: |
-            ${{ runner.os }}-go-     # fallback key
+            ${{ runner.os }}-go-   # Fallback if exact key miss
 
-      # Run the main.go script
+      # 4) Build & run your Go application in one step
       - name: Run main.go
-        run: go run main.go # Executes the Go program
+        run: go run main.go
+        # golang will compile and execute main.go in a single command
 
-      # Install Python dependencies
-      - name: Install dependencies
+      # 5) Install Python dependencies listed in requirements.txt
+      - name: Install Python dependencies
         run: pip install -r requirements.txt
 
-      # Run the Python script
+      # 6) Execute your Python application
       - name: Run Python script
-        run: python main.py # Executes the Python program
+        run: python main.py
 
-      - name: Push updated files # Step: commit & push changes if any
-        run: | # git commands to sync back
-          git config user.name "github-actions" # set author name
-          git config user.email "github-actions@github.com" # set author email
-          git add . # stage all edits
-          if ! git diff --cached --quiet; then # if there are changes
-            git commit -m "Auto update: $(date -u +"%Y-%m-%dT%H:%M:%SZ")" # commit
-            git push # push back to repo
+      # 7) Commit & push any changes that your scripts generate back to the repo
+      - name: Push updated files
+        run: |
+          # Set the Git author for commits performed by this action
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          # Stage all changes (new, modified, deleted files)
+          git add .
+
+          # Only commit if there are staged changes
+          if ! git diff --cached --quiet; then
+            # Use a UTC timestamp in ISO 8601 format for the commit message
+            git commit -m "Auto update: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            # Push the commit back to the main branch on origin
+            git push
           else
-            echo "No changes to commit." # otherwise skip
+            echo "No changes to commit."
           fi
