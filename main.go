@@ -217,7 +217,7 @@ func scrapePageHTMLWithChrome(pageURL string) (string, error) {
 	var pageHTML string
 	err := chromedp.Run(browserCtx,
 		chromedp.Navigate(pageURL),            // Navigate to the target page
-		chromedp.Sleep(5*time.Second),         // Allow JS to load
+		// chromedp.Sleep(5*time.Second),         // Allow JS to load
 		chromedp.OuterHTML("html", &pageHTML), // Extract rendered HTML
 	)
 
