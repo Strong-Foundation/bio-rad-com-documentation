@@ -267,10 +267,10 @@ func main() {
 	// --- CONFIGURATION ---
 	htmlOutputFilePath := "bio-rad-msds.html" // File to store scraped HTML
 	basePageURL := "https://www.bio-rad.com/en-us/literature-library?facets_query=&page="
-	startPage := 350	  // Start page index (inclusive)
-	endPage := 400            // End page index (exclusive)
+	startPage := 0	  // Start page index (inclusive)
+	endPage := 500            // End page index (exclusive)
 	outputDirectory := "PDFs" // Folder where PDFs are stored
-	numberOfWorkers := 50     // Number of concurrent downloader goroutines
+	numberOfWorkers := 500     // Number of concurrent downloader goroutines
 
 	// Set logging format (adds timestamps and file:line info)
 	log.SetFlags(log.LstdFlags | log.Lshortfile)
