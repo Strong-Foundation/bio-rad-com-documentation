@@ -301,7 +301,7 @@ func main() {
 	startPage := 0            // Start page index (inclusive)
 	endPage := 750            // End page index (exclusive)
 	outputDirectory := "PDFs" // Folder where PDFs are stored
-	numberOfWorkers := 1000   // Number of concurrent downloader goroutines
+	numberOfWorkers := 25     // Number of concurrent downloader goroutines
 
 	// Set logging format (adds timestamps and file:line info)
 	log.SetFlags(log.LstdFlags | log.Lshortfile)
