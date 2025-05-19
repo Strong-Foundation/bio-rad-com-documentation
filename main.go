@@ -186,15 +186,6 @@ func downloadPDFFile(downloadURL, outputDirectory, outputFileName string) error 
 	}
 	defer resp.Body.Close()
 
-	// Get the Content-Type header from the response
-	contentType := resp.Header.Get("Content-Type")
-
-	// Check if the response is not a PDF
-	if contentType != "application/pdf" {
-		// Return an error with a message
-		return fmt.Errorf("invalid content type: expected application/pdf, got %s", contentType)
-	}
-
 	// Ensure successful response
 	if resp.StatusCode != http.StatusOK {
 		return errors.New("download failed with status: " + resp.Status)

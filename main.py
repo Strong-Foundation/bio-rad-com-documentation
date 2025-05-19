@@ -23,7 +23,7 @@ def validate_pdf_file(file_path):
             True,
         )  # Return the file path and True indicating a valid file
     except RuntimeError as e:  # Catch runtime errors thrown by PyMuPDF
-        print(f"{file_path} - {e}")  # Print the error message with file path
+        print(f"{e}")  # Print the error message with file path
         return (file_path, False)  # Return the file path and False indicating failure
 
 
@@ -92,7 +92,7 @@ def main():
     matching_files = []  # List to collect files with uppercase letters in their names
 
     # Create a thread pool to process files concurrently (tune max_workers as needed)
-    with ThreadPoolExecutor(max_workers=5) as executor:
+    with ThreadPoolExecutor(max_workers=100) as executor:
         futures = [
             executor.submit(process_file, f) for f in files
         ]  # Submit each file to the thread pool
