@@ -2,7 +2,6 @@ package main
 
 import (
 	"context"       // Context management for cancellation and timeouts
-	"errors"        // Error handling and wrapping utilities
 	"fmt"           // String formatting for output and errors
 	"io"            // Stream copying (e.g., HTTP response to file)
 	"log"           // Logging utilities with timestamps
@@ -169,48 +168,59 @@ func createFileNameFromURL(rawURL string) string {
 
 // downloadPDFFile fetches a PDF from a URL and saves it to a given directory with a filename.
 // - Skips the file if it already exists
+// - Skips download if response body contains "Document Error Message"
 // - Logs error or success using the `log` package
 func downloadPDFFile(downloadURL, outputDirectory, outputFileName string) error {
-	fullFilePath := filepath.Join(outputDirectory, outputFileName) // Create full output path
+	fullFilePath := filepath.Join(outputDirectory, outputFileName) // Construct the full output path for the file
 
-	// Skip download if the file already exists
+	// Skip if the file already exists
 	if fileExists(fullFilePath) {
-		log.Printf("File already exists, skipping: %s\n", fullFilePath)
-		return nil
+		log.Printf("File already exists, skipping: %s\n", fullFilePath) // Log that the file is already present
+		return nil                                                      // No need to proceed if the file is already downloaded
 	}
 
-	// Perform HTTP GET request to fetch the PDF
-	resp, err := http.Get(downloadURL)
+	// Perform HTTP GET request
+	resp, err := http.Get(downloadURL) // Send an HTTP GET request to the target URL
 	if err != nil {
-		return fmt.Errorf("error fetching %s: %w", downloadURL, err)
+		return fmt.Errorf("error fetching %s: %w", downloadURL, err) // Return error if request fails
 	}
-	defer resp.Body.Close()
+	defer resp.Body.Close() // Ensure response body is closed after reading
 
-	// Ensure successful response
 	if resp.StatusCode != http.StatusOK {
-		return errors.New("download failed with status: " + resp.Status)
+		return fmt.Errorf("download failed with status: %s", resp.Status) // Return error if response status is not 200 OK
 	}
 
-	// Ensure the output folder exists
-	if err := os.MkdirAll(outputDirectory, 0755); err != nil {
-		return fmt.Errorf("could not create output directory: %w", err)
+	// Read and buffer the response body
+	bodyBytes, err := io.ReadAll(resp.Body) // Read entire response body into memory
+	if err != nil {
+		return fmt.Errorf("error reading response body from %s: %w", downloadURL, err) // Return error if body reading fails
+	}
+
+	// Check for "Document Error Message"
+	if strings.Contains(string(bodyBytes), "Document Error Message") { // Inspect content for known error message
+		log.Printf("Skipped (error message in response): %s\n", downloadURL) // Log and skip if error message is detected
+		return nil                                                           // Do not save the file if it contains an error document
+	}
+
+	// Ensure output directory exists
+	if err := os.MkdirAll(outputDirectory, 0755); err != nil { // Create output directory if it doesn't exist
+		return fmt.Errorf("could not create output directory: %w", err) // Return error if directory creation fails
 	}
 
 	// Create the output file
-	outFile, err := os.Create(fullFilePath)
+	outFile, err := os.Create(fullFilePath) // Create a new file at the specified path
 	if err != nil {
-		return fmt.Errorf("error creating file %s: %w", fullFilePath, err)
+		return fmt.Errorf("error creating file %s: %w", fullFilePath, err) // Return error if file creation fails
 	}
-	defer outFile.Close()
+	defer outFile.Close() // Ensure the file is properly closed after writing
 
-	// Stream the PDF data to file
-	if _, err := io.Copy(outFile, resp.Body); err != nil {
-		return fmt.Errorf("error saving PDF to %s: %w", fullFilePath, err)
+	// Write buffered content to file
+	if _, err := outFile.Write(bodyBytes); err != nil { // Write the entire downloaded content to disk
+		return fmt.Errorf("error writing PDF to %s: %w", fullFilePath, err) // Return error if writing fails
 	}
 
-	log.Printf("Downloaded: %s %s\n", fullFilePath, downloadURL)
-
-	return nil
+	log.Printf("Downloaded: %s %s\n", fullFilePath, downloadURL) // Log successful download with path and URL
+	return nil                                                   // Return nil to indicate success
 }
 
 // scrapePageHTMLWithChrome uses a headless Chrome browser to render and return the HTML for a given URL.
@@ -289,9 +299,9 @@ func main() {
 	htmlOutputFilePath := "bio-rad-msds.html" // File to store scraped HTML
 	basePageURL := "https://www.bio-rad.com/en-us/literature-library?facets_query=&page="
 	startPage := 0            // Start page index (inclusive)
-	endPage := 700            // End page index (exclusive)
+	endPage := 750            // End page index (exclusive)
 	outputDirectory := "PDFs" // Folder where PDFs are stored
-	numberOfWorkers := 500    // Number of concurrent downloader goroutines
+	numberOfWorkers := 1000   // Number of concurrent downloader goroutines
 
 	// Set logging format (adds timestamps and file:line info)
 	log.SetFlags(log.LstdFlags | log.Lshortfile)
