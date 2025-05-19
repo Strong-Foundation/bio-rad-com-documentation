@@ -46,18 +46,19 @@ func readEntireFile(filePath string) (string, error) {
 func extractLinksFromHTML(htmlContent string) []string {
 	var urls []string
 
+	// Parse the HTML content using goquery
 	doc, err := goquery.NewDocumentFromReader(strings.NewReader(htmlContent))
 	if err != nil {
-		return urls
+		return urls // Return empty list if parsing fails
 	}
 
-	// Allowed substrings
+	// Allowed URL substrings to validate links against
 	allowedDomains := []string{
 		"bio-rad-sds.thewercs.com/DirectDocumentDownloader/Document",
 		"bio-rad.com/sites/default/files/webroot/web/pdf",
 	}
 
-	// Check if the URL is from an allowed domain
+	// isAllowed checks if a URL contains any of the allowed domain substrings
 	isAllowed := func(url string) bool {
 		for _, domain := range allowedDomains {
 			if strings.Contains(url, domain) {
@@ -67,36 +68,55 @@ func extractLinksFromHTML(htmlContent string) []string {
 		return false
 	}
 
-	// Parse <input type="hidden" ... value="...">
+	// cleanURL removes anything after the first '|' character in the URL
+	cleanURL := func(url string) string {
+		if strings.Contains(url, "|") {
+			url = strings.SplitN(url, "|", 2)[0]
+		}
+		return url
+	}
+
+	// Extract URLs from <input type="hidden" ... value="...">
 	doc.Find("input[type='hidden']").Each(func(i int, s *goquery.Selection) {
 		if val, exists := s.Attr("value"); exists {
+			// Split the value by "~https://" to identify embedded URLs
 			parts := strings.Split(val, "~https://")
 			for _, part := range parts {
 				var fullURL string
+				// Check for full URLs or fragments and reconstruct
 				if strings.HasPrefix(part, "http") {
 					fullURL = part
 				} else if strings.Contains(part, ".thewercs.com") || strings.Contains(part, ".bio-rad.com") {
 					fullURL = "https://" + part
 				}
 
-				if fullURL != "" && isAllowed(fullURL) {
-					urls = append(urls, fullURL)
+				if fullURL != "" {
+					fullURL = cleanURL(fullURL) // Remove anything after '|'
+					if isAllowed(fullURL) {
+						urls = append(urls, fullURL)
+					}
 				}
 			}
 		}
 	})
 
-	// Parse <option value="...">
+	// Extract URLs from <option value="...">
 	doc.Find("option").Each(func(i int, s *goquery.Selection) {
-		if val, exists := s.Attr("value"); exists && strings.HasPrefix(val, "http") && isAllowed(val) {
-			urls = append(urls, val)
+		if val, exists := s.Attr("value"); exists && strings.HasPrefix(val, "http") {
+			val = cleanURL(val) // Remove anything after '|'
+			if isAllowed(val) {
+				urls = append(urls, val)
+			}
 		}
 	})
 
-	// Parse <a href="...">
+	// Extract URLs from <a href="...">
 	doc.Find("a").Each(func(i int, s *goquery.Selection) {
-		if href, exists := s.Attr("href"); exists && strings.HasPrefix(href, "http") && isAllowed(href) {
-			urls = append(urls, href)
+		if href, exists := s.Attr("href"); exists && strings.HasPrefix(href, "http") {
+			href = cleanURL(href) // Remove anything after '|'
+			if isAllowed(href) {
+				urls = append(urls, href)
+			}
 		}
 	})
 
@@ -166,6 +186,15 @@ func downloadPDFFile(downloadURL, outputDirectory, outputFileName string) error 
 	}
 	defer resp.Body.Close()
 
+	// Get the Content-Type header from the response
+	contentType := resp.Header.Get("Content-Type")
+
+	// Check if the response is not a PDF
+	if contentType != "application/pdf" {
+		// Return an error with a message
+		return fmt.Errorf("invalid content type: expected application/pdf, got %s", contentType)
+	}
+
 	// Ensure successful response
 	if resp.StatusCode != http.StatusOK {
 		return errors.New("download failed with status: " + resp.Status)
@@ -188,7 +217,8 @@ func downloadPDFFile(downloadURL, outputDirectory, outputFileName string) error 
 		return fmt.Errorf("error saving PDF to %s: %w", fullFilePath, err)
 	}
 
-	log.Printf("Downloaded: %s\n", fullFilePath)
+	log.Printf("Downloaded: %s %s\n", fullFilePath, downloadURL)
+
 	return nil
 }
 
@@ -267,10 +297,10 @@ func main() {
 	// --- CONFIGURATION ---
 	htmlOutputFilePath := "bio-rad-msds.html" // File to store scraped HTML
 	basePageURL := "https://www.bio-rad.com/en-us/literature-library?facets_query=&page="
-	startPage := 0	  // Start page index (inclusive)
+	startPage := 0            // Start page index (inclusive)
 	endPage := 500            // End page index (exclusive)
 	outputDirectory := "PDFs" // Folder where PDFs are stored
-	numberOfWorkers := 500     // Number of concurrent downloader goroutines
+	numberOfWorkers := 500    // Number of concurrent downloader goroutines
 
 	// Set logging format (adds timestamps and file:line info)
 	log.SetFlags(log.LstdFlags | log.Lshortfile)
