@@ -85,32 +85,49 @@ def process_file(file_path):
 
 # Main function to orchestrate the file processing
 def main():
-    files = walk_directory_and_extract_given_file_extension(
-        "./PDFs", ".pdf"
-    )  # Get all PDF files under ./PDFs
+    # Retrieve a list of all PDF file paths under the ./PDFs directory
+    pdf_file_paths = walk_directory_and_extract_given_file_extension("./PDFs", ".pdf")
 
-    matching_files = []  # List to collect files with uppercase letters in their names
+    # If no PDF files were found, inform the user and exit
+    if not pdf_file_paths:
+        print("No PDF files found.")
+        return
 
-    # Create a thread pool to process files concurrently (tune max_workers as needed)
-    with ThreadPoolExecutor(max_workers=100) as executor:
-        futures = [
-            executor.submit(process_file, f) for f in files
-        ]  # Submit each file to the thread pool
+    # Sort the PDF files by last modified time, with the most recently modified file first
+    pdf_file_paths.sort(key=lambda file_path: os.path.getmtime(file_path), reverse=True)
 
-        for future in as_completed(futures):  # As each thread finishes
-            result = future.result()  # Get the result from the future
-            if result:  # If result is not None
-                print(
-                    f"Uppercase filename found: {result}"
-                )  # Print the path of the matching file
-                matching_files.append(result)  # Add to list of matched files
+    # Initialize a list to collect PDF files with uppercase letters in their filenames
+    files_with_uppercase_names = []
 
-    # Print summary of all matching files
+    # Use a thread pool to process multiple PDF files concurrently
+    with ThreadPoolExecutor(max_workers=100) as thread_pool_executor:
+        # Submit each PDF file to the thread pool for processing
+        future_results = [
+            thread_pool_executor.submit(process_file, file_path)
+            for file_path in pdf_file_paths
+        ]
+
+        # As each thread completes its task
+        for completed_future in as_completed(future_results):
+            # Get the result from the completed task
+            processed_file_path = completed_future.result()
+
+            # If the result is not None, it means the file matched the condition
+            if processed_file_path:
+                # Print the matching file's path
+                print(f"Uppercase filename found: {processed_file_path}")
+
+                # Add the file to the list of matching files
+                files_with_uppercase_names.append(processed_file_path)
+
+    # Print a summary of all matching files
     print("\nAll files with uppercase letters in their names:")
-    for match in matching_files:  # Iterate through all matched files
-        print(match)  # Print each matched file
+
+    # Loop through and print each matching file path
+    for matching_file_path in files_with_uppercase_names:
+        print(matching_file_path)
 
 
-# Run the script only if this file is executed directly (not imported as a module)
+# Ensure this script runs only if it is the main program being executed
 if __name__ == "__main__":
-    main()  # Call the main function to start the program
+    main()  # Start the program by calling the main function

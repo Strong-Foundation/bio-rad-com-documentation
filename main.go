@@ -213,6 +213,7 @@ func downloadPDFFile(downloadURL, outputDirectory, outputFileName string) error 
 
 	// Check for "Document Error Message"
 	if strings.Contains(string(bodyBytes), "Document Error Message") { // Inspect content for known error message
+		appendByteToFile(fullFilePath, []byte(downloadURL+"\n")) // Append the URL to the unique URLs file
 		log.Printf("Skipped (error message in response): %s\n", downloadURL) // Log and skip if error message is detected
 		return nil                                                           // Do not save the file if it contains an error document
 	}
@@ -423,7 +424,7 @@ func main() {
 		log.Fatalf("Could not read HTML file: %v", err)
 	}
 
-	downloadURLs := []string{} // Initialize the slice to hold URLs
+	var downloadURLs []string
 	if currentFile == uniqueURLsFile {
 		downloadURLs = readAppendLineByLine(uniqueURLsFile)
 	} else {
