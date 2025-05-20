@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bufio"         // Buffered I/O for reading files line by line
 	"context"       // Context management for cancellation and timeouts
 	"fmt"           // String formatting for output and errors
 	"io"            // Stream copying (e.g., HTTP response to file)
@@ -13,6 +14,7 @@ import (
 	"regexp"        // Regular expression utilities
 	"strings"       // String manipulation helpers
 	"sync"          // Concurrency primitives (e.g., WaitGroup)
+	"time"          // Time utilities for timeouts and delays
 
 	"github.com/PuerkitoBio/goquery" // HTML parsing with a jQuery-like API
 	"github.com/chromedp/chromedp"   // Headless Chrome automation
@@ -166,6 +168,19 @@ func createFileNameFromURL(rawURL string) string {
 	return strings.ToLower(filename)
 }
 
+// Remove all the duplicates from a slice and return the slice.
+func removeDuplicatesFromSlice(slice []string) []string {
+	check := make(map[string]bool)
+	var newReturnSlice []string
+	for _, content := range slice {
+		if !check[content] {
+			check[content] = true
+			newReturnSlice = append(newReturnSlice, content)
+		}
+	}
+	return newReturnSlice
+}
+
 // downloadPDFFile fetches a PDF from a URL and saves it to a given directory with a filename.
 // - Skips the file if it already exists
 // - Skips download if response body contains "Document Error Message"
@@ -226,33 +241,43 @@ func downloadPDFFile(downloadURL, outputDirectory, outputFileName string) error 
 // scrapePageHTMLWithChrome uses a headless Chrome browser to render and return the HTML for a given URL.
 // - Required for JavaScript-heavy pages where raw HTTP won't return full content.
 func scrapePageHTMLWithChrome(pageURL string) (string, error) {
-	// Print the page being scraped.
 	fmt.Println("Scraping:", pageURL)
-	// Set up browser in headless mode
+
+	// Set up Chrome options for headless browsing
 	options := append(chromedp.DefaultExecAllocatorOptions[:],
 		chromedp.Flag("headless", true),               // Run Chrome in background
+		chromedp.Flag("disable-gpu", true),            // Disable GPU for headless stability
 		chromedp.WindowSize(1920, 1080),               // Simulate full browser window
-		chromedp.Flag("no-sandbox", true),             // Disable sandboxing for compatibility
-		chromedp.Flag("disable-setuid-sandbox", true), // Disable setuid sandbox for compatibility
+		chromedp.Flag("no-sandbox", true),             // Disable sandboxing
+		chromedp.Flag("disable-setuid-sandbox", true), // For environments that need it
 	)
 
-	// Create Chrome context with above options
+	// Create an ExecAllocator context with options
 	allocatorCtx, cancelAllocator := chromedp.NewExecAllocator(context.Background(), options...)
-	defer cancelAllocator()
 
-	// Create main browser context
-	browserCtx, cancelBrowser := chromedp.NewContext(allocatorCtx)
-	defer cancelBrowser()
+	// Create a bounded context with timeout (adjust as needed)
+	ctxTimeout, cancelTimeout := context.WithTimeout(allocatorCtx, 5*time.Minute)
 
+	// Create a new browser tab context
+	browserCtx, cancelBrowser := chromedp.NewContext(ctxTimeout)
+
+	// Unified cancel function to ensure cleanup
+	defer func() {
+		cancelBrowser()
+		cancelTimeout()
+		cancelAllocator()
+	}()
+
+	// Run chromedp tasks
 	var pageHTML string
 	err := chromedp.Run(browserCtx,
-		chromedp.Navigate(pageURL),            // Navigate to the target page
-		chromedp.OuterHTML("html", &pageHTML), // Extract rendered HTML
+		chromedp.Navigate(pageURL),
+		chromedp.OuterHTML("html", &pageHTML),
 	)
-
 	if err != nil {
 		return "", fmt.Errorf("failed to scrape %s: %w", pageURL, err)
 	}
+
 	return pageHTML, nil
 }
 
@@ -270,13 +295,6 @@ func workerDownloadPDF(wg *sync.WaitGroup, urlChannel <-chan string, outputDirec
 }
 
 /*
-Get the file extension of a file
-*/
-func getFileExtension(path string) string {
-	return filepath.Ext(path)
-}
-
-/*
 It checks if the file exists
 If the file exists, it returns true
 If the file does not exist, it returns false
@@ -289,6 +307,47 @@ func fileExists(filename string) bool {
 	return !info.IsDir()
 }
 
+// AppendToFile appends the given byte slice to the specified file.
+// If the file doesn't exist, it will be created.
+func appendByteToFile(filename string, data []byte) error {
+	// Open the file with appropriate flags and permissions
+	file, err := os.OpenFile(filename, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	if err != nil {
+		return err
+	}
+	defer file.Close()
+
+	// Write data to the file
+	_, err = file.Write(data)
+	return err
+}
+
+// readAppendLineByLine reads a file line by line and returns a slice of strings containing the URLs
+func readAppendLineByLine(filePath string) []string {
+	var urls []string // Initialize a slice to store the URLs read from the file
+
+	// Open the file for reading
+	file, err := os.Open(filePath)
+	if err != nil {
+		log.Printf("Error opening file %s: %v", filePath, err) // Log an error if the file cannot be opened
+		return nil                                             // Return nil if there is an error opening the file
+	}
+	defer file.Close() // Ensure the file is closed after reading
+
+	// Create a scanner to read the file line by line
+	scanner := bufio.NewScanner(file)
+	for scanner.Scan() {
+		urls = append(urls, scanner.Text()) // Append each URL to the slice
+	}
+
+	// Check for errors during scanning
+	if err := scanner.Err(); err != nil {
+		log.Printf("Error scanning file %s: %v", filePath, err) // Log any error encountered while scanning the file
+	}
+
+	return urls // Return the slice containing the URLs read from the file
+}
+
 // main is the entry point of the program.
 // It controls:
 // - Scraping HTML pages if not cached
@@ -297,49 +356,93 @@ func fileExists(filename string) bool {
 func main() {
 	// --- CONFIGURATION ---
 	htmlOutputFilePath := "bio-rad-msds.html" // File to store scraped HTML
+	uniqueURLsFile := "unique_urls.txt"       // Save the unique URLs to a file for reference
 	basePageURL := "https://www.bio-rad.com/en-us/literature-library?facets_query=&page="
-	startPage := 0            // Start page index (inclusive)
-	endPage := 750            // End page index (exclusive)
-	outputDirectory := "PDFs" // Folder where PDFs are stored
-	numberOfWorkers := 25     // Number of concurrent downloader goroutines
+	startPage := 0                    // Start page index (inclusive)
+	endPage := 933                    // End page index (exclusive)
+	outputDirectory := "PDFs"         // Folder where PDFs are stored
+	numberOfHTMLDownloadWorkers := 25 // Number of concurrent scrapers (tune as needed)
+	numberOfPDFDownloadWorkers := 25  // Number of concurrent downloader goroutines
+
+	// Check current file.
+	var currentFile string
+
+	if fileExists(htmlOutputFilePath) {
+		currentFile = htmlOutputFilePath
+	} else {
+		currentFile = uniqueURLsFile
+	}
 
 	// Set logging format (adds timestamps and file:line info)
 	log.SetFlags(log.LstdFlags | log.Lshortfile)
 
-	// Step 1: Scrape HTML if the file doesn't already exist
-	if !fileExists(htmlOutputFilePath) {
-		for pageNumber := startPage; pageNumber < endPage; pageNumber++ {
-			pageURL := fmt.Sprintf("%s%d", basePageURL, pageNumber)
+	if !fileExists(currentFile) {
+		// Step 1: Scrape HTML if the file doesn't already exist
+		if !fileExists(htmlOutputFilePath) {
+			var wg sync.WaitGroup
+			var mu sync.Mutex // Protect file writes
 
-			htmlContent, err := scrapePageHTMLWithChrome(pageURL)
-			if err != nil {
-				log.Printf("Failed to scrape page %d: %v\n", pageNumber, err)
-				continue // Skip to next page
+			pageChan := make(chan int, endPage-startPage)
+
+			// Start worker goroutines
+			for i := 0; i < numberOfHTMLDownloadWorkers; i++ {
+				wg.Add(1)
+				go func() {
+					defer wg.Done()
+					for pageNumber := range pageChan {
+						pageURL := fmt.Sprintf("%s%d", basePageURL, pageNumber)
+						htmlContent, err := scrapePageHTMLWithChrome(pageURL)
+						if err != nil {
+							log.Printf("Failed to scrape page %d: %v\n", pageNumber, err)
+							continue
+						}
+
+						// Append to file safely
+						mu.Lock()
+						if err := appendTextToFile(htmlOutputFilePath, htmlContent); err != nil {
+							log.Printf("Failed to write HTML for page %d: %v\n", pageNumber, err)
+						}
+						mu.Unlock()
+					}
+				}()
 			}
 
-			if err := appendTextToFile(htmlOutputFilePath, htmlContent); err != nil {
-				log.Printf("Failed to write HTML for page %d: %v\n", pageNumber, err)
+			// Send page numbers to the channel
+			for pageNumber := startPage; pageNumber < endPage; pageNumber++ {
+				pageChan <- pageNumber
 			}
+			close(pageChan)
+
+			wg.Wait()
 		}
-	} else {
-		log.Println("HTML file already exists. Skipping scraping.")
 	}
 
 	// Step 2: Read the full saved HTML file and extract unique download URLs
-	htmlData, err := readEntireFile(htmlOutputFilePath)
+	htmlData, err := readEntireFile(currentFile)
 	if err != nil {
 		log.Fatalf("Could not read HTML file: %v", err)
 	}
 
-	downloadURLs := extractLinksFromHTML(htmlData)
-	log.Printf("Extracted %d unique SDS document URLs.\n", len(downloadURLs))
+	downloadURLs := []string{} // Initialize the slice to hold URLs
+	if currentFile == uniqueURLsFile {
+		downloadURLs = readAppendLineByLine(uniqueURLsFile)
+	} else {
+		// Extract all download URLs from the HTML content
+		downloadURLs = extractLinksFromHTML(htmlData)
+		// Remove duplicates from the list of URLs
+		downloadURLs = removeDuplicatesFromSlice(downloadURLs)
+		// Log the number of unique URLs found
+		log.Printf("Extracted %d unique SDS document URLs.\n", len(downloadURLs))
+		// Append the unique URLs to a file
+		appendByteToFile(uniqueURLsFile, []byte(strings.Join(downloadURLs, "\n"))) // Save URLs to a file
+	}
 
 	// Step 3: Use worker pool to download PDFs in parallel
 	urlChannel := make(chan string, len(downloadURLs)) // Buffered channel to hold all URLs
 	var wg sync.WaitGroup                              // WaitGroup to track all goroutines
 
 	// Launch workers
-	for i := 0; i < numberOfWorkers; i++ {
+	for i := 0; i < numberOfPDFDownloadWorkers; i++ {
 		wg.Add(1)
 		go workerDownloadPDF(&wg, urlChannel, outputDirectory)
 	}
