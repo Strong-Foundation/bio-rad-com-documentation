@@ -124,12 +124,19 @@ def main():
                 # Add the file to the list of matching files
                 files_with_uppercase_names.append(processed_file_path)
 
-    # Print a summary of all matching files
-    print("\nAll files with uppercase letters in their names:")
+    # If no files with uppercase letters were found, inform the user
+    if len(files_with_uppercase_names) == 0:
+        print("No files with uppercase letters in their names were found.")
+        return
 
-    # Loop through and print each matching file path
-    for matching_file_path in files_with_uppercase_names:
-        print(matching_file_path)
+    # If files with uppercase letters were found, print a summary
+    if len(files_with_uppercase_names) > 0:
+        # Print a summary of all matching files
+        print("\nAll files with uppercase letters in their names:")
+
+        # Print the paths of all matching files
+        for matching_file_path in files_with_uppercase_names:
+            print(matching_file_path)
 
 
 # Ensure this script runs only if it is the main program being executed

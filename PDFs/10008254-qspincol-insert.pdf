@@ -1,0 +1,3273 @@
+%PDF-1.3
+%âãÏÓ
+1 0 obj
+<<
+/OPM 1
+/Type/ExtGState
+>>
+endobj
+2 0 obj
+<<
+/OP true
+/Type/ExtGState
+/SA true
+>>
+endobj
+3 0 obj
+<<
+/OP false
+/Type/ExtGState
+>>
+endobj
+4 0 obj
+<<
+/OP true
+/Type/ExtGState
+>>
+endobj
+5 0 obj
+<<
+/Length 20188
+>>
+stream
+/GS0 gs
+1 g
+0 360 0 0 re
+f
+q
+BT
+/F0 1 Tf
+9 0 0 9 24.0678 334.5752 Tm
+0 g
+[(4.)-443(Centrifuge the spin column at ~80 x g (1,000 rpm)*)]TJ
+1.27691 -1.33333 TD
+[(for 30 seconds to r)18(emove the buf)17(fer)92(.)]TJ
+-1.27691 -1.66933 TD
+[(5.)-443(Replace the bottom cap of the spin column.)]TJ
+0 -1.66934 TD
+[(6.)-443(Add 200 )-1<B5>1(l 50 mM T)91(ris buf)18(fer)91(, pH 9 to the column,)]TJ
+1.27691 -1.33333 TD
+[(then r)18(eplace the top cap on the column.)]TJ
+-1.27691 -1.66934 TD
+[(7.)-443(V)55(ortex the column to mix the sorbent with )]TJ
+1.27691 -1.33333 TD
+[(the buf)18(fer)91(.)]TJ
+-1.27691 -1.66934 TD
+[(8.)-443(Remove the top and bottom caps of the spin)]TJ
+1.27691 -1.33333 TD
+(column; set the column upright in a new 1.5 ml)Tj
+0 -1.33334 TD
+(micr)Tj
+1.8335 0 TD
+(ocentrifuge tube.)Tj
+-3.11041 -1.66934 TD
+-0.0003 Tc
+(9.)Tj
+1.27691 0 TD
+0 Tc
+(Centrifuge the spin column for 30 seconds to)Tj
+0 -1.33334 TD
+[(r)18(emove the buf)18(fer)91(.)]TJ
+-1.80503 -1.66933 TD
+(1)Tj
+0.52812 0 TD
+-0.0003 Tc
+(0.)Tj
+1.27691 0 TD
+0 Tc
+(Repeat steps 5\3209 twice, for a total of thr)Tj
+17.25977 0 TD
+(ee )Tj
+-17.25977 -1.33334 TD
+(buf)Tj
+1.35181 0 TD
+(fer washes.)Tj
+-3.15684 -1.66934 TD
+[(1)28(1.)-444(Replace the bottom cap on the spin column. )]TJ
+1.80503 -1.33334 TD
+(The sample can now be added to the spin column.)Tj
+-1.805 -1.6693 TD
+(1)Tj
+0.5281 0 TD
+-0.0003 Tc
+(2.)Tj
+1.2769 0 TD
+0 Tc
+(If the column is not used right away)Tj
+15.14624 0 TD
+-0.0002 Tc
+(,)Tj
+0.55569 0 Td
+0 Tc
+(add 0.5 ml)Tj
+-15.7019 -1.3333 TD
+[(buf)18(fer)91(, pH 9 to pr)18(event dehydration.)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+7 0 0 7 19 94.3592 Tm
+0 g
+-0.0001 Tc
+(*)Tj
+0.6297 0 Td
+0 Tc
+(Recommended speeds for an Eppendorf 5417R centrifuge.)Tj
+ET
+0.5 w 
+0 G
+19 19.35 m
+233 19.35 l
+S
+BT
+/F0 1 Tf
+7 0 0 7 19 10.1 Tm
+-0.0168 Tc
+<A9>Tj
+1.0722 0 Td
+-0.017 Tc
+0.028 Tw
+(2006 Bio-Rad Laboratories, Inc.)Tj
+34.78495 46.70042 TD
+0 Tc
+0 Tw
+[(Eppendorf is a trademark of Eppendorf-Netheler)54(-)1(Hinz Gmb)-1(H. Hyper)1(D i)-1(s)]TJ
+0 -1.28571 TD
+-0.0001 Tc
+(a)Tj
+0.79672 0 Td
+0 Tc
+(trademark of Pall Corporation.)Tj
+-0.79672 -2.57486 TD
+[(The SELDI pr)18(ocess is cover)17(ed by US patents 5,719,060, 5,894,063,)]TJ
+0 -1.28572 TD
+(6,020,208, 6,027,942, 6,124,137, 6,225,047, 6,528,320, 6,579,719,)Tj
+0 -1.28571 TD
+[(and 6,734,022. Additional US and for)18(eign patents ar)17(e pending. )]TJ
+ET
+Q
+q
+BT
+/F1 1 Tf
+17 0 0 17 522 287.0642 Tm
+0 g
+-0.006 Tc
+[(Pr)18(oteinChi)-1(p)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+6 0 0 6 609.4196 294.8891 Tm
+0 g
+<A8>Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+17 0 0 17 617.3018 287.0642 Tm
+0 g
+-0.006 Tc
+(Q)Tj
+-5.60599 -1.05882 TD
+(Spin Columns)Tj
+0 -2.72706 TD
+0 Tc
+(Instruction Manual)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+13 0 0 13 522 169.8443 Tm
+0 g
+0.028 Tw
+(Catalog #C54-00017)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10 0 0 10 522 122.4844 Tm
+0 g
+0.028 Tw
+(For technical suppor)Tj
+8.87002 0 TD
+0 Tw
+(t,)Tj
+-8.87002 -1.3 TD
+0.028 Tw
+(call your local Bio-Rad of)Tj
+10.79766 0 TD
+(fice, or )Tj
+-10.79766 -1.3 TD
+(in the US, call )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+10 0 0 10 584.9546 96.4844 Tm
+0 g
+(1-800-4BIORAD )Tj
+-6.29546 -1.3 TD
+((1-800-424-6723))Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10 0 0 10 609.4145 83.4844 Tm
+0 g
+(.)Tj
+ET
+q
+504.65 10.5 252 36 re
+W n
+q
+589.869 39.8789 m
+589.869 18.321 l
+670.9315 18.321 l
+670.9315 39.8789 l
+W n
+0 0 0 1 k
+659.3326 39.7809 m
+659.4143 39.6684 659.4143 39.8143 659.3326 39.7809 c
+672.0152 39.6684 671.3393 28.5454 670.3707 25.5408 c
+669.0356 21.8029 665.5157 18.3729 658.4554 18.4146 c
+601.3775 18.4146 l
+595.4518 18.5821 591.3825 21.867 590.4584 25.6692 c
+588.9326 29.9318 590.5291 39.3595 600.876 39.777 c
+600.9595 39.777 604.5486 39.777 y
+659.3326 39.7809 l
+f
+/GS1 gs
+4 M 0.1867 w 
+0 0 0 1 K
+659.3326 39.7809 m
+659.4143 39.6684 659.4143 39.8143 659.3326 39.7809 c
+672.0152 39.6684 671.3393 28.5454 670.3707 25.5408 c
+669.0356 21.8029 665.5157 18.3729 658.4554 18.4146 c
+601.3775 18.4146 l
+595.4518 18.5821 591.3825 21.867 590.4584 25.6692 c
+588.9326 29.9318 590.5291 39.3595 600.876 39.777 c
+600.9595 39.777 604.5486 39.777 y
+s
+/GS2 gs
+0 0 0 0 k
+625.4894 32.9013 m
+626.7568 30.6148 625.9056 27.677 624.3201 25.7913 c
+622.5187 23.5044 619.2245 23.0566 616.7149 23.6547 c
+615.0519 24.1619 614.2614 25.3075 613.9608 26.592 c
+613.5938 29.1619 614.5576 31.6326 616.394 33.4348 c
+618.0292 35.0036 620.4612 35.3086 622.6976 34.8911 c
+623.7496 34.6077 624.8544 33.9696 625.4894 32.9013 c
+f
+606.7111 24.168 m
+605.8476 23.7795 605.1761 23.6678 603.6306 23.6507 c
+597.3613 23.6507 l
+599.646 34.5659 l
+606.3425 34.5615 l
+608.9286 34.5615 609.6388 32.5589 608.8065 30.9303 c
+608.385 30.105 607.692 29.7024 607.1014 29.4643 c
+607.093 29.4564 607.1176 29.4753 607.1014 29.4797 c
+607.093 29.4296 607.1343 29.4511 607.1014 29.4797 c
+607.093 29.4713 607.093 29.4511 607.1014 29.4797 c
+609.655 28.4465 608.9136 25.1607 606.7111 24.168 c
+f
+611.9916 23.6451 m
+608.9374 23.6451 l
+611.3236 34.5031 l
+614.3282 34.5031 l
+611.9916 23.6451 l
+f
+638.7617 34.5822 m
+644.2057 34.6661 642.684 29.4511 639.6543 28.6113 c
+639.6543 28.5911 639.6587 28.5951 639.6543 28.6113 c
+641.4525 28.0527 641.3062 25.5382 641.1813 23.6402 c
+637.6525 23.6389 l
+637.6843 24.2229 639.3247 28.1156 636.8212 28.0105 c
+634.366 28.0105 l
+634.3739 28.0027 633.7555 25.1005 633.4382 23.6481 c
+630.4525 23.6481 l
+630.4658 23.6402 631.3486 28.0018 631.3574 28.0105 c
+628.1508 28.0154 l
+628.6227 30.1968 l
+631.8145 30.1973 l
+632.826 34.5822 l
+638.7617 34.5822 l
+f
+0 0 0 1 k
+604.7855 32.5339 m
+606.8908 32.5339 605.9878 30.3994 604.8615 30.3581 c
+604.0063 30.3581 601.6802 30.3581 601.6899 30.3476 c
+602.1285 32.5378 l
+602.1364 32.5295 604.7855 32.5339 y
+f
+622.3016 31.9912 m
+623.4073 30.9316 622.6725 28.6785 621.9382 27.4437 c
+621.1335 26.196 620.2573 25.9245 619.8609 25.8207 c
+618.6299 25.5905 617.8495 25.9913 617.516 26.592 c
+616.9196 27.5311 617.3116 30.3559 618.5637 31.6242 c
+619.431 32.6758 621.3001 32.9426 622.3016 31.9912 c
+f
+637.7396 32.4965 m
+639.7835 32.3713 639.3664 30.243 637.8855 30.1802 c
+637.9062 30.1393 634.8309 30.1885 634.8309 30.1683 c
+635.3508 32.4952 l
+637.7391 32.4979 637.7396 32.4965 v
+f
+603.9219 28.3657 m
+606.6865 28.4491 606.3736 25.6727 604.1518 25.8291 c
+604.1518 25.8309 600.7201 25.8291 600.7095 25.8291 c
+600.7201 25.841 601.2728 28.3657 y
+601.2834 28.3657 603.9219 28.3657 y
+f
+0 0 0 0 k
+652.2152 23.6718 m
+654.5329 34.5286 l
+660.2272 34.5286 l
+662.9818 34.3405 663.9978 32.6982 664.3318 31.2076 c
+664.788 28.7216 664.359 23.776 658.1012 23.6718 c
+658.103 23.6846 658.0792 23.6718 658.1012 23.6718 c
+652.2152 23.6718 l
+f
+652.7751 23.6718 m
+649.7542 23.6741 l
+649.7525 23.6687 649.3341 25.5074 649.3095 25.529 c
+644.4017 25.529 l
+644.4114 25.5074 643.2754 23.6714 643.2754 23.6415 c
+640.4268 23.6424 l
+646.9821 34.5431 l
+646.9857 34.5387 650.431 34.547 650.4451 34.5431 c
+650.4451 34.5519 652.7751 23.6718 y
+f
+0 0 0 1 k
+659.061 32.5168 m
+662.3569 32.5168 662.2716 25.7373 657.4324 25.6744 c
+657.4359 25.6753 655.6481 25.6753 655.6481 25.6744 c
+657.1001 32.5141 l
+657.1125 32.5106 659.0627 32.5163 659.061 32.5168 c
+f
+645.7095 27.677 m
+648.0245 31.6396 l
+648.8402 27.677 l
+645.7095 27.677 l
+f
+Q
+Q
+q
+252 1.5 252 241.5 re
+W n
+q
+264.509 228.053 m
+264.509 7.242 l
+490.468 7.242 l
+490.468 228.053 l
+W n
+/GS1 gs
+4 M 0.75 w 
+0 0 0 1 K
+487.242 194.8283 m
+271.3059 194.8283 l
+S
+BT
+/F3 1 Tf
+8 0 0 8 271.3059 181.0803 Tm
+0 g
+(Life Science)Tj
+0 -1.125 TD
+(Group)Tj
+ET
+487.242 20.022 m
+271.3059 20.022 l
+S
+BT
+/F3 1 Tf
+6 0 0 6 416.679 8.528 Tm
+-0.012 Tc
+[(06-0735    1206    Sig 1)40(106)]TJ
+-24.22886 -0.00417 TD
+(10008254    US/EG    Rev D)Tj
+ET
+/GS2 gs
+0 0 0 1 k
+327.7024 208.2346 m
+333.1746 208.2346 337.6116 212.6721 337.6116 218.1448 c
+337.6116 223.6175 333.1746 228.053 327.7024 228.053 c
+274.4177 228.053 l
+268.9456 228.053 264.509 223.6175 264.509 218.1448 c
+264.509 212.6721 268.9456 208.2346 274.4177 208.2346 c
+327.7024 208.2346 l
+f
+0 0 0 0 k
+296.554 221.5667 m
+297.7009 219.4983 296.9319 216.842 295.4978 215.1389 c
+293.8689 213.0725 290.8914 212.6662 288.6223 213.2072 c
+287.1194 213.6662 286.4046 214.7004 286.1336 215.8615 c
+285.801 218.1858 286.6726 220.4183 288.3318 222.0481 c
+289.8103 223.4671 292.0095 223.7405 294.0315 223.3645 c
+294.9822 223.1087 295.9812 222.5315 296.554 221.5667 c
+f
+279.5789 213.6721 m
+278.7981 213.3186 278.1926 213.218 276.7932 213.2033 c
+271.1262 213.2033 l
+273.1917 223.0706 l
+279.2454 223.0657 l
+281.5842 223.0657 282.2249 221.2561 281.4729 219.7835 c
+281.0921 219.0384 280.4656 218.6741 279.9319 218.4593 c
+279.9246 218.4514 279.947 218.47 279.9319 218.4729 c
+279.9246 218.427 279.9627 218.4456 279.9319 218.4729 c
+279.9246 218.4661 279.9246 218.4456 279.9319 218.4729 c
+282.2405 217.5383 281.5701 214.5676 279.5789 213.6721 c
+f
+284.3528 213.1985 m
+281.5916 213.1985 l
+283.7493 223.0139 l
+286.4651 223.0139 l
+284.3528 213.1985 l
+f
+308.553 223.0862 m
+313.4754 223.1614 312.0989 218.4456 309.3601 217.6887 c
+309.3601 217.6682 309.364 217.674 309.3601 217.6887 c
+310.9861 217.1819 310.8538 214.9104 310.7405 213.1926 c
+307.5506 213.1926 l
+307.5784 213.7199 309.0623 217.2385 306.7991 217.1447 c
+304.5789 217.1447 l
+304.5867 217.1369 304.0276 214.5139 303.741 213.2004 c
+301.0427 213.2004 l
+301.0535 213.1926 301.8513 217.1369 301.8596 217.1447 c
+298.9612 217.1487 l
+299.3875 219.1214 l
+302.2727 219.1214 l
+303.1873 223.0862 l
+308.553 223.0862 l
+f
+0 0 0 1 k
+277.8391 221.2327 m
+279.7415 221.2327 278.9256 219.305 277.9065 219.2669 c
+277.1336 219.2669 275.03 219.2669 275.0398 219.2561 c
+275.4358 221.2366 l
+275.4436 221.2288 277.8391 221.2327 y
+f
+293.6731 220.7425 m
+294.6726 219.7854 294.0086 217.7483 293.3445 216.633 c
+292.617 215.5041 291.8245 215.26 291.4671 215.1643 c
+290.3538 214.9572 289.6482 215.3186 289.3465 215.8615 c
+288.8069 216.7112 289.1614 219.2639 290.2932 220.4114 c
+291.0784 221.3616 292.7678 221.6038 293.6731 220.7425 c
+f
+307.6292 221.1995 m
+309.4768 221.0872 309.0999 219.1624 307.7605 219.1058 c
+307.7796 219.0686 304.9993 219.1136 304.9993 219.095 c
+305.469 221.1976 l
+307.6287 221.2014 307.6292 221.1995 v
+f
+277.0579 217.466 m
+279.5574 217.5412 279.2737 215.0315 277.2654 215.1721 c
+277.2654 215.174 274.1628 215.1721 274.1535 215.1721 c
+274.1628 215.1838 274.6624 217.466 y
+274.6721 217.466 277.0579 217.466 y
+f
+0 0 0 0 k
+320.7171 213.2209 m
+322.8093 223.0354 l
+327.9588 223.0354 l
+330.4485 222.8675 331.367 221.3821 331.6702 220.0335 c
+332.0828 217.7873 331.6931 213.3166 326.0354 213.2209 c
+326.0374 213.2336 326.0169 213.2209 326.0354 213.2209 c
+320.7171 213.2209 l
+f
+321.2219 213.2209 m
+318.4905 213.2248 l
+318.4895 213.2199 318.1116 214.8821 318.0891 214.8996 c
+313.6521 214.8996 l
+313.6599 214.8821 312.6331 213.2209 312.6331 213.1946 c
+310.0589 213.1965 l
+315.9837 223.0511 l
+315.9866 223.0452 319.1018 223.054 319.1145 223.0511 c
+319.1145 223.0589 321.2219 213.2209 y
+f
+0 0 0 1 k
+326.9031 221.219 m
+329.8826 221.219 329.8069 215.0891 325.4324 215.0324 c
+325.4353 215.0334 323.8191 215.0334 323.8186 215.0324 c
+325.1306 221.2161 l
+325.1424 221.2122 326.905 221.2171 326.9031 221.219 c
+f
+314.8328 216.842 m
+316.9265 220.4261 l
+317.6653 216.842 l
+314.8328 216.842 l
+f
+/GS3 gs
+BT
+/F4 1 Tf
+8 0 0 8 355.7444 218.1487 Tm
+0 g
+0 Tc
+(B)Tj
+(io-Ra)Tj
+3.35095 0 Td
+(d)Tj
+-3.35095 -1.125 TD
+(L)Tj
+(abor)Tj
+2.85298 0 Td
+(ator)Tj
+2.019 0 Td
+(ies, Inc.)Tj
+6 0 0 6 355.781 183.4348 Tm
+-0.013 Tc
+(Web site )Tj
+/F3 1 Tf
+4.53083 0 Td
+(www.bio-rad.com  )Tj
+/F5 1 Tf
+8.354 0 Td
+(USA)Tj
+/F4 1 Tf
+2.07284 0 Td
+0 Tc
+( )Tj
+/F3 1 Tf
+0.30199 0 Td
+-0.013 Tc
+(800)Tj
+1.894 0 Td
+(4)Tj
+/F6 1 Tf
+(BIO)Tj
+/F3 1 Tf
+2.20701 0 Td
+0 Tc
+(R)Tj
+/F6 1 Tf
+0.672 0 Td
+(A)Tj
+/F3 1 Tf
+0.654 0 Td
+-0.013 Tc
+(D)Tj
+/F5 1 Tf
+-20.68666 -1.13 TD
+0 Tc
+(A)Tj
+/F7 1 Tf
+0.69098 0 Td
+(u)Tj
+/F4 1 Tf
+0.617 0 Td
+-0.013 Tc
+(stra)Tj
+/F7 1 Tf
+1.89302 0 Td
+0 Tc
+(l)Tj
+/F4 1 Tf
+0.283 0 Td
+-0.013 Tc
+(ia )Tj
+/F3 1 Tf
+1.16483 0 Td
+-0.04 Tw
+(61 02 )Tj
+/F8 1 Tf
+2.66201 0 Td
+0 Tw
+(99)Tj
+/F3 1 Tf
+1.086 0 Td
+(14)Tj
+1.351 0 Td
+(2800  )Tj
+/F5 1 Tf
+0 Tc
+(A)Tj
+/F7 1 Tf
+3.393 0 Td
+(u)Tj
+/F4 1 Tf
+0.617 0 Td
+-0.013 Tc
+(stria )Tj
+/F3 1 Tf
+2.478 0 Td
+(01)Tj
+1.351 0 Td
+(877)Tj
+1.894 0 Td
+(8)Tj
+/F8 1 Tf
+0.54301 0 Td
+0 Tc
+(9)Tj
+/F3 1 Tf
+0.808 0 Td
+-0.013 Tc
+(01)Tj
+/F4 1 Tf
+-20.83183 -1.13 TD
+(Be)Tj
+/F7 1 Tf
+1.30696 0 Td
+0 Tc
+(l)Tj
+/F9 1 Tf
+0.28304 0 Td
+(g)Tj
+/F4 1 Tf
+0.598 0 Td
+(i)Tj
+/F7 1 Tf
+0.283 0 Td
+(u)Tj
+/F9 1 Tf
+0.617 0 Td
+(m)Tj
+/F3 1 Tf
+1.23283 0 Td
+(0)Tj
+/F8 1 Tf
+0.543 0 Td
+(9)Tj
+/F3 1 Tf
+0.80801 0 Td
+-0.013 Tc
+(385 55 11  )Tj
+/F4 1 Tf
+(Bra)Tj
+/F10 1 Tf
+6.563 0 Td
+0 Tc
+(z)Tj
+/F4 1 Tf
+0.524 0 Td
+(i)Tj
+/F7 1 Tf
+0.283 0 Td
+(l)Tj
+/F3 1 Tf
+0.58501 0 Td
+-0.013 Tc
+(55 21 3237 )Tj
+/F8 1 Tf
+0 Tc
+(9)Tj
+/F3 1 Tf
+5.68199 0 Td
+-0.013 Tc
+(400)Tj
+/F11 1 Tf
+-19.30882 -1.13 TD
+0 Tc
+(C)Tj
+/F4 1 Tf
+0.728 0 Td
+-0.013 Tc
+(anada )Tj
+/F8 1 Tf
+3.276 0 Td
+0 Tc
+(9)Tj
+/F3 1 Tf
+0.543 0 Td
+-0.013 Tc
+(05 712 2771  )Tj
+/F11 1 Tf
+5.94699 0 Td
+0 Tc
+(C)Tj
+/F12 1 Tf
+0.72784 0 Td
+(h)Tj
+/F4 1 Tf
+0.617 0 Td
+-0.013 Tc
+(ina )Tj
+/F3 1 Tf
+1.78201 0 Td
+(86)Tj
+1.351 0 Td
+(21)Tj
+1.351 0 Td
+(6426 0808  )Tj
+/F11 1 Tf
+-16.32282 -1.13 TD
+0 Tc
+(C)Tj
+/F10 1 Tf
+0.728 0 Td
+(z)Tj
+/F4 1 Tf
+0.52399 0 Td
+-0.013 Tc
+(ec)Tj
+/F12 1 Tf
+1.15901 0 Td
+0 Tc
+(h)Tj
+/F4 1 Tf
+0.919 0 Td
+-0.013 Tc
+(Re)Tj
+/F13 1 Tf
+1.30683 0 Td
+0 Tc
+(p)Tj
+/F7 1 Tf
+0.617 0 Td
+(u)Tj
+/F4 1 Tf
+0.617 0 Td
+(b)Tj
+/F7 1 Tf
+0.617 0 Td
+(l)Tj
+/F4 1 Tf
+0.283 0 Td
+-0.013 Tc
+(ic )Tj
+/F3 1 Tf
+(420 241 430 532  )Tj
+/F14 1 Tf
+-6.77083 -1.13 TD
+0 Tc
+(D)Tj
+/F4 1 Tf
+0.74598 0 Td
+-0.013 Tc
+(en)Tj
+/F9 1 Tf
+1.21502 0 Td
+0 Tc
+(m)Tj
+/F4 1 Tf
+0.931 0 Td
+-0.013 Tc
+(ar)Tj
+/F14 1 Tf
+0 Tc
+(k)Tj
+/F3 1 Tf
+1.85583 0 Td
+-0.013 Tc
+(44 52 10 00  )Tj
+/F15 1 Tf
+5.669 0 Td
+0 Tc
+(F)Tj
+/F4 1 Tf
+0.598 0 Td
+-0.013 Tc
+(in)Tj
+/F7 1 Tf
+0.90001 0 Td
+0 Tc
+(l)Tj
+/F4 1 Tf
+0.283 0 Td
+-0.013 Tc
+(and )Tj
+/F3 1 Tf
+2.116 0 Td
+0 Tc
+(0)Tj
+/F8 1 Tf
+0.54299 0 Td
+(9)Tj
+/F3 1 Tf
+0.80801 0 Td
+-0.013 Tc
+(804 22 00  )Tj
+/GS2 gs
+/F15 1 Tf
+-15.66484 -1.13 TD
+0 Tc
+(F)Tj
+/F4 1 Tf
+0.59798 0 Td
+-0.013 Tc
+(rance )Tj
+/F3 1 Tf
+3.07102 0 Td
+(01 47 )Tj
+/F8 1 Tf
+0 Tc
+(9)Tj
+/F3 1 Tf
+3.245 0 Td
+-0.013 Tc
+(5)Tj
+0.80799 0 Td
+(6)Tj
+/F8 1 Tf
+0.54301 0 Td
+0 Tc
+(9)Tj
+/F3 1 Tf
+0.808 0 Td
+-0.013 Tc
+(65  )Tj
+/GS3 gs
+/F15 1 Tf
+0 Tc
+(G)Tj
+/F4 1 Tf
+2.38099 0 Td
+-0.013 Tc
+(er)Tj
+/F9 1 Tf
+1.01084 0 Td
+0 Tc
+(m)Tj
+/F4 1 Tf
+0.931 0 Td
+-0.013 Tc
+(an)Tj
+/F15 1 Tf
+1.197 0 Td
+0 Tc
+(y)Tj
+/F3 1 Tf
+0.826 0 Td
+-0.013 Tc
+(08)Tj
+/F8 1 Tf
+0 Tc
+(9)Tj
+/F3 1 Tf
+1.894 0 Td
+-0.013 Tc
+(318)Tj
+1.894 0 Td
+(84)Tj
+1.351 0 Td
+(0)Tj
+/GS2 gs
+/F15 1 Tf
+-20.55782 -1.16667 TD
+0 Tc
+(G)Tj
+/F4 1 Tf
+0.765 0 Td
+-0.013 Tc
+(reece )Tj
+/F3 1 Tf
+(30 210 777 43)Tj
+/F8 1 Tf
+9.295 0 Td
+0 Tc
+(9)Tj
+/F3 1 Tf
+0.543 0 Td
+(6)Tj
+/GS3 gs
+/F15 1 Tf
+-10.603 -1.13 TD
+(H)Tj
+/F4 1 Tf
+0.728 0 Td
+-0.013 Tc
+(on)Tj
+/F9 1 Tf
+1.215 0 Td
+0 Tc
+(g)Tj
+/F15 1 Tf
+0.9 0 Td
+(K)Tj
+/F4 1 Tf
+0.728 0 Td
+-0.013 Tc
+(on)Tj
+/F9 1 Tf
+0 Tc
+(g)Tj
+/F3 1 Tf
+2.11484 0 Td
+-0.013 Tc
+(852 278)Tj
+/F8 1 Tf
+3.523 0 Td
+0 Tc
+(9)Tj
+/F3 1 Tf
+0.80801 0 Td
+-0.013 Tc
+(3300  )Tj
+/F15 1 Tf
+-10.01684 -1.12996 TD
+0 Tc
+(H)Tj
+/F7 1 Tf
+0.728 0 Td
+(u)Tj
+/F4 1 Tf
+0.61698 0 Td
+(n)Tj
+/F9 1 Tf
+0.61702 0 Td
+(g)Tj
+/F4 1 Tf
+0.598 0 Td
+-0.013 Tc
+(ar)Tj
+/F15 1 Tf
+0.993 0 Td
+0 Tc
+(y)Tj
+/F3 1 Tf
+0.826 0 Td
+-0.013 Tc
+(36 1 455 8800  )Tj
+/F4 1 Tf
+(India )Tj
+/F8 1 Tf
+9.45584 0 Td
+0 Tc
+(9)Tj
+/F3 1 Tf
+0.543 0 Td
+-0.013 Tc
+(1)Tj
+0.808 0 Td
+(124 402)Tj
+/F8 1 Tf
+3.523 0 Td
+0 Tc
+(9)Tj
+/F3 1 Tf
+0.54301 0 Td
+-0.013 Tc
+(300  )Tj
+/F4 1 Tf
+-19.25184 -1.13 TD
+(Israe)Tj
+/F7 1 Tf
+2.417 0 Td
+0 Tc
+(l)Tj
+/F3 1 Tf
+0.585 0 Td
+-0.013 Tc
+(03 )Tj
+/F8 1 Tf
+1.351 0 Td
+0 Tc
+(9)Tj
+/F3 1 Tf
+0.543 0 Td
+-0.013 Tc
+(63 6050  )Tj
+/F4 1 Tf
+4.05283 0 Td
+(Ita)Tj
+/F7 1 Tf
+1.258 0 Td
+0 Tc
+(l)Tj
+/F15 1 Tf
+0.283 0 Td
+(y)Tj
+/F3 1 Tf
+0.826 0 Td
+(3)Tj
+/F8 1 Tf
+0.543 0 Td
+(9)Tj
+/F3 1 Tf
+0.808 0 Td
+-0.013 Tc
+(02)Tj
+1.351 0 Td
+(2160)Tj
+/F8 1 Tf
+2.172 0 Td
+0 Tc
+(9)Tj
+/F3 1 Tf
+0.543 0 Td
+-0.013 Tc
+(1)Tj
+/F16 1 Tf
+-16.73283 -1.13 TD
+0 Tc
+(J)Tj
+/F4 1 Tf
+0.57998 0 Td
+(a)Tj
+/F13 1 Tf
+0.57998 0 Td
+(p)Tj
+/F4 1 Tf
+0.61703 0 Td
+-0.013 Tc
+(an )Tj
+/F3 1 Tf
+(03 5811 6270  )Tj
+/F15 1 Tf
+7.989 0 Td
+0 Tc
+(K)Tj
+/F4 1 Tf
+0.72784 0 Td
+-0.013 Tc
+(orea )Tj
+/F3 1 Tf
+2.491 0 Td
+(82)Tj
+1.351 0 Td
+(2)Tj
+0.808 0 Td
+(3473 4460  )Tj
+/F17 1 Tf
+-15.14382 -1.13 TD
+0 Tc
+(M)Tj
+/F4 1 Tf
+0.91298 0 Td
+(e)Tj
+/F17 1 Tf
+0.59801 0 Td
+(x)Tj
+/F4 1 Tf
+0.52401 0 Td
+-0.013 Tc
+(ico )Tj
+/F3 1 Tf
+(52 555 488 7670  )Tj
+/F18 1 Tf
+-2.035 -1.13 TD
+0 Tc
+(T)Tj
+/F12 1 Tf
+0.61698 0 Td
+(h)Tj
+/F4 1 Tf
+0.61698 0 Td
+-0.013 Tc
+(e)Tj
+/F18 1 Tf
+0.90003 0 Td
+0 Tc
+(N)Tj
+/F4 1 Tf
+0.728 0 Td
+-0.013 Tc
+(et)Tj
+/F12 1 Tf
+0 Tc
+(h)Tj
+/F4 1 Tf
+1.591 0 Td
+-0.013 Tc
+(er)Tj
+/F7 1 Tf
+1.01083 0 Td
+0 Tc
+(l)Tj
+/F4 1 Tf
+0.283 0 Td
+-0.013 Tc
+(ands )Tj
+/F3 1 Tf
+2.64 0 Td
+(0318)Tj
+2.437 0 Td
+(540666  )Tj
+/F18 1 Tf
+-10.82382 -1.13 TD
+0 Tc
+(N)Tj
+/F4 1 Tf
+0.72 0 Td
+(e)Tj
+/F19 1 Tf
+0.58998 0 Td
+(w)Tj
+1.10602 0 Td
+(Z)Tj
+/F4 1 Tf
+0.646 0 Td
+-0.021 Tc
+(ea)Tj
+/F7 1 Tf
+1.162 0 Td
+0 Tc
+(l)Tj
+/F4 1 Tf
+0.275 0 Td
+-0.021 Tc
+(and )Tj
+/F3 1 Tf
+2.08384 0 Td
+(0508 805 500  )Tj
+/F18 1 Tf
+6.378 0 Td
+0 Tc
+(N)Tj
+/F4 1 Tf
+0.72 0 Td
+-0.021 Tc
+(or)Tj
+/F19 1 Tf
+0 Tc
+(w)Tj
+/F4 1 Tf
+1.80701 0 Td
+(a)Tj
+/F15 1 Tf
+0.57199 0 Td
+(y)Tj
+/F3 1 Tf
+0.81001 0 Td
+-0.021 Tc
+(23 38 41 30  )Tj
+/F20 1 Tf
+-16.86983 -1.13 TD
+0 Tc
+(P)Tj
+/F4 1 Tf
+0.672 0 Td
+(o)Tj
+/F7 1 Tf
+0.59798 0 Td
+(l)Tj
+/F4 1 Tf
+0.28302 0 Td
+-0.013 Tc
+(and )Tj
+/F3 1 Tf
+(48 22 331 )Tj
+/F8 1 Tf
+6.71201 0 Td
+(99)Tj
+/F3 1 Tf
+1.08599 0 Td
+0 Tc
+( )Tj
+/F8 1 Tf
+0.265 0 Td
+-0.013 Tc
+(99)Tj
+/F20 1 Tf
+-9.61599 -1.13 TD
+0 Tc
+(P)Tj
+/F4 1 Tf
+0.672 0 Td
+-0.013 Tc
+(ort)Tj
+/F7 1 Tf
+1.387 0 Td
+0 Tc
+(u)Tj
+/F9 1 Tf
+0.617 0 Td
+(g)Tj
+/F4 1 Tf
+0.598 0 Td
+(a)Tj
+/F7 1 Tf
+0.58 0 Td
+(l)Tj
+/F3 1 Tf
+0.585 0 Td
+-0.013 Tc
+(351 21 472 7700  )Tj
+/F4 1 Tf
+-4.43899 -1.13 TD
+0 Tc
+(R)Tj
+/F7 1 Tf
+0.69998 0 Td
+(u)Tj
+/F4 1 Tf
+0.60798 0 Td
+-0.022 Tc
+(ssia )Tj
+/F3 1 Tf
+2.16787 0 Td
+(7)Tj
+0.79 0 Td
+(4)Tj
+/F8 1 Tf
+0 Tc
+(9)Tj
+/F3 1 Tf
+1.068 0 Td
+-0.022 Tc
+(5)Tj
+0.79 0 Td
+(721 14 04  )Tj
+/F5 1 Tf
+4.762 0 Td
+0 Tc
+(S)Tj
+/F4 1 Tf
+0.645 0 Td
+-0.022 Tc
+(in)Tj
+/F9 1 Tf
+0 Tc
+(g)Tj
+/F4 1 Tf
+1.47101 0 Td
+(a)Tj
+/F13 1 Tf
+0.571 0 Td
+(p)Tj
+/F4 1 Tf
+0.60799 0 Td
+-0.022 Tc
+(ore )Tj
+/F3 1 Tf
+1.875 0 Td
+(65 6415 3188  )Tj
+/F5 1 Tf
+-16.05583 -1.13 TD
+0 Tc
+(S)Tj
+/F4 1 Tf
+0.65398 0 Td
+(o)Tj
+/F7 1 Tf
+0.598 0 Td
+(u)Tj
+/F4 1 Tf
+0.61702 0 Td
+(t)Tj
+/F12 1 Tf
+0.376 0 Td
+(h)Tj
+/F5 1 Tf
+0.919 0 Td
+(A)Tj
+/F21 1 Tf
+0.69101 0 Td
+(f)Tj
+/F4 1 Tf
+0.357 0 Td
+-0.013 Tc
+(rica)Tj
+/F3 1 Tf
+1.83683 0 Td
+( 27 861 246 723 )Tj
+/F4 1 Tf
+7.298 0 Td
+0 Tc
+( )Tj
+/F5 1 Tf
+-13.34683 -1.13 TD
+(S)Tj
+/F13 1 Tf
+0.65398 0 Td
+(p)Tj
+/F4 1 Tf
+0.617 0 Td
+-0.013 Tc
+(ain )Tj
+/F3 1 Tf
+1.76202 0 Td
+(34 )Tj
+/F8 1 Tf
+1.311 0 Td
+0 Tc
+(9)Tj
+/F3 1 Tf
+0.543 0 Td
+(1)Tj
+0.76801 0 Td
+(5)Tj
+/F8 1 Tf
+0.54299 0 Td
+(9)Tj
+/F3 1 Tf
+0.543 0 Td
+(0)Tj
+0.76801 0 Td
+-0.013 Tc
+(5200)Tj
+/F5 1 Tf
+-7.509 -1.13 TD
+0 Tc
+(S)Tj
+/F19 1 Tf
+0.65398 0 Td
+(w)Tj
+/F4 1 Tf
+0.82001 0 Td
+-0.013 Tc
+(eden )Tj
+/F3 1 Tf
+2.712 0 Td
+-0.04 Tw
+[(08 555 )20(12700 )-40( )]TJ
+/F5 1 Tf
+-4.186 -1.13 TD
+0 Tc
+(S)Tj
+/F19 1 Tf
+0.65398 0 Td
+(w)Tj
+/F4 1 Tf
+0.82001 0 Td
+-0.013 Tc
+0 Tw
+(it)Tj
+/F10 1 Tf
+0.659 0 Td
+0 Tc
+(z)Tj
+/F4 1 Tf
+0.524 0 Td
+-0.013 Tc
+(er)Tj
+/F7 1 Tf
+0 Tc
+(l)Tj
+/F4 1 Tf
+1.294 0 Td
+-0.013 Tc
+(and )Tj
+/F3 1 Tf
+2.09584 0 Td
+-0.06 Tw
+(061 717 )Tj
+/F8 1 Tf
+3.688 0 Td
+0 Tc
+(9)Tj
+/F3 1 Tf
+0.543 0 Td
+(5)Tj
+0.768 0 Td
+-0.013 Tc
+-0.02 Tw
+(55  )Tj
+/F18 1 Tf
+-11.04583 -1.13 TD
+0 Tc
+(T)Tj
+/F4 1 Tf
+0.61698 0 Td
+-0.013 Tc
+0 Tw
+(ai)Tj
+/F19 1 Tf
+0.86302 0 Td
+0 Tc
+(w)Tj
+/F4 1 Tf
+0.82 0 Td
+-0.013 Tc
+(an )Tj
+/F3 1 Tf
+1.479 0 Td
+-0.04 Tw
+(886 2 2578 718)Tj
+/F8 1 Tf
+6.64783 0 Td
+0 Tc
+(9)Tj
+/F5 1 Tf
+-10.42682 -1.13 TD
+(U)Tj
+/F4 1 Tf
+0.728 0 Td
+-0.013 Tc
+0 Tw
+(nited )Tj
+/F15 1 Tf
+2.773 0 Td
+0 Tc
+(K)Tj
+/F4 1 Tf
+0.728 0 Td
+-0.013 Tc
+(in)Tj
+/F9 1 Tf
+0.89983 0 Td
+0 Tc
+(g)Tj
+/F4 1 Tf
+0.59801 0 Td
+-0.013 Tc
+(do)Tj
+/F9 1 Tf
+1.215 0 Td
+0 Tc
+(m)Tj
+/F3 1 Tf
+1.21301 0 Td
+-0.013 Tc
+(020)Tj
+1.854 0 Td
+[(8328 )60(2000    )]TJ
+ET
+Q
+Q
+1 w 
+0 G
+522.226 323.45 m
+738 323.45 l
+S
+Q
+q
+BT
+/F2 1 Tf
+9 0 0 9 18.0259 70.1466 Tm
+0 g
+[(Or)17(dering Information)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+7 0 0 7 18.0259 61.1466 Tm
+0 g
+[(Catalog #)-2594(Description)]TJ
+0 -1.2857 TD
+(C54-00017)Tj
+ET
+Q
+q
+BT
+/F22 1 Tf
+7 0 0 7 65.3592 52.1466 Tm
+0 g
+(Pr)Tj
+1.001 0 TD
+(oteinChip Q Spin Columns, )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+7 0 0 7 161.6793 52.1466 Tm
+0 g
+(20 )Tj
+-20.5219 -1.2857 TD
+(C57-30080)Tj
+ET
+Q
+q
+BT
+/F22 1 Tf
+7 0 0 7 65.3592 43.1466 Tm
+0 g
+(Pr)Tj
+1.001 0 TD
+(oteinChip Q10 Ar)Tj
+7.89013 0 TD
+(rays, )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+7 0 0 7 145.1039 43.1466 Tm
+0 g
+(A-H for)Tj
+3.11109 0 TD
+(mat, 12)Tj
+/F23 1 Tf
+1 0 0 1 -1000 1360 Tm
+1 g
+-0.315 Tc
+( )Tj
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/Length 6679
+>>
+stream
+/GS0 gs
+1 g
+0 360 0 0 re
+f
+q
+BT
+/F0 1 Tf
+9 0 0 9 523 334.5752 Tm
+0 g
+-0.0113 Tc
+(Q)Tj
+0.99649 0 Td
+-0.011 Tc
+(ceramic HyperD F sorbent mimics the binding and)Tj
+-0.99649 -1.33333 TD
+[(elution characteristics of Pr)18(oteinChip Q10 arrays.)]TJ
+T*
+[(Pr)18(oteinChip Q spin columns can be used for small-scale)]TJ
+T*
+[(purifications of pr)18(oteins discover)17(ed on array surfaces.)]TJ
+ET
+Q
+q
+BT
+/F2 1 Tf
+9 0 0 9 523 280.5992 Tm
+0 g
+(Storage)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 523 268.5992 Tm
+0 g
+[(Stor)18(e columns at 4\241C.)]TJ
+ET
+Q
+q
+BT
+/F2 1 Tf
+9 0 0 9 523 250.6232 Tm
+0 g
+[(T)111(echnical Considerations)]TJ
+ET
+Q
+q
+BT
+/F28 1 Tf
+4 0 0 4 523 240.1232 Tm
+0 g
+(n)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 533.8 238.6232 Tm
+0 g
+(Recommended sample binding time is 20\32040 min)Tj
+ET
+Q
+q
+BT
+/F28 1 Tf
+4 0 0 4 523 225.0992 Tm
+0 g
+(n)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 533.8 223.5992 Tm
+0 g
+(Each spin column containing Q ceramic HyperD F)Tj
+0 -1.33334 TD
+[(sorbent has a minimal pr)18(otein binding capacity of)]TJ
+0 -1.33333 TD
+(7.7 mg)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+9 0 0 9 523 181.6232 Tm
+0 g
+(Column Equilibration)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 523 169.6232 Tm
+0 g
+-0.017 Tc
+[(Pr)18(oteinChip Q spin columns contain a sorbent that)]TJ
+0 -1.33333 TD
+[(r)18(equir)17(es buf)18(fer equilibration prior to use. This equilibration)]TJ
+0 -1.33334 TD
+(buf)Tj
+1.30178 0 TD
+(fer should be the same as the intended sample)Tj
+-1.30178 -1.33334 TD
+[(binding buf)18(fer)91(. T)111(o ensur)18(e that most pr)17(oteins will bind to)]TJ
+0 -1.33333 TD
+(the column, the salt concentration should be <100 mM,)Tj
+T*
+(pH ~9.)Tj
+0 -1.66933 TD
+0 Tc
+[(1.)-367(T)111(ap the spin column lightly to settle the sorbent to)]TJ
+1.2 -1.33333 TD
+(the bottom \(near the taper)Tj
+11.25977 0 TD
+(ed end\) of the column.)Tj
+-12.45977 -1.66934 TD
+[(2.)-367(Remove the caps on the top and botto)1(m of the )]TJ
+1.2 -1.33333 TD
+(spin column.)Tj
+-1.2 -1.66933 TD
+-0.028 Tc
+[(3)-28(.)-28( )-28(Set the column upright in a 1.5 ml micr)17(ocentrifuge tube.)]TJ
+-28 32.66933 TD
+-0.017 Tc
+[(ar)18(e used that take advantage of the char)-1(ge dif)18(fer)18(ences in)]TJ
+0 -1.33333 TD
+(species bound to the IEC support.)Tj
+0 -1.91733 TD
+[(Pr)18(oteinChip Q \(quater)-18(nar)-1(y amine\) spin columns contain)]TJ
+0 -1.33333 TD
+-0.0168 Tc
+(Q)Tj
+0.98535 0 Td
+-0.017 Tc
+(ceramic HyperD F sorbent, an anion exchange)Tj
+-0.98535 -1.33333 TD
+[(chr)18(omatography suppor)-1(t. This material has been)]TJ
+0 -1.33334 TD
+[(specifically designed to rapidly captur)18(e and separate)]TJ
+T*
+[(pr)18(oteins and peptides fr)17(om crude biological mixtur)18(es)]TJ
+0 -1.33333 TD
+[(under physiological conditions of ionic str)18(ength.)]TJ
+ET
+Q
+q
+BT
+/F2 1 Tf
+9 0 0 9 271 228.3432 Tm
+0 g
+(Applications)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 271 216.3432 Tm
+0 g
+-0.006 Tc
+(Cr)Tj
+1.00769 0 TD
+(ude biological samples contain thousands of pr)Tj
+20.00151 0 TD
+(oteins)Tj
+-21.0092 -1.33334 TD
+[(and peptides. Their complexity pr)18(esents a significant)]TJ
+0 -1.33333 TD
+(analytical challenge for r)Tj
+10.11556 0 TD
+(esear)Tj
+2.30669 0 TD
+(chers evaluating in vitr)Tj
+9.34738 0 TD
+0 Tc
+(o)Tj
+-21.76962 -1.33334 TD
+-0.006 Tc
+(and in vivo experiments fr)Tj
+10.79818 0 TD
+(om cell lysates and plasma)Tj
+-10.79818 -1.33334 TD
+[(samples. Strategies to r)18(educe the complexity of these)]TJ
+0 -1.33333 TD
+(samples ar)Tj
+4.62925 0 TD
+-0.0057 Tc
+(e)Tj
+0.78561 0 Td
+-0.006 Tc
+(essential to gaining a better understanding)Tj
+-5.41487 -1.33334 TD
+(of cellular mechanisms and disease states.)Tj
+0 -1.91733 TD
+[(IEC is a powerful appr)18(oach to pr)17(efractionation of)]TJ
+0 -1.33333 TD
+[(biological samples. This technology can r)18(educe the)]TJ
+T*
+[(pr)18(esence of abundant species, gr)17(eatly incr)18(ease the)]TJ
+T*
+(number of less abundant species, and enrich samples)Tj
+T*
+(in elements of inter)Tj
+7.97994 0 TD
+[(est. Pr)18(oteinChip Q spin columns ar)17(e)]TJ
+-7.97994 -1.33334 TD
+(designed to facilitate the analysis of crude biological)Tj
+0 -1.33333 TD
+(samples by fractionating pr)Tj
+11.45961 0 TD
+(oteins on the basis of net)Tj
+-11.45961 -1.33334 TD
+(surface charge. Biological samples can be further)Tj
+0 -1.33333 TD
+[(simplified by fractionation with Pr)18(oteinChip arrays.)]TJ
+ET
+Q
+q
+BT
+/F2 1 Tf
+9 0 0 9 19 334.5752 Tm
+0 g
+[(Intr)18(oduction)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 19 322.5752 Tm
+0 g
+-0.017 Tc
+[(Ion exchange chr)18(omatography (IEC) is the most)]TJ
+0 -1.33333 TD
+[(fr)18(equently used chr)17(omatography technique for the)]TJ
+T*
+[(separation of pr)18(oteins, peptides, and other char)-1(ged)]TJ
+T*
+(biomolecules. IEC achieves separation by taking)Tj
+T*
+[(advantage of the dif)18(fer)17(ence in net surface charge of these)]TJ
+T*
+[(elements in a complex biological mixtur)18(e.)]TJ
+0 -1.99734 TD
+[(Surface charge is deter)-1(mined by the pr)18(esence of weak)]TJ
+0 -1.33333 TD
+[(acidic and basic gr)18(oups on a pr)17(otein and as such is)]TJ
+0 -1.33334 TD
+[(highly pH dependent. T)111(ypically)91(, at pH values below a)]TJ
+0 -1.33333 TD
+[(pr)18(otein\325)110(s isoelectric point (pI), the pr)18(otein acquir)18(es a net)]TJ
+T*
+(positive surface charge and will adsorb to cation)Tj
+0 -1.33334 TD
+[(exchange media. At pH values above the pr)18(otein\325)110(s pI, the)]TJ
+0 -1.33333 TD
+[(pr)18(otein acquir)17(es a net negative surface charge and will)]TJ
+T*
+[(adsorb to anion exchange media. V)55(ariations in mobile)]TJ
+0 -1.33334 TD
+[(phase pH ar)18(e most often used to selectively bind a)]TJ
+0 -1.33333 TD
+[(molecule of inter)18(est to an IEC suppor)-1(t. The ideal pH value)]TJ
+0 -1.33334 TD
+[(is one that cr)18(eates a lar)-1(ge net charge dif)18(fer)17(ence among)]TJ
+T*
+[(the dif)18(fer)17(ent sample components.)]TJ
+0 -1.9973 TD
+(Desorption of bound pr)Tj
+9.6329 0 TD
+(oteins fr)Tj
+3.2569 0 TD
+(om IEC media is achieved)Tj
+-12.8898 -1.3333 TD
+(by either altering the pH or incr)Tj
+12.67235 0 TD
+(easing the salt)Tj
+-12.6723 -1.3333 TD
+[(concentration \(intr)18(oducing competing ions\) of the mobile)]TJ
+T*
+(phase. The higher the sur)Tj
+10.5457 0 TD
+(face char)Tj
+3.83233 0 TD
+(ge of the pr)Tj
+4.74544 0 TD
+(otein, the)Tj
+-19.1235 -1.3333 TD
+(higher the ionic str)Tj
+7.5549 0 TD
+(ength that is needed to bring about)Tj
+-7.5549 -1.3333 TD
+[(desorption. V)55(ariations in the mobile phase ionic str)17(ength)]TJ
+ET
+0.5 w 
+0 G
+19 19.75 m
+233 19.75 l
+S
+Q
+q
+BT
+/F0 1 Tf
+7 0 0 7 19 10.5 Tm
+0 g
+-0.0168 Tc
+<A9>Tj
+1.0722 0 Td
+-0.017 Tc
+0.028 Tw
+(2006 Bio-Rad Laboratories, Inc.)Tj
+ET
+0.5 w 
+0 G
+271 19.75 m
+485 19.75 l
+S
+BT
+/F0 1 Tf
+7 0 0 7 271 10.5 Tm
+-0.0168 Tc
+<A9>Tj
+1.07219 0 Td
+-0.017 Tc
+(2006 Bio-Rad Laboratories, Inc.)Tj
+ET
+523 19.75 m
+737 19.75 l
+S
+BT
+/F0 1 Tf
+7 0 0 7 523 10.5 Tm
+-0.0168 Tc
+<A9>Tj
+1.0722 0 Td
+-0.017 Tc
+(2006 Bio-Rad Laboratories, Inc.)Tj
+ET
+Q
+
+endstream
+endobj
+7 0 obj
+<<
+/Nums[0<</P(1)>> 1<</P(4)>>]
+>>
+endobj
+8 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[32/space 35/numbersign 40/parenleft/parenright/asterisk 44/comma/hyphen/period 48/zero/one/two/three/four/five/six/seven/eight/nine 59/semicolon/less 65/A/B/C/D/E/F/G/H/I 76/L/M/N 80/P/Q/R/S/T/U/V 97/a/b/c/d/e/f/g/h/i 107/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z 126/asciitilde 161/degree 168/registered/copyright 181/mu 208/endash 213/quoteright]
+>>
+endobj
+9 0 obj
+<<
+/Subtype/Type1C
+/Length 5472
+/Length1 5472
+>>
+stream
+  QIWINT+HelveticaNeue-Light   @ø øøøøû:ûgú®ú[
+ ‹‹
+ ‹‹  4  0  Ã¦  E ²¿Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.12 pt. Helvetica* 45 Light   02472HelveticaNeue  F    $ F O U S J G V H  I T Q D P M N B _   Y 	   
+   E W C  3  "  ˜ . 5 )   7 X  o * Z & ª #  - L / [ ( % 1 4 6 ¥ '  2 ¡ R   H   6 F ˜ ì)a‘±í-¤§áL«öEX¹Cˆl¦Ş$\eŒë	B	£
+
+D
+™
+à:`Ïı#kš±Ä)½#:QŠ³Ô=ƒ¾4o&–E¤Èîü- v÷BÀømw÷õÅ©÷B÷×ûBÅ÷BôÀ"ømRûØüeÄƒ÷œøüü‹õìß÷Iõ7!Á|ÅùÅ±Ïù*ø†÷*yûÜûûuûûEûWûW÷ûE÷u÷;÷÷÷CGû~7%ûûQ;÷2÷0÷0Û÷2÷QóæLû£û|À÷_À÷LÀ­Ê÷âÊø‚÷…÷%I÷%û:û8Fûûû'Ğû÷8÷ÏÏ÷	¦L=wYU/û[÷çŠÀé•ÄåòñÆ2,û vør±eÀÆÊ÷¹Ê¸ÆÊ÷ÁğÇ×ïñ¨H2ûÖÊ÷à÷_×û%BFaMt‰PäLûö…Àø4ÀìÊ÷4ù3Lû/1Våûõ3Š¨oßÁ‰yyŠy^…£´÷ğôÀ"ûã vø`Ê„wÇÊ°ÇÊ÷§PöÙß÷…Ê.EZk8‰0÷Qüe vø˜w÷	ğÈÊğÈÊø˜L0ìÊğLü vøcÀ÷%ÀéÊ÷—ø˜%¸ÃŒ‰·Ñš™‰ˆœÁw|Œy&rM2Œ\3VãücÊøcñû|Àe±ørwÆÊ÷¹Ê¸ørø˜Lû£"\%û 'h¼èˆ÷äLûãû¾?÷ØÏ²Ğ¬H.Å-ûbÀ÷3Àø7±eÀ­Ê÷äÊÜ÷ŸÆûUğóö½ö÷÷ºû&"R'û$÷yø]L2‰ÜÄrKº@û)7û
+û"û'Ïû
+÷9ÕÈ¶Ê¨EûYFûEH¦×}Lû”ñ]ò÷=Æé÷.Œüû vørÀ÷KwÆÊ÷¹ÊÆÊ÷ÁğÇ×ïñ¨H2ûÖÊ÷à÷_×û%BFaMt‰÷³Lû=|ÀøLÀªÊ^Ê÷•Ê^ÊXøDø÷‡9Á$0$c"3ÉoİuÜy¤Ä}ÃwOC9qP7L·à†Lû•İS÷ë÷¶÷å@µC–7X`–KŸÃÎÍ¡ÃÓÇh=?û>v÷DÀøL±eÀÇÊ÷òÊÜøm÷– Zûûû\÷ö÷	µò÷÷¼û ü1üUÊ÷µA¦ÖdØ÷1Ö÷÷&÷&@÷û18C`En‰(íQû|ÀøLÀ­Êø{÷ö÷
+}6Æûû25ûû(û(áû÷2÷Ü×÷œL5ƒKN=ûO÷÷÷Ç÷÷İº\>œ-|ÀøLÀ­Ê÷şÊ÷ªø§û25ûû(û(áû÷2÷2á÷÷(÷(5÷û2V÷ÇûûûOûûûO÷÷÷Ç÷÷üe vù^wÈÊÈÊù^L÷K vør±eÀÇÊ÷šÊ÷šÊ¼ÇÊ÷´÷ Œ·İ÷Û¨QEŠûòÊ÷¸ëªå÷å«]6ûïÊ÷ò÷QÆûGJjGlÏxN¬G9UcMjˆ\âQû|ÀeÀø=À«ÊbÊ÷¥Ê´ø÷\&Œ6N+PS²Êğ÷Šöœ§“š,û¥×ßÅ¯ÙÕÈv6Rn„W…”û{û!†û%#Ù\êî¸±Î·lU•gËœ•Œ™À‰†ƒ‰„r™£÷¦÷(§0û
+6Wû…Y v÷Q÷Ğøbøƒ÷Ïhtricrh›œe›fb›fHg_au¯g›®£­·‹±­{{®z®®{³É¬·µ©-|À÷ÊÀs£÷À°ÊhÊ÷¿ÊiÊÙ÷ª±);Àôòİ¾ë‰éßV& ;X)6÷hø÷ûÂ#$ûTû>´TÔu‰©5{UC‰0‹û!÷E÷‹÷‹÷Ñ‹÷!‹éVÎ1Š6Ò¡¶Ä×VûhûA‰?±éÛÔµØßÌa;1Ca>-|ÀøûÀ­Ê÷şÊ÷ªù!÷4 ûNûûvûNû4û4v÷N÷÷ ÷N÷4Àû`cûYû8û7³ûY÷`÷`³÷Y÷8÷7c÷Yû`û= v÷¶v÷‹wŒøsŒÙ÷3÷m÷6ûmÛû]÷¡÷N÷‹<û$ûXû'÷X<÷MûŒü-û>vú,w¾Ê÷†ûS?÷W÷9÷%÷D²÷<ä÷"Y4ûUû2û>ûB¿ûäû'- vøœ¸÷w÷®Êìøœ÷MüœÊùPXxûG‰û‡ü‹õìßìõ!µj|Zj`Çœ¦ÈŒÅöü-û>vú,w÷ÊŠùm×û¿û9û%ûDdû<2û"½â÷Á÷2÷>÷BW÷2÷'û¾ vøG÷«¦÷¾÷"øÀB)«tÔïÔ'«¢Cí÷
+²|°ûb÷dûû´}f-|À÷ÃÀ‹v÷¬À¬Ê\Ê÷ÌÊfÊÙ¬÷sû*ó3÷%÷÷×÷!çVÍ0š6Ö¶È×÷ Áûû7)ûŠÊó‰ÃÔôßĞc/B3>cJŒVVÀÉèÖZ('4T/ûIÕ÷?|Àe±øLÀ÷Kw±Ê÷òÊ¼ğ÷–ö¼÷÷÷ºû  \ûûûZ÷öø1ø\Lû¼‰Õp@²>û1@ûû&û&Öû÷1Öİ¹Î¦D)ÅûO‹ÊøYwø_÷]Î÷Uø˜Jû4üY‰û6øYE?|Àe±øLÀ÷KwÇÊ÷òÊ¼øm÷– Zûûû\÷ööº÷÷÷¼û Hü1û–Åí¼E¨Ó`Ş÷1Ö÷÷&÷&@÷û1>@dAp‰÷¼L-|Àø	À÷=Å¯Ê÷ïÊ¯÷\ûì9÷÷÷ï÷÷!0ğû$UPsbh‰¸÷|÷ÆÅûòGûÿÁÀ­Ç©ÉóÖ<$%H2û +BÌìˆœ v÷ÑÅ÷­ÅÓÏø%ÈUÏøÓÏ÷Ñ÷–÷“û‘'m‹VœoÖm¯‹íˆ¼†àpË.—tçºÕå÷(Äû
+ûÛÏQ÷’ñ¿T44DW8û’-|ÀøÀ÷YÀ³×÷ÚÊ]Êô÷¶ø'öÉ8%*G8'ûVÜîòËİ÷¸÷k÷÷|>Èûûyvû8û¥Ö(÷>ô÷îğ÷÷0ìû <A\Fj‰÷©÷N÷7(ÜÁV>–w v÷rÅøÏ„ù„Ôá÷r÷ÙâûrÔû¬ù^?®G÷üû­-‹ÅøçÀÀÊ÷ÏÊø…Åüœé÷ÉÏ¹æÆàÔ‹÷	‹÷,Îû‹û,‹@#û$Êò‰¸ç÷àÓW0SwfedûûûiX†ûdøaûû>v÷DÀe±ørwÆÊ÷¹ÊÜørø˜Lû£"\%û 'h¼èˆ÷äLıWË÷gs«µ€¶ØÏ²Ğ¬$.Å÷K v‹ãø¥ì‹wÑÏøÁÏœÑÏøıl÷‰üıË÷ˆøıüıÏù^'ûŠıû‹ù'- vù$Å÷ˆÏ†ù$÷ı$Ïù$÷ÅüÊÁ v÷îÅ÷ÊwÓÏø<ÏÓÏ÷îø<ûîÏù^GûÊü<÷ÊG-|À÷YÀøÀ­Ê]Ê÷Ú×ô÷÷´ MŞñìÏŞï÷À:($K9û¬ûkûûšØN÷÷y ÷Ş÷¥@îû>ôû(&ûûæ*÷ ÚÕºĞ¬ûmûNû7ˆ:UÀØ€- vùÅ÷*Ï¾ùøûVûq>ûCzûÏ›÷Ú÷H÷lâæÅüVR‹Öùw„øõ÷–Ú÷ù^Cûzı‰û|ùBæ‹Õ÷üİ‹w“ùi°÷BĞ÷øF÷üFĞ÷:ø˜HûüN‰@ûøNDûüN‰ûøNHü‹õ÷´õìßàìõ!µj|Zj`Çœ¦ÈŒÅö`÷´õ7!û* v÷ŠÅ‹øˆøˆ÷ŠÅüˆQü@ vù^wØÏØÏù^GûOûSÀù"wø_÷duPv[~jS‹}}|V•‡˜‹¤ŠÚ‹ ¤¯â÷tøçLû3üLû>øLHR‹Å÷®Å÷–ÅÓÏÓø†ÅüB÷®ø"Åü"÷–ø=Åü÷*|Àå¸ø¸åÀ§ÅõÀøiÅù˜÷ù÷eû6÷7ûfûfû6û7ûeûe÷6û7÷f÷f÷6÷7÷eQûFûû!ûHûHû÷!÷F÷F÷÷!÷H÷H÷û!ûFûÙì~=Á-û:*ûûÜ*÷éÙÁì˜XO[]Bû RÛóóÄÛ÷ ÔŠ»]—Pœ‹Å÷±Å÷“ÅÓÏøÏbÏô÷ ÷ë÷~÷Ğ\0û4i&Œû~GQ÷Â÷|£÷ÏèPĞ/—xÕ›½ĞÖ÷ûµûûÂÏQ÷~õÂ^2HWUûû~û¬ v÷ŠÅÇ÷÷Ê÷ŠÅûQû‹Åù$wÓÏÓøhÅü$ù$Gû*‹÷ v÷w÷nwÇÊ¨ÇÊ÷Xñà÷`û­Úû÷Ù÷p÷S7Xû²ûøTLÁ vù^wÒÏø>ÏÒÏøğø4üğ×ù^Güğ‰ü4øğ?ûO‹Àø.ÀøDøk¸üV÷Îûåü0XøCÀû÷æ|Åuv÷ÅÅ÷ÈÅ±ÏøŸÀ¼ù>÷ÿûÃQ÷‡û+/ûû2ûQ;÷2÷0÷0Û÷2÷Q÷à*9”Ï÷0qûÜû*ûuûûEûWûW÷ûE÷uòë¶ñ»D”û¼®‹ÅøêÅÓÏøKÏ÷ ù$÷%÷aŒä4ûiûi24ûaŒû%GQ÷‹÷k÷÷
+÷~÷~û÷
+ûkû‹w v÷ÆÅ÷¸ÅÓÏøÏÓÏ÷Æ÷÷ßÖ÷÷7ÖûûÑÏQ÷~éÌ[))J[-û~w|ÅùÅ¯Ï^Ïø
+Ï`Ï¤¯÷ûBƒ÷?÷=÷‘Ÿ÷/¼÷	7·&¦ûB¶XQ™Y§Îõá¯èğåTûÏ÷&Œû×û!û]^ûEûØcßv÷3d¤Í{Ük:#ûb@û!¸÷'®|Åù3wÌÏø7ÏÌ÷•û'Úû÷Z÷[Ú÷÷'ø]GüNû:Œ<Lûû<Ê÷:ŒøNG÷*|À÷»¸÷)¸óÀ§Å÷GÀ÷[À÷$Åø$ùmûfû6û7ûeûe÷6û7÷f÷f÷6÷7÷e÷eû6÷7ûfV÷H÷û!ûFûFûû!ûHûHû÷!÷F÷F÷÷!÷H9ûëä÷ûSÉû÷SÅ•½­‹×Ø`µ*û9üBÀ÷€÷)ì¿½}OBK‰Jû v÷èÅ÷–ÅÓÏÓÏ÷è÷êÅûê÷–øÅüY- v÷s¸÷0¸®ø~ø…÷ "¡÷0÷¸"ª÷rYlûrû!ª÷rYlûrû^÷uû0û^÷lûs½ª÷s÷!lûs½ª÷s÷û÷]uû0û!¡÷0æ|Åqvù7Å­Ïø­Ï¸øP÷Th`éDgt_W‹ûQ;÷2÷0÷0Û÷2÷Q÷PÛû2û0/o/LOx÷-û	%ÙÓĞ¯ó‹÷÷Wû÷EûtûuûûEûWûW÷ûE÷uÕÉ­¼H÷7û vø6²÷f²Ã²÷f²ÃøÆ;ËKÛÛËËÛÛKË;;KK;²ÅººÅÅº\QQ\\QQ\ºÅ?û>v÷DÀøL±eÀ±Ê÷òÊÜğ÷–ö¼÷÷÷ºû  \ûûûZ÷ö$ø1÷–Q)‰ÜÎp9¹@û1@ûû&û&Öû÷1ØÖ²Õ¦ûµÊY˜v¹øø¾ºüR÷bøR÷bÂüû~Uøû~ü vøk÷‡éäîù^!µj|Zi`Èœ¦ÈŒÅö|šù^šûiš÷4š÷”é”üÛš÷ªù
+endstream
+endobj
+10 0 obj
+<<
+/FontFile3 9 0 R
+/StemV 63
+/Type/FontDescriptor
+/CapHeight 691
+/StemH 0
+/Descent -191
+/FontName/QIWINT+HelveticaNeue-Light
+/Flags 32
+/FontBBox[-166 -211 1050 967]
+/XHeight 729
+/ItalicAngle 0
+/Ascent 714
+>>
+endobj
+11 0 obj
+<<
+/Subtype/Type1
+/Widths[278 0 0 556 0 0 0 0 241 241 352 0 278 370 278 0 556 556 556 556 556 556 556 556 556 556 0 278 600 0 0 0 0 630 667 704 685 593 537 741 704 222 0 0 537 833 704 0 630 741 667 630 556 685 593 0 0 0 0 0 0 0 0 0 0 519 574 519 574 519 259 556 537 185 0 500 185 833 537 556 574 574 315 481 296 537 463 741 481 463 463 0 0 0 600 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 400 0 0 0 0 0 0 800 800 0 0 0 0 0 0 0 0 0 0 0 537 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 0 0 0 278]
+/LastChar 213
+/BaseFont/QIWINT+HelveticaNeue-Light
+/FirstChar 32
+/Encoding 8 0 R
+/Name/F0
+/FontDescriptor 10 0 R
+/Type/Font
+>>
+endobj
+12 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[32/space 35/numbersign 45/hyphen 48/zero/one 52/four/five 55/seven 67/C 73/I 77/M 80/P/Q 83/S 97/a 99/c 101/e 103/g/h/i 108/l/m/n/o/p 114/r/s/t/u]
+>>
+endobj
+13 0 obj
+<<
+/Subtype/Type1C
+/Length 2433
+/Length1 2433
+>>
+stream
+  EUISWO+HelveticaNeue-Roman   @ø øøøøû:ûfúÈúL
+ ‹‹
+ ‹‹  ;  7  v£  	i —¸Å001.100Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.12 pt Helvetica* 55 Roman   05472HelveticaNeue    1 S P U F J O $ I Q 2  4 M V N T * D . B H           B r ¸ æ@bœí$õøl¼zÔ•vĞ b‚³ü‰ v÷¸Û÷šÛÙê÷êêÙê÷¸÷n÷"ŠØÛ÷÷>Úû"ûÍê;÷Nö¼]66Z\ ŒûNûÑ vøKåwÈà°Èà÷zP÷½Ù÷å/Rbb8‰0÷;?ÖøÖ¯å÷Öå¯÷–û+âû÷8÷8â÷÷+÷,4÷û8û84ûû,å÷ÓÑääÓEûûCE22CÑ÷ûã‹ÖøÖìà÷Jù46û/3@ãûİ,®yãÌÖdV€’²÷ÕòÖ$ûÖ÷>Ö÷&Ö¯å÷½åø9÷8H|ZiEûXÛåø÷S÷?ûKû!%ûû/û2Ùû÷9÷İÉ÷¢ü÷$Ú‘ÀÎäßÈJ:ü@ vø™w÷óĞàğĞàø™60à÷Y6#à- vøZÊLÖËà÷–à¸Ëà÷¸è½ĞòÌ³bLûòà÷è÷aÙûAQmKg‰Pİ;ÓzÛøàÛ¶êù7ø‡÷,uûÛû)ûpû
+û=ûcûd÷ û8÷r÷H÷÷ ÷F,û
+‚C3ûû?C÷÷7÷)Ó÷ ÷>îÜX&Ÿ- vøZÖ÷MwËà÷–àËà÷¸è½ĞòÌ³bLûòà÷è÷aÙûMBqMo‰÷¥6RûEv÷NÖøÊLÖÎà÷ÏåÜøg÷›&d(ûû	]éñì·í÷÷½-*ü$üaà÷ŸN±×wÀ÷2Ù÷÷&÷&<÷û3DIrRo‰(Ñ6÷zÛ_vù!Û±êø‚êxùX‰-ÖÓÑ¯ô‹÷÷Vû÷HûwûwûûHûVûV÷ûH÷wÎÄš§ºH÷3¸û˜÷dÚLm~k„f‹ûBB÷*÷$÷$Ô÷*÷B÷BÔû*û$5q3ST,×ü‰zÛøàÛ°åGê÷ååJêXøÙø÷1…ûĞû&ûûKû%û÷j÷r¤÷r÷z)$,p5û '¿÷1ûB÷=÷4÷÷)È÷,÷ û³û¥Xû¥û˜ãèÛ¨ÛíÏ_%–ü@ vù^wĞàĞàù^6-ÖLÊøZwËà÷–à¸ø€ø™6û¸.YF$Jc´Ê÷ò6ûèûµ=÷ÕÅ©Ë¯H9Û÷_ vøZÊLÖËà÷à÷à¼Ëà÷Ö²°èğ× [Hûçà÷ÖÛÀ¿İŞœXKûçàøöF¶$INjThÊvQ¤LDQmQe‰\×;û*ÖøÖªàAå÷zàHå¤ª÷7ûí\÷ô÷³÷ï7§6X<1•È¿Æ™¾ÃÅvI‘à÷„0¯û1$`#(àoßx¤àxß€IJCVEI£×ˆü vù^wİêİêù^,ûÖøÖ¯åø‹÷ó÷-Âû	û8;ûû/û.ßû÷2÷ÚÖ÷4=€Z[9û `éêô±ì÷Ñ¸eJ˜÷q v‹÷øt÷‹wÛåø§åœÛåøæl÷süæÜ÷søæüæåù^ûûvüìûuøìûûÖøÖ¯åEà÷‡àèø÷H\]EûW[ŸÃÊ»ŸÃ•Ä•ËŒ¬£÷û[‡€ƒŠ„p‹³÷÷& .Xû(^û†à×À¡ÓÁÈAK;‘-y¨3z4rû	$ØaéÓÊ¤ÂºS§s·¦”š?ûfÏ÷ÖøÊLÖ¯åEà÷µÛÚ÷¤Ğûióèî·ä÷ö³-0*a$û"÷‚øT;ÚA‰ŒÄlQ¨JûGOû+ûû!Øû÷.ÌÏªÊ§iû_;û†SA¡É‡6û÷dì÷7Øá÷<- v÷bÏ÷*Ï­ø|ñĞ¨÷b÷nûbĞ¨÷bğÏ0 ÷*íÏ2¨÷aFnûaû¨÷aFnûaûGñvû* Gì÷t÷nvû*û ÷*-Ö÷İÖ÷/Ö®à÷¿åøjùMûòIüÔ‡¬³¸¦Á‹êÌH-ûFT:6PÂÔ†6ûï@÷÷9Ş÷÷÷6$Üû[V{hl‰±÷`÷²- v÷:Ö÷çÛø7ùYGû×üa9÷Ëû:Û÷:ëÖ+ûÒ÷€÷ïûïû™ v÷‚Û½÷µ½÷‚÷µÛûµ-ÖøÏÖµå÷¸åµ÷ğû0™û`÷r÷r™÷`÷0÷1}÷`ûrûr}û`û1åŒôŒ÷H÷%÷%ŒûH"!ŠûHû%û%Š÷Hõ- vøÏ÷£à÷øùYJ x3q*G÷Lüà- vøıÛ÷"êø‘ùMü_;øû)û2ûûo{û„ê˜÷r÷÷˜÷#÷"zœù^œûj—÷¥’ï’üé—÷ªù
+endstream
+endobj
+14 0 obj
+<<
+/FontFile3 13 0 R
+/StemV 85
+/Type/FontDescriptor
+/CapHeight 714
+/StemH 0
+/Descent -198
+/FontName/EUISWO+HelveticaNeue-Roman
+/Flags 32
+/FontBBox[-166 -210 1076 952]
+/XHeight 731
+/ItalicAngle 0
+/Ascent 714
+>>
+endobj
+15 0 obj
+<<
+/Subtype/Type1
+/Widths[278 0 0 556 0 0 0 0 0 0 0 0 0 389 0 0 556 556 0 0 556 556 0 556 0 0 0 0 0 0 0 0 0 0 0 722 0 0 0 0 0 259 0 0 0 871 0 0 648 760 0 648 0 0 0 0 0 0 0 0 0 0 0 0 0 537 0 537 0 537 0 574 556 222 0 0 222 853 556 574 593 0 333 500 315 556]
+/LastChar 117
+/BaseFont/EUISWO+HelveticaNeue-Roman
+/FirstChar 32
+/Encoding 12 0 R
+/Name/F1
+/FontDescriptor 14 0 R
+/Type/Font
+>>
+endobj
+16 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[32/space 40/parenleft/parenright 45/hyphen 48/zero/one/two/three/four 54/six/seven/eight 65/A/B/C/D/E 73/I 79/O 82/R/S/T 97/a/b/c/d/e/f/g/h/i 108/l/m/n/o/p/q/r/s/t/u]
+>>
+endobj
+17 0 obj
+<<
+/Subtype/Type1C
+/Length 3687
+/Length1 3687
+>>
+stream
+  SKVGLC+HelveticaNeue-Heavy   @ø øøøøû=û~úÜúK
+ ‹‹
+ ‹‹  :  6  ¦  L ²¿ÄCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.12 pt. Helvetica* 85 Heavy   08472HelveticaNeueHeavy  (       # * 0 3 " %  	     
+ S E F J O H G P N B U 4 5 D I M $ T V & R C Q *   . H Ö'aÎä4Ú \·/jï*fÍ&O“Y¥‘Ñ	F	h	²	ï
+
+U
+ØJ­gûãw vø@÷÷$w÷¤÷H÷¤ø@ü@÷HùMû!„û&g)ûû‡ v÷\÷$»÷Ë÷û÷\÷$ûËû$w‚÷÷Zô÷6÷¨÷>û ÷+÷i÷+û"÷>ò÷Ñ÷ÎË¾gKDQpQOR¨ĞÏÄ«Èû´ûû7÷+X÷÷÷'Ç÷.ãXÈ;›lË™²ËÊ÷ûÁûû	û"UûH°PÎ{‰ò;}UE:l÷³øÂ¿tRORuYWUŸÉÅ½¡Ãw‚÷øK÷°÷8÷y÷8÷Ï÷û …÷ææ‘÷÷ ÷û00ˆûû†û÷`Û÷@÷N÷N;÷?û`ûZ@û?ûNûNÖû@÷Zw v÷/÷$ø"w÷ä÷>ø÷¿ø"û7ûÌüû3÷Åû/÷>÷/æ÷$üF÷D÷uûuÓ‹÷)÷8÷÷÷$Ë÷N÷p÷Nû1÷Nô÷÷Í÷)Ã·vLPbvPû)ûNû)÷ë÷-÷¿÷>Ü\Í?¡xÃ§±¿Ë÷)û«û‰ûâ÷Nû$÷$²°zWX_zkû$ûã vù^wË÷NË÷Nù^ûN÷|÷4ø<÷4°÷N÷à÷N°÷ùûc÷û9÷u÷u÷÷9÷c÷cû÷9ûuûuûû9ûc÷Nõ¹õ÷÷¹!!!]!ûû]õõÓ v÷˜÷$÷5÷)Ë÷N÷†÷NûK÷CôË÷N÷˜÷!â—ACwE›s÷Lr¥ˆô‰©…Ïuà?xÖ¨°ÔØ÷$ûÄûü ÷Nû)÷(¿µsVUmmSû0Á v÷÷øTw‚ùg÷óø˜Úûû6û«û÷S¸÷÷·û÷VûŸù^ûQ÷‹÷4ø÷4Ë÷N÷±÷NË÷Ç÷m÷÷÷~÷qû÷ûoûÇ÷Nû4ã÷ÑLûû#STû!ˆ3ûãûöû-vúw¯÷3÷5ùm9û5cûˆûFû?³ûİû5÷$H÷]÷0÷.ˆ÷5¹÷0Î÷w‹÷$ø1÷)¼÷3÷b÷>øã÷$ûß¸·§œÀ¬ñÊë½‹÷‹÷)ûÓû‹ûB‹ûû	•ûA÷3×Œ¤ÌåÁ¯jU\eiVhUiGgOWFPd7Š2w‚÷÷t÷±÷Rû÷°÷>÷x÷3Ü÷c÷Ë¸¿ËØµWJR\YDI_»ÇÜø÷«÷u*Êûûg-û;ûWûFÓûC÷b÷,÷æ÷:÷)òûIM{Qh‰Ú°ííš‰‚›$›˜{‘ow vø³÷.ÇøÇø³÷â‰v}D6[ Lûrû‡9÷KŒæš÷Ä÷ºóÓë©¤÷üw‚÷÷I÷÷#÷§÷3û ÷3÷d÷3û(÷>ò÷”÷ÈŒššŒšÏÃy>NTrQ5b´Şû3ûG÷8÷7÷÷$Í÷2İdÄ; lË–¬ËÈ÷"û¾ûû)û:û0‡÷3ÊŠ³¯ĞÂ¸r^OL~Y|Š||Šûöû-vúwğ÷3‚ùmÎû¹û0ˆû5û.]û0Hû÷$İ÷5³÷÷?ˆ÷Fc÷9÷5ût vø÷)wÊ÷>°Ê÷>÷•PÌ·Åß¢Ÿ‡…¡÷/~}Œ~BQhIr‰0æû9w|÷û÷÷µ÷÷Hw«÷>÷[÷>|÷Æø(Õ¦F@ŒIy<8=qÚÒ|Í¥ÔÙ÷÷Êû>û‰ºhZ£Kû'CûûŒû&Ğû ÷7Ç½¥¼¬DO÷6d|÷÷
+êõ÷«÷>÷g÷>÷^÷ÍÊ•³¶ÇÄ´[Q÷>,÷D“.÷ ûNû-ûûû3ûB÷%÷=÷÷¿÷ªû3e{cxbCbºÒˆûö vø›wà÷Ê÷>ğÊ÷>ø›û>0÷>÷Wû>û÷>w vø÷û÷ Ä÷>÷E÷>ØÄ÷>÷¯¸Ä§ÁËèƒCDû÷>÷áÖ}÷ûAMEjVl‰PÒû9dûJ÷û÷:±÷÷÷û÷¦÷>÷Z÷8.ø"÷¥JlSCEoÈÈË£ÍÖ×¥JI÷5÷Šû7®J‰Àm\¦Mû':ûûû&Òû÷1Â¿§»ªZKƒR:qv“|B{“‚™‡¢û>‚ûŸ÷p÷÷‡›÷4àû¬ vø-÷Ö÷é÷>é÷>ø-ñ÷%¢º£²ššŠ‰›÷Œpopû%W]û)9ûİd|÷÷µ÷«÷>÷c÷>÷^÷—Í£ÚÚÚ¤<IIr=<<sÙÍû>û0÷û
+÷5÷5÷÷
+÷0÷0û÷û5û5ûûû0÷¨ vø÷û÷ Ä÷>÷+÷>÷+÷>ÜÄ÷>÷‘¼õ¥®È¹eNû»÷>÷’ß’ÃÔ·¦jSûÅ÷>÷Êîy÷û9EXnTbÊoQ JLTiWl‰\Òû9R|ô1å÷¶vÌ÷¨÷>÷C÷8¼÷[÷)´«›±”°•·£š p]:‹e‹jœ‹µ•÷f·“© º®º|dk{n…û
+sûL˜û= ÙYîÉÌ¹·tz{‘{÷?w´‹»·÷w÷'û¦ûPOq]]pk_ˆGû™†÷÷²÷ê÷>øø›"÷1û>û15ûáû{û!°a÷%ªªŒª÷||‰‹}fs”´÷€ôœ|÷$ø\÷$¢÷Nû9÷N÷a÷Nû7÷N¤¢÷„ûKŒ÷%C÷8÷1÷.Å÷I÷#»$¨X#¨$•Âº½™³ÄÈvJˆ÷N÷5Šû#Ğû"ûû1Nû0ûö]ñn¤ònñLVQwS<W¦ß‡‰ vø¾÷4÷{÷Nù
+ù^üøû4÷iü¾÷Nø¾÷iR|÷÷µ÷«÷>øÄ÷İ÷ûÏûû;"û
+û9û3÷ ÷0÷÷ Û÷šû9TƒmiPCnĞÎÓšÜê¶²l_Œw vø÷ ÷HwÄ÷>÷E÷>Ä÷>÷¯Ä§ÁËèƒCDû÷>÷áÖ}÷ûAMEjVq‰÷û>ûö vù^wÊ÷>Ê÷>ù^û>÷|÷4ø<÷4µ÷Nùhø_÷@†û;íû.ûlû û9ûcûc÷ û9÷l÷I÷÷ ÷L•ûN9„YY4û]õõõ¹õ÷ÙÃeC•-|÷û÷N÷W÷<û÷¯÷>÷.÷>œ¦÷?û%÷b÷÷	÷¹÷¶p×" =œû”¼¯¸§ ‡‚™$™‚“}u÷1œ÷…û¬û%ûiûû ÷ˆöp©„Àƒcb\}jst‘—{Hz˜€¥w|÷ û÷øwÃ÷>÷E÷>xøÑø›û>ûª¸/SsfUm£Ğ÷Áû>ûÌû¶5÷)ÇÍ¬À«HD÷9®‹÷4÷÷$÷÷)Ë÷NËø×÷4ü÷÷ò÷$ûò÷ø÷)üÍwû-v÷3÷÷µ÷û÷«÷>÷[÷>\÷^÷’Ò¥ÚÙÜŸ<Eû Qk]ì@qÔÍø÷û6ÜO‰¼jY¥Oû7Fû û&ûÓû÷'Ë¼£»®û{÷>w|÷û÷÷µ÷÷HwÄ÷>÷[÷>|Ä÷6¼ÇZ¬½qÇ÷7Ğ÷ ÷&÷C÷û'KZs[h‰÷û>÷ ûÊÖ¥BIDq<?>qÆæöÅ«¹wû-v÷3÷÷µ÷û÷Ä÷>÷[÷>Ü÷Ùø(Ö¥BIDq<?>qÆæöÅ«¹û üÖ÷>÷z\®¼sË÷'Ó÷÷÷&F÷ û7OYqZj‰(Çû6|šù^šûfš÷7”÷¡”Ö”ü´“÷Ïù
+endstream
+endobj
+18 0 obj
+<<
+/FontFile3 17 0 R
+/StemV 186
+/Type/FontDescriptor
+/CapHeight 697
+/StemH 0
+/Descent -174
+/FontName/SKVGLC+HelveticaNeue-Heavy
+/Flags 262176
+/FontBBox[-169 -234 1096 951]
+/XHeight 729
+/ItalicAngle 0
+/Ascent 714
+>>
+endobj
+19 0 obj
+<<
+/Subtype/Type1
+/Widths[315 0 0 0 0 0 0 0 296 296 0 0 0 407 0 0 630 630 630 630 630 0 630 630 630 0 0 0 0 0 0 0 0 704 722 759 759 685 0 0 0 315 0 0 0 0 0 778 0 0 722 667 648 0 0 0 0 0 0 0 0 0 0 0 0 593 630 593 630 611 370 611 630 296 0 0 296 926 630 611 630 630 426 556 389 630]
+/LastChar 117
+/BaseFont/SKVGLC+HelveticaNeue-Heavy
+/FirstChar 32
+/Encoding 16 0 R
+/Name/F2
+/FontDescriptor 18 0 R
+/Type/Font
+>>
+endobj
+20 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[32/space 45/hyphen/period/slash/zero/one/two/three/four/five/six/seven/eight 68/D/E 71/G 76/L 82/R/S 85/U 97/a/b/c/d/e/f/g 105/i 109/m/n/o/p 114/r 117/u/v/w]
+>>
+endobj
+21 0 obj
+<<
+/Subtype/Type1C
+/Length 3195
+/Length1 3195
+>>
+stream
+  ABTVMK+HelveticaNeue-Italic   7øøû:ûfúæúQ
+ ‹‹
+ ‹‹   û   ÷  D¥  a Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.  #  - J G F  4 D O ( S P V Q         H   6  & 3 W % X  C B E N %   " Q “ í ğe®ÿc­ó@Ÿè_y­sñrü8šÎ:ašäû	Z	ñ
+M
+Ïü-‹Ûùw’ø~’ømœÛü÷ù,ü@ vø™w÷ó†÷û ÷ ğ†à÷ ø™6(÷÷Y5u#áûö vøNÖ÷Ö¢÷ñ¢àêøNï™Ö(ÊŸ†Îà˜™‰ˆ˜™Ót‘ss‹û‡'"p3|@ãûÖ÷>Ö÷&Ö•à÷Ïà÷÷ÈÛ¤ÁÍïé¬BB…Ø@™¥¦÷&HŞû,û"ûûûZ1»û
+÷?÷éÇ÷¦6KsXhAFJ¸ÛšŒššü‰zÛøàÛšê|ê÷µêTêTøúø‹÷3ûĞû!ûûFû"ÖWàtìq¨ÑxÄqB+1b2û;µ÷‘,ûC÷?÷@÷÷)Ñ÷'÷8´2£+¥TJX§Ğàê«ÑíĞhûˆûÖøÖ à÷Êàø‰÷õ÷‡BÃû	ûM&û.û8ûÓ7÷!÷âÍ÷©6LsU`B,jÏÛ÷Ñ÷÷Í¶eL- vøZÊLÖø3à°†àÇ÷²–´›´©¥­«¼¥º½³tZyƒ`‡xIûÂàÊ÷»”³‘²‹¡æ\µ*DEkQ`‰P›Ù9÷zÛLÊ÷}Û÷§Û±êø}êhøÇÇÙøûË{;÷xœûiB,û+û#Gê÷÷@í÷K÷[óãYûê÷9ûÕû2ûˆû(û`û{ûY÷û÷WØİ§ÇÁûÑ vøKÙ=å†ø°†à¼÷y“²—¼¢¬¦´¯ªº—Ÿ•‹ ‹“‹”‹“ŠŸæ‰4NWDc‰@¤÷;?ÖøÖœà÷âàñ÷aöÏ÷"÷è¶J:%Gû#û.ZÄà6Šûİ0÷÷Iô÷2÷=÷>×ûûIû û0û=-ÖLÊøZwšà°øœø™6Oû²y5B9-‹Yc¢¼“¶Í÷Â6Lû»‚c…d‹u0ºaìÒÑ«Å¶P{=İRûEv÷NÖøÊLÖø[àØø[÷ÑûEû û7]ÄØ÷ Ô÷)÷è³V7üŒü—ßÂ÷©FŸÙuÊ÷Iõ÷@÷1÷DáûFXxHX‰(Õ;-ÖøÏÖ¤å÷Õå¤÷›û-ºû÷)÷~Ò÷×÷÷RHÙûûr3û²û4å}ïÆ÷±÷.÷}û<L[û·û27lÔ÷-Ö÷ÒÖ÷FÖ¨å÷²åcåøø)÷ˆ.W3$2aÆßêÂÛğß¹S:´÷ ÷­÷‰HÑû	û <CûXf9tû-ûÌ$÷(è÷0ì÷÷'÷9çû
+QJuZk‰ô©·÷$÷$Õ®fCŒû™ v÷‚Û¥÷Æ¥÷‚÷¶›Ûû¶- vùÖìøsøÔùMü]z@øû=ûGûûiBûzìÍ÷f÷!÷œ÷7÷,-Ö÷¥Ï÷zÖŒå÷¿åTåØ÷j÷äáå‚û +FO,ûqÚØ1û3ˆáC÷ ÷DÛ÷íÉtÂF©dËÊÇŞ÷;Äûû+D%û	zåí—À¹ÚÅÉ|8û!}1-Ö÷İÖ÷/Ö’å÷ÀåøŸùMûûûü
+×¶£¿¥½æ½W0%N7û5a¸İ1ûßA÷ÔÇ»ÁÁ¾¥ÔÕ÷Cèû_\pi‰Ã÷T÷·- vø›Ï÷÷ÉøEùYI:a%b6}GÌ‹ÂÊšûü¯å-‹ÖøÃÖøDå÷2øhäÂØêÔ¹^AEcbWdû "ûQ^zûkøX›Öü¾Á¶·§÷Ø÷TÔ‹÷A‹÷
+6Òû‹û,‹3,|û&?ûfÖ÷ÖøÊLÖuàaàÔõ÷fêË÷)÷ä¶U:#Oû$û6aÌÕ$øR÷Ç;{,‰ÔÌ|A³@û<&û:û-ûÍ0÷ÌÆ£Â°‰p$q"û‹ˆJO›Ğ†6ûí^ô÷Ü´ò·š¯˜¿—À-Ö÷¥Ö÷sÖ¡åƒå÷dåLåj÷Vø˜Ò¾ºÒÑ¶fDH[[HGWªÕÔÂüY<QµàëÍ½èßºV@1KT2(û%ø\T±U½u‰”$yHB!û÷ K÷÷÷á÷ÔlÌF¨Š"Ö¿ËÙ÷,Ì#(û'Hû- v÷:Ö‡ø‘øøË‰FûÜûx÷Eû…à¯÷:éšÖ-íøhCü8ü_z7÷ËÓzÛùwÃæùkù^,1ü@oûi2û0‹ûLĞ÷«éøP,2ü8bû[æû÷e‹÷÷»÷
+»—§—Á—ÂûÑvù€wyøyzÔ÷¼ù€Bd‹Û÷‹Û÷wÛ’ù’ø…Ûü&¿÷‹ø›Ûü»÷wø!›Ûü€® v÷ÅÛ÷Ûø~Ø‘êğ÷€ù÷YhÒĞx2Xq1û*ûjûDüêË÷Å÷gĞ´ëû>m}BU”qînÄ£ÈÌ’ÓyËMhê™ÍŞê÷!û´ûû§û= vø™wµøXø‚ø™/ûtüB‰_øB1Õü™æÁ‹Ûø¾ÛøÛê’÷¦÷€÷5÷@÷¡÷=/óûFû×;÷,÷2²)"ûA(ûFû^û9÷ v‹õ÷¼÷‹wøÏ˜ùø™/ûXü/‰hrø/+ûNü/‰kø/1Èü™å÷Mø&¥ü&åü‹÷š÷š÷£÷ûRÖavøZÖ÷MwøZà¸øZ÷Æ&Jû"û7R»Ü÷É÷,÷)Ú²I9Hü_ûÆ×ë¸X–ÏRê÷Cí÷1÷5÷JæûLRnZe‰Â÷™6ûÖ÷:Ö÷*Öà÷ÆàÖ÷ÍÁÈ”É“Î°¡[†]odm]ZuI‹[‹^£‹»Ê÷vÎ•Ë¥Ì¸ÆSFc†1ƒûû'û*!Ócáâ½¦»¯‰†^¤oº‹š£’˜˜Êƒˆ€‡ƒ‹}€“££•¨ ¬÷!‘§•°‹¨ô2¦'û*VûzRÖLÊøÖ÷Mwœà¸ñ÷\÷Ñ÷ ÷ß¹R>û Bû)û.cÀßøŒø–7Tû¨‰Ğw=¡LûI!û@û1ûÒ5÷Ğ¾Î¾HyAÛ÷^ vøZÊLÖøË÷•à¸†àÅ÷£–¾“ª¯®­©½«º¹¥r`„d‚cMû»àÄ÷Ÿ”·–µ§©°¨À­»¸­mc|‡r‡{CûÜàÌ÷Ê’¨“·‹©ßD«BFGeTcÎ|Y¥JDJfU_‰PØ<zœù^œûj—÷¥’ï’üé—à÷ªù
+endstream
+endobj
+22 0 obj
+<<
+/FontFile3 21 0 R
+/StemV 85
+/Type/FontDescriptor
+/CapHeight 714
+/StemH 0
+/Descent -198
+/FontName/ABTVMK+HelveticaNeue-Italic
+/Flags 36
+/FontBBox[-166 -210 1106 957]
+/XHeight 731
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+23 0 obj
+<<
+/Subtype/Type1
+/Widths[278 0 0 0 0 0 0 0 0 0 0 0 0 389 278 333 556 556 556 556 556 556 556 556 556 0 0 0 0 0 0 0 0 0 0 0 704 611 0 759 0 0 0 0 556 0 0 0 0 0 685 648 0 722 0 0 0 0 0 0 0 0 0 0 0 519 593 537 593 537 296 574 0 222 0 0 0 852 556 574 593 0 333 0 0 556 481 759]
+/LastChar 119
+/BaseFont/ABTVMK+HelveticaNeue-Italic
+/FirstChar 32
+/Encoding 20 0 R
+/Name/F3
+/FontDescriptor 22 0 R
+/Type/Font
+>>
+endobj
+24 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[32/space 44/comma/hyphen/period 66/B 73/I 76/L 82/R 87/W 97/a/b/c/d/e 105/i 110/n/o 114/r/s/t]
+>>
+endobj
+25 0 obj
+<<
+/Subtype/Type1C
+/Length 1864
+/Length1 1864
+>>
+stream
+  !DMJIEK+HelveticaNeue-HeavyItalic   8øøû9ûxsúL
+ ‹‹
+ ‹‹      0©  * •Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy    # J P  3 B E  - C S U F T  * O D  8    m ¡ ë	}wz›ÿDœû{¤¾o†ÌûãÓ‹÷&÷6÷÷÷&øt÷Nû/÷Nğƒ÷ñ÷eŒ÷é÷%ËeÈLšhİ½ËéÙmÙûUûá÷.û&÷³Á‡WTfs@ûqû÷Ğ»Ç†I>M}Jû&ûö vø›wà÷÷ÓûY÷Yğ÷>÷ ø›û>(÷g÷Wû>pû÷>d|÷÷¿÷”÷>÷j÷>”÷gû-ôB÷$÷P÷	÷÷M÷)$Ûû"ûPûûûL÷>‘Ñ¯÷çË¡]J;iû *Ot»Æû‡ v÷\÷$›÷æ÷Ø÷\©÷$ûÈmû$Ó v÷˜÷÷@÷$øN÷H+÷Nh÷µøÎ÷¼¾~N>QvHû(û ü"÷NÁ÷˜Ğ÷Í¦jL[†e‹f}~}÷O€Ÿ‹ª¤´³¿Ğw°V˜h÷›¾×ö÷,(¬ûûòR|ô1åÿ õÃÿ Y
+>ÿ HÿÿvÌ÷‚÷>÷2÷8*÷8}÷5÷$ï÷.a¶¯Œ\…w&$ih˜´Æ÷k¼’¬›Á¾ wmG;Qˆûûpû† ÓdìÕ¾¹«Bp‹r÷;ˆ”‡˜§’¬”¯—»²÷$Ğğ.®û$û'cûpw|÷û÷÷µ÷÷Hw”÷>x÷÷Ms¹ÂÜ®öëÃªdR<fû,øøëû>Uûœ‰ÅwY¥CûH+û4û<ˆûÃ+÷Ì¾£Â®H}K÷9ûãR‹÷4ø¾wƒø½ƒø›­÷4ûâ÷ø¾ûNw|÷û÷÷µ÷÷Hwø5÷>¨ø5÷Æ@cû,Sn³Áİ¬÷ñxÄ§dPüFûÆ÷6¸šÔK¦¹sÚ÷Eë÷;÷8÷RñûOTu\f‰¿÷û>ût vø÷û÷)øpĞ÷>½÷‚œã¯Æè‹«¡‡…¢ ¬÷*z“zŒt‹FPdNh‰@àû9û™…÷÷±÷ø÷ßù7û>jû05tûácûP~N„c‹g<İ€Ú¬«­¥÷yŠz‰y‹ns¤ ¢´÷X÷ ¢÷ d|÷÷
+êõ÷”÷8÷n÷8ø¹÷n¨¨ª÷*$ØûûPûûûLû-ôB÷$÷ô»÷´û:h~ouQSl¨Á†œŒ“Œ•—êÌ°´ÑÄ¦[Q†û|÷û÷M÷X÷<"ô³÷>ì÷>l€÷>ûàY÷÷÷$¨÷3ñT¡+£NšT’°°µ—®¡…•¬•€{Šy÷.÷’û®û ûû fû)Îp×zŞv´‰^a\€nps‘š{H˜ƒœŒ£ûãûBÛé÷Dd÷’‰Ø‚RmlR…y;èˆì°§÷ ¯÷DûIûã vù^wƒ÷ãƒ÷N÷)ù^ûNw vø(÷û÷ø'÷IĞ÷>¹÷pà—îô‹¯¥ubw†u†sPû§÷>É÷¨‘¥—¿‹­0äSÄ.0L`hr‰P™Êû>?|÷÷p÷`û÷”÷>Ğø»÷Ş÷Š&ÌûûPûûûLû-ôB÷$÷òÌ÷(ªû9V~khURn·Ö0Úªôï‡£Š…˜~P™}“wŠrûã‹÷D†÷p†÷K°÷DûK÷º‹÷V÷µ÷{÷÷÷Œ÷÷÷O÷Vøwüw÷O÷çù^ûSû^üœ‰øœû>ûfüœ‰øœûO|šù^šûfš÷7”÷¡”Ö”ü´“÷>÷Ïù
+endstream
+endobj
+26 0 obj
+<<
+/FontFile3 25 0 R
+/StemV 170
+/Type/FontDescriptor
+/CapHeight 697
+/StemH 0
+/Descent -174
+/FontName/DMJIEK+HelveticaNeue-HeavyItalic
+/Flags 262180
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+27 0 obj
+<<
+/Subtype/Type1
+/Widths[315 0 0 0 0 0 0 0 0 0 0 0 315 407 315 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 722 0 0 0 0 0 0 315 0 0 593 0 0 0 0 0 722 0 0 0 0 944 0 0 0 0 0 0 0 0 0 593 630 574 630 611 0 0 0 296 0 0 0 0 630 611 0 0 426 537 389]
+/LastChar 116
+/BaseFont/DMJIEK+HelveticaNeue-HeavyItalic
+/FirstChar 32
+/Encoding 24 0 R
+/Name/F4
+/FontDescriptor 26 0 R
+/Type/Font
+>>
+endobj
+28 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[65/A 83/S 85/U]
+>>
+endobj
+29 0 obj
+<<
+/Subtype/Type1C
+/Length 573
+/Length1 573
+>>
+stream
+  !AHWCCS+HelveticaNeue-HeavyItalic   8øøû9ûxsúL
+ ‹‹
+ ‹‹      ©   •Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy    6 4 "    O Íûãæ|÷-øÔw«÷Nùù^ûN>üqûw,û‹Hc«À±–°’­ŞøûN:ü	\`‹Oûò.÷N÷–Å÷÷T³œ|÷-÷ı÷zû-÷-‹÷N!÷N÷1÷N”÷„û=‰÷5÷>÷e÷ö÷÷ û¾)¦('¦m¶¸»¹¬¤…~œD›”xp÷N¬÷BûÃû,û#û'Fû6"Ó\äkÕq÷ ƒDdlk@3`¤ØÁ v÷÷øTw>ùf>÷WÓ÷÷œû÷Oû	ù^ûPÃûS¦û•û7|šù^šûfš÷7”÷¡”Ö”ü´“÷>÷Ïù
+endstream
+endobj
+30 0 obj
+<<
+/FontFile3 29 0 R
+/StemV 170
+/Type/FontDescriptor
+/CapHeight 697
+/StemH 0
+/Descent -174
+/FontName/AHWCCS+HelveticaNeue-HeavyItalic
+/Flags 262242
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+31 0 obj
+<<
+/Subtype/Type1
+/Widths[704 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 667 0 741]
+/LastChar 85
+/BaseFont/AHWCCS+HelveticaNeue-HeavyItalic
+/FirstChar 65
+/Encoding 28 0 R
+/Name/F5
+/FontDescriptor 30 0 R
+/Type/Font
+>>
+endobj
+32 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[65/A/B 73/I 79/O]
+>>
+endobj
+33 0 obj
+<<
+/Subtype/Type1C
+/Length 565
+/Length1 565
+>>
+stream
+  GAKMFI+HelveticaNeue-Italic   7øøû:ûfúæúQ
+ ‹‹
+ ‹‹   û   ÷  ¥   Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.    # * 0 "    g  Ğ	ü®‹Û÷‹Û÷wÛøšêIêğ÷;÷Û÷`ÙĞ|0ûû€\ûzû ;÷õ÷!÷ß÷×aÀJhß˜¿ÛÚ÷ PÊû û³Ö;÷DÆÜ„72V\(ûhü vù^w’÷‰’ê÷*ù^,÷zÛøàÛ±êøˆê±÷¼ûY÷û÷W÷‚÷&÷d÷t÷Eû÷ûMûˆû(û`û{ê÷@í÷K÷[÷Ò#ûû>'ûJûQû#Gê÷œ v÷kÛø7wTù+ø.ù
+ÀûãûŠû¦û»õ÷÷k÷Á¬ûkíûù^#zœù^œûj—÷¥’ï’üé—à÷ªù
+endstream
+endobj
+34 0 obj
+<<
+/FontFile3 33 0 R
+/StemV 85
+/Type/FontDescriptor
+/CapHeight 714
+/StemH 0
+/Descent -198
+/FontName/GAKMFI+HelveticaNeue-Italic
+/Flags 96
+/FontBBox[-166 -210 1106 957]
+/XHeight 731
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+35 0 obj
+<<
+/Subtype/Type1
+/Widths[667 685 0 0 0 0 0 0 259 0 0 0 0 0 759]
+/LastChar 79
+/BaseFont/GAKMFI+HelveticaNeue-Italic
+/FirstChar 65
+/Encoding 32 0 R
+/Name/F6
+/FontDescriptor 34 0 R
+/Type/Font
+>>
+endobj
+36 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[108/l 117/u]
+>>
+endobj
+37 0 obj
+<<
+/Subtype/Type1C
+/Length 422
+/Length1 422
+>>
+stream
+  !AYYZYS+HelveticaNeue-HeavyItalic   8øøû9ûxsúL
+ ‹‹
+ ‹‹      ©  ˆ •Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     V M \vûãw|÷û÷ø(wœ÷Ipøîø›û>Oû­}BkYC‹dz£©Ÿ£Æ÷´û>HûÏ†u†p‹io™û ÷!ÑÉ§Å±P|D÷7ûö vù^w÷Ó÷>÷)ù^û>|šù^šûfš÷7”÷¡”Ö”ü´“÷>÷Ïù
+endstream
+endobj
+38 0 obj
+<<
+/FontFile3 37 0 R
+/StemV 170
+/Type/FontDescriptor
+/CapHeight 697
+/StemH 0
+/Descent -174
+/FontName/AYYZYS+HelveticaNeue-HeavyItalic
+/Flags 262180
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+39 0 obj
+<<
+/Subtype/Type1
+/Widths[296 0 0 0 0 0 0 0 0 630]
+/LastChar 117
+/BaseFont/AYYZYS+HelveticaNeue-HeavyItalic
+/FirstChar 108
+/Encoding 36 0 R
+/Name/F7
+/FontDescriptor 38 0 R
+/Type/Font
+>>
+endobj
+40 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[57/nine]
+>>
+endobj
+41 0 obj
+<<
+/Subtype/Type1C
+/Length 407
+/Length1 407
+>>
+stream
+  PTETST+HelveticaNeue-Italic   7øøû:ûfúæúQ
+ ‹‹
+ ‹‹   ú   ÷   ı¥  } Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.      {ü-Ö÷DÖ÷ÔÖåcå÷±åì÷¦÷Î6^ÃÜà½ííç¸R3-U:&´û¢û%û‰ÙP÷
+÷!ÏÖ÷À°à¡÷è÷"Gëû*èû**û
+û$ûÜ.÷
+ÅÌ ¼¬‰k#\û û‹Ej²Îzœù^œûj—÷¥’ï’üé—à÷ªù
+endstream
+endobj
+42 0 obj
+<<
+/FontFile3 41 0 R
+/StemV 85
+/Type/FontDescriptor
+/CapHeight 714
+/StemH 0
+/Descent -198
+/FontName/PTETST+HelveticaNeue-Italic
+/Flags 36
+/FontBBox[-166 -210 1106 957]
+/XHeight 731
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+43 0 obj
+<<
+/Subtype/Type1
+/Widths[556]
+/LastChar 57
+/BaseFont/PTETST+HelveticaNeue-Italic
+/FirstChar 57
+/Encoding 40 0 R
+/Name/F8
+/FontDescriptor 42 0 R
+/Type/Font
+>>
+endobj
+44 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[103/g 109/m]
+>>
+endobj
+45 0 obj
+<<
+/Subtype/Type1C
+/Length 565
+/Length1 565
+>>
+stream
+  !PBCEUO+HelveticaNeue-HeavyItalic   8øøû9ûxsúL
+ ‹‹
+ ‹‹      ©   •Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     H N    …ûãdûJô"÷;³÷÷œ÷û÷“÷>ts|ûˆ÷j÷÷RÑÊ÷o¹âø7û7¬}B‰ÏqJŸGû84û4û)û	Ø8÷
+¼ÈŸµ¥9x‰9!wz‘•l–„šŸ÷÷/Nu¹ÂÙ²àâÃ¤]O<c<7÷º vø(÷û÷ù[÷IĞ÷>Ê÷½šĞ©±É‹¯rmt…j…rSû ÷>Å÷¨°Õš¨ÁÍ¬£zet…l†xQû¨÷>Í÷¸‘§“®‹´ìD´+?ZkR\ÎQ¡MHIjZe‰P™Îû8|šù^šûfš÷7”÷¡”Ö”ü´“÷>÷Ïù
+endstream
+endobj
+46 0 obj
+<<
+/FontFile3 45 0 R
+/StemV 170
+/Type/FontDescriptor
+/CapHeight 697
+/StemH 0
+/Descent -174
+/FontName/PBCEUO+HelveticaNeue-HeavyItalic
+/Flags 262180
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+47 0 obj
+<<
+/Subtype/Type1
+/Widths[611 0 0 0 0 0 944]
+/LastChar 109
+/BaseFont/PBCEUO+HelveticaNeue-HeavyItalic
+/FirstChar 103
+/Encoding 44 0 R
+/Name/F9
+/FontDescriptor 46 0 R
+/Type/Font
+>>
+endobj
+48 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[122/z]
+>>
+endobj
+49 0 obj
+<<
+/Subtype/Type1C
+/Length 354
+/Length1 354
+>>
+stream
+  !PCVLAS+HelveticaNeue-HeavyItalic   8øøû9ûxsúL
+ ‹‹
+ ‹‹      	©  D •Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     [ 6ûãû‹÷÷¡÷aøÔaø~¦÷û®÷Ï÷¡¥÷üWqû÷‡ûÎû¡|šù^šûfš÷7”÷¡”Ö”ü´“÷>÷Ïù
+endstream
+endobj
+50 0 obj
+<<
+/FontFile3 49 0 R
+/StemV 170
+/Type/FontDescriptor
+/CapHeight 697
+/StemH 0
+/Descent -174
+/FontName/PCVLAS+HelveticaNeue-HeavyItalic
+/Flags 262180
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+51 0 obj
+<<
+/Subtype/Type1
+/Widths[537]
+/LastChar 122
+/BaseFont/PCVLAS+HelveticaNeue-HeavyItalic
+/FirstChar 122
+/Encoding 48 0 R
+/Name/F10
+/FontDescriptor 50 0 R
+/Type/Font
+>>
+endobj
+52 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[67/C]
+>>
+endobj
+53 0 obj
+<<
+/Subtype/Type1C
+/Length 382
+/Length1 382
+>>
+stream
+  !PBYNFY+HelveticaNeue-HeavyItalic   8øøû9ûxsúL
+ ‹‹
+ ‹‹      	©  ` •Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     $ Rûãæ|÷-øJ÷-°÷Nùbø]÷PûßûGû†û!ûTûzû÷GR÷÷d÷ë÷K³ûNC~OU="pÑç÷À÷7÷!â¯VIƒ|šù^šûfš÷7”÷¡”Ö”ü´“÷>÷Ïù
+endstream
+endobj
+54 0 obj
+<<
+/FontFile3 53 0 R
+/StemV 170
+/Type/FontDescriptor
+/CapHeight 697
+/StemH 0
+/Descent -174
+/FontName/PBYNFY+HelveticaNeue-HeavyItalic
+/Flags 262180
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+55 0 obj
+<<
+/Subtype/Type1
+/Widths[741]
+/LastChar 67
+/BaseFont/PBYNFY+HelveticaNeue-HeavyItalic
+/FirstChar 67
+/Encoding 52 0 R
+/Name/F11
+/FontDescriptor 54 0 R
+/Type/Font
+>>
+endobj
+56 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[104/h]
+>>
+endobj
+57 0 obj
+<<
+/Subtype/Type1C
+/Length 382
+/Length1 382
+>>
+stream
+  !ZOXAGW+HelveticaNeue-HeavyItalic   8øøû9ûxsúL
+ ‹‹
+ ‹‹      	©  ` •Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     I Rûãw vø(÷÷Hwø'÷I÷>¹÷pà—îô‹¯¥ubw†u†sPû§÷>É÷¨‘¥—¿‹­äSÄ.0L`ht‰Â÷”û>|šù^šûfš÷7”÷¡”Ö”ü´“÷>÷Ïù
+endstream
+endobj
+58 0 obj
+<<
+/FontFile3 57 0 R
+/StemV 170
+/Type/FontDescriptor
+/CapHeight 697
+/StemH 0
+/Descent -174
+/FontName/ZOXAGW+HelveticaNeue-HeavyItalic
+/Flags 262180
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+59 0 obj
+<<
+/Subtype/Type1
+/Widths[630]
+/LastChar 104
+/BaseFont/ZOXAGW+HelveticaNeue-HeavyItalic
+/FirstChar 104
+/Encoding 56 0 R
+/Name/F12
+/FontDescriptor 58 0 R
+/Type/Font
+>>
+endobj
+60 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[112/p]
+>>
+endobj
+61 0 obj
+<<
+/Subtype/Type1C
+/Length 404
+/Length1 404
+>>
+stream
+  !WELLGS+HelveticaNeue-HeavyItalic   8øøû9ûxsúL
+ ‹‹
+ ‹‹      	©  v •Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     Q hûãwû-v÷3÷÷µ÷û÷ø4÷>èVûB÷>¼÷…NªÀvÎ÷Eå÷?÷-÷UõûD^qYd‰h—Èû9÷Xü(Mr¹Â×°÷åØ—Q]>hû -|šù^šûfš÷7”÷¡”Ö”ü´“÷>÷Ïù
+endstream
+endobj
+62 0 obj
+<<
+/FontFile3 61 0 R
+/StemV 170
+/Type/FontDescriptor
+/CapHeight 697
+/StemH 0
+/Descent -174
+/FontName/WELLGS+HelveticaNeue-HeavyItalic
+/Flags 262180
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+63 0 obj
+<<
+/Subtype/Type1
+/Widths[630]
+/LastChar 112
+/BaseFont/WELLGS+HelveticaNeue-HeavyItalic
+/FirstChar 112
+/Encoding 60 0 R
+/Name/F13
+/FontDescriptor 62 0 R
+/Type/Font
+>>
+endobj
+64 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[68/D 107/k]
+>>
+endobj
+65 0 obj
+<<
+/Subtype/Type1C
+/Length 425
+/Length1 425
+>>
+stream
+  !IAYLOH+HelveticaNeue-HeavyItalic   8øøû9ûxsúL
+ ‹‹
+ ‹‹      ©  ‹ •Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     % L Byûã÷‹÷4ø÷4ø³÷Nƒ÷Ó÷¯÷÷R÷r÷pûİûKû ÷,û4öáÂbû.\û$û5û?‹÷e÷Êw÷kw÷>¬÷3Ç½Ùûe÷Mû÷Ï÷÷`ûfûEûC‰Ùøû>|šù^šûfš÷7”÷¡”Ö”ü´“÷>÷Ïù
+endstream
+endobj
+66 0 obj
+<<
+/FontFile3 65 0 R
+/StemV 170
+/Type/FontDescriptor
+/CapHeight 697
+/StemH 0
+/Descent -174
+/FontName/IAYLOH+HelveticaNeue-HeavyItalic
+/Flags 262180
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+67 0 obj
+<<
+/Subtype/Type1
+/Widths[759 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 574]
+/LastChar 107
+/BaseFont/IAYLOH+HelveticaNeue-HeavyItalic
+/FirstChar 68
+/Encoding 64 0 R
+/Name/F14
+/FontDescriptor 66 0 R
+/Type/Font
+>>
+endobj
+68 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[70/F/G/H 75/K 121/y]
+>>
+endobj
+69 0 obj
+<<
+/Subtype/Type1C
+/Length 669
+/Length1 669
+>>
+stream
+  !CSWKVI+HelveticaNeue-HeavyItalic   8øøû9ûxsúL
+ ‹‹
+ ‹‹      ©   •Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy    ' ( Z ) ,    6 ¥ ì%]ûãd v÷§÷$÷÷4ƒù<ƒ÷NÅ÷§÷½©÷$û½§÷÷í¬÷4ü§÷|÷-û	v÷‘÷÷M÷-±÷N÷á÷D¼ùqøk÷Eû	ÜûHüpüUû„÷'D÷÷¼§Æ¶h‡C÷Şøû½nû÷œ6o[m3+ZÄğ÷Ê÷,÷+ÍÂeH‰ûûB÷øÇwWù Wû<ˆ§¦ˆ§÷>£Á÷$Ú÷œøƒûFû/ü‰døûAëüvi‡tX‹uvŒuæ v÷º÷4÷˜w€ù•€÷NÈ÷º÷ŒNûº÷N÷)ù^ûNUû˜ûŒÁ÷˜ûNæ vù^wƒùÅƒ÷N¹÷mìŞ÷'ûÀ÷hûhø8÷é÷ºûŠû·û¬‰Æ÷¬ûN|šù^šûfš÷7”÷¡”Ö”ü´“÷>÷Ïù
+endstream
+endobj
+70 0 obj
+<<
+/FontFile3 69 0 R
+/StemV 170
+/Type/FontDescriptor
+/CapHeight 697
+/StemH 0
+/Descent -174
+/FontName/CSWKVI+HelveticaNeue-HeavyItalic
+/Flags 262180
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+71 0 obj
+<<
+/Subtype/Type1
+/Widths[611 778 741 0 0 741 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 537]
+/LastChar 121
+/BaseFont/CSWKVI+HelveticaNeue-HeavyItalic
+/FirstChar 70
+/Encoding 68 0 R
+/Name/F15
+/FontDescriptor 70 0 R
+/Type/Font
+>>
+endobj
+72 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[74/J]
+>>
+endobj
+73 0 obj
+<<
+/Subtype/Type1C
+/Length 368
+/Length1 368
+>>
+stream
+  !YLJBGM+HelveticaNeue-HeavyItalic   8øøû9ûxsúL
+ ‹‹
+ ‹‹      	©  R •Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     + DûãR|÷-øÔw‹÷>øñù^ûN(üy~LvoS‹dv¡²£’©“¨û?‚d†bkû(÷
+fé÷;è×÷<­|šù^šûfš÷7”÷¡”Ö”ü´“÷>÷Ïù
+endstream
+endobj
+74 0 obj
+<<
+/FontFile3 73 0 R
+/StemV 170
+/Type/FontDescriptor
+/CapHeight 697
+/StemH 0
+/Descent -174
+/FontName/YLJBGM+HelveticaNeue-HeavyItalic
+/Flags 262180
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+75 0 obj
+<<
+/Subtype/Type1
+/Widths[593]
+/LastChar 74
+/BaseFont/YLJBGM+HelveticaNeue-HeavyItalic
+/FirstChar 74
+/Encoding 72 0 R
+/Name/F16
+/FontDescriptor 74 0 R
+/Type/Font
+>>
+endobj
+76 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[77/M 120/x]
+>>
+endobj
+77 0 obj
+<<
+/Subtype/Type1C
+/Length 440
+/Length1 440
+>>
+stream
+  !RZYVUB+HelveticaNeue-HeavyItalic   8øøû9ûxsúL
+ ‹‹
+ ‹‹      ©  š •Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     . Y Rˆûã÷¨ v‹÷a÷ş÷'‹wƒúD˜ƒ÷DõøËhµüË÷#÷®øËûüË÷D÷)ù^û”ûŠü‘‰iø‘û”û‹÷-÷|÷G÷P÷	÷-Ìû-÷Cû÷Ÿ÷h÷ûQ,ûZ÷ûD÷
+ûˆ|šù^šûfš÷7”÷¡”Ö”ü´“÷>÷Ïù
+endstream
+endobj
+78 0 obj
+<<
+/FontFile3 77 0 R
+/StemV 170
+/Type/FontDescriptor
+/CapHeight 697
+/StemH 0
+/Descent -174
+/FontName/RZYVUB+HelveticaNeue-HeavyItalic
+/Flags 262180
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+79 0 obj
+<<
+/Subtype/Type1
+/Widths[926 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 537]
+/LastChar 120
+/BaseFont/RZYVUB+HelveticaNeue-HeavyItalic
+/FirstChar 77
+/Encoding 76 0 R
+/Name/F17
+/FontDescriptor 78 0 R
+/Type/Font
+>>
+endobj
+80 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[78/N 84/T]
+>>
+endobj
+81 0 obj
+<<
+/Subtype/Type1C
+/Length 405
+/Length1 405
+>>
+stream
+  !XUJZPB+HelveticaNeue-HeavyItalic   8øøû9ûxsúL
+ ‹‹
+ ‹‹      ©  w •Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     5 / 0eûãw vø¾÷4¿ùùFù^üòkû4÷fû	ü¾÷N÷	ø¾÷fæ vù^w{ù{÷Hæøg÷9üg÷S÷)ù^ûH2üg‰û;øgûS|šù^šûfš÷7”÷¡”Ö”ü´“÷>÷Ïù
+endstream
+endobj
+82 0 obj
+<<
+/FontFile3 81 0 R
+/StemV 170
+/Type/FontDescriptor
+/CapHeight 697
+/StemH 0
+/Descent -174
+/FontName/XUJZPB+HelveticaNeue-HeavyItalic
+/Flags 262180
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+83 0 obj
+<<
+/Subtype/Type1
+/Widths[741 0 0 0 0 0 630]
+/LastChar 84
+/BaseFont/XUJZPB+HelveticaNeue-HeavyItalic
+/FirstChar 78
+/Encoding 80 0 R
+/Name/F18
+/FontDescriptor 82 0 R
+/Type/Font
+>>
+endobj
+84 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[90/Z 119/w]
+>>
+endobj
+85 0 obj
+<<
+/Subtype/Type1C
+/Length 428
+/Length1 428
+>>
+stream
+  !EHEQXN+HelveticaNeue-HeavyItalic   8øøû9ûxsúL
+ ‹‹
+ ‹‹      ©   •Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     X ; K|ûã÷K‹÷3÷U÷;ø<÷å÷D÷*÷ô–ûô÷D÷¢ø›ûGû+ûü‰€÷üû8û)ûü‰~÷üû=œ‹÷4ø÷4`ù`øû«÷4üø`ø«÷4üÜjû4÷ğüSü|šù^šûfš÷7”÷¡”Ö”ü´“÷>÷Ïù
+endstream
+endobj
+86 0 obj
+<<
+/FontFile3 85 0 R
+/StemV 170
+/Type/FontDescriptor
+/CapHeight 697
+/StemH 0
+/Descent -174
+/FontName/EHEQXN+HelveticaNeue-HeavyItalic
+/Flags 262180
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+87 0 obj
+<<
+/Subtype/Type1
+/Widths[667 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 833]
+/LastChar 119
+/BaseFont/EHEQXN+HelveticaNeue-HeavyItalic
+/FirstChar 90
+/Encoding 84 0 R
+/Name/F19
+/FontDescriptor 86 0 R
+/Type/Font
+>>
+endobj
+88 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[80/P]
+>>
+endobj
+89 0 obj
+<<
+/Subtype/Type1C
+/Length 370
+/Length1 370
+>>
+stream
+  !GAJZQY+HelveticaNeue-HeavyItalic   8øøû9ûxsúL
+ ‹‹
+ ‹‹      	©  T •Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     1 Fûã® v÷{÷-÷E÷-ø÷N|÷N¼÷{÷9÷B÷å÷H÷=áûûó÷.û-ôÅÁƒFPfb5û|šù^šûfš÷7”÷¡”Ö”ü´“÷>÷Ïù
+endstream
+endobj
+90 0 obj
+<<
+/FontFile3 89 0 R
+/StemV 170
+/Type/FontDescriptor
+/CapHeight 697
+/StemH 0
+/Descent -174
+/FontName/GAJZQY+HelveticaNeue-HeavyItalic
+/Flags 262180
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+91 0 obj
+<<
+/Subtype/Type1
+/Widths[685]
+/LastChar 80
+/BaseFont/GAJZQY+HelveticaNeue-HeavyItalic
+/FirstChar 80
+/Encoding 88 0 R
+/Name/F20
+/FontDescriptor 90 0 R
+/Type/Font
+>>
+endobj
+92 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[102/f]
+>>
+endobj
+93 0 obj
+<<
+/Subtype/Type1C
+/Length 381
+/Length1 381
+>>
+stream
+  !CYWSNU+HelveticaNeue-HeavyItalic   8øøû9ûxsúL
+ ‹‹
+ ‹‹      	©  _ •Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     G Qûãû¬ vø-÷Ö÷™ø?™÷>áø-î¢÷(²’•¯Éš™‰Š›£÷mh`‹EDxFhyg„c‚g8tûŞ|šù^šûfš÷7”÷¡”Ö”ü´“÷>÷Ïù
+endstream
+endobj
+94 0 obj
+<<
+/FontFile3 93 0 R
+/StemV 170
+/Type/FontDescriptor
+/CapHeight 697
+/StemH 0
+/Descent -174
+/FontName/CYWSNU+HelveticaNeue-HeavyItalic
+/Flags 262180
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/Ascent 714
+>>
+endobj
+95 0 obj
+<<
+/Subtype/Type1
+/Widths[370]
+/LastChar 102
+/BaseFont/CYWSNU+HelveticaNeue-HeavyItalic
+/FirstChar 102
+/Encoding 92 0 R
+/Name/F21
+/FontDescriptor 94 0 R
+/Type/Font
+>>
+endobj
+96 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[32/space 44/comma 48/zero/one 65/A 67/C 80/P/Q 83/S 97/a 101/e 104/h/i 108/l/m/n/o/p 114/r/s/t/u 121/y]
+>>
+endobj
+97 0 obj
+<<
+/Subtype/Type1C
+/Length 2082
+/Length1 2082
+>>
+stream
+  OJQRHO+HelveticaNeue-Medium   @ø øøøøû9ûqú¾úL
+ ‹‹
+ ‹‹  6  2  e¦   ³ÀCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.12 pt. Helvetica* 65 Medium   06472HelveticaNeue    1 S P U F J O $ I Q  2 4 M V N T    " B Z    I … ÉT{¾V²µ¡·û]Èì^›'nüœ v÷¦ñ÷€ñ×÷÷È÷÷]øø÷MÍÄs-1FoSûKûü÷÷¦÷R÷`Š²÷ãäd÷û`ûÏû¾ vø;é-÷ Ç÷ĞÇ÷÷Š0÷ÉÊÙ›œˆ‰›÷Œ„qEGPT~‰Pï R}åøå¯÷÷º÷÷½×%^èåä¸èññ¸.21^.%1÷:ê÷÷3÷2,÷û:û:,ûû2û3êû÷:ûÑ†å÷ïàé÷“øDáûÅ5¡]÷¤£¤ã‡{{‹{X‡£º÷¨òà$÷/ûû/5-}å÷-Ö÷å®÷ø¥÷y÷/'÷'û7û.+ûû'û3æû÷6÷ëÊ÷¤û RwcnI,_ÓÜÖØÁÇÚØ¼JCü- vø™w÷÷ Ê÷ğÊ÷ø™û0ä÷÷ û? vøM×?åÇ÷÷v÷ØÇ÷÷Å¸×¼Ç×Î«h:ûÙ÷÷÷÷DÇûGPhRi‰P×û Ózñø´ñ±÷ø#÷ù?ø{|÷.ûäû5Œûj‹ûû>‹û`‹û`÷û>÷j‹÷A‹÷÷
+•÷?û#N8ûû-K÷÷÷Ë÷÷-óÀO9 ? vøMå÷KwÇ÷÷v÷Ç÷÷Å×¼Ç×Î«h:ûÙ÷÷÷÷DÇûGPh\o‰÷ûdû>v÷Eåø×?åÊ÷÷°÷Üøa÷–1d/#/VÙó÷¼Ôëé¼2-ü"üU÷÷–R¯ÒsÍ÷-Ñ÷÷÷+<÷û7IMrPk‰(Ñû ü÷zñø´ñ±÷øF÷ø`ñrn†qû-K÷÷÷Ë÷÷-÷-ËûûCzB^U4×OF÷}9ÒÏ©÷ í÷`û÷>ûjûjûû>û`û`÷û>÷jÃÆ˜©Àó0ÈÏ‰zñø´ñ¬÷)÷÷±÷"÷¤¬÷‚ûE÷=÷7÷"÷"Ë÷4Õ^Û-§Xf–û2´€X™i§‹½‹ÓÔ Å‹á‹Éi‘/÷÷)ûÚû)ûûHû#A¯A÷j¤ípÌ~½x¨€©u‹T‹UbUû‹'‹:¶‹÷ü- vù^wÊ÷Ê÷ù^û?}å?×øMwÇ÷÷v÷xø–ø™ûûÀ¸;kN,Mf¬æ÷ÑûûÜûÅG÷ÄÉ­¿§HC÷÷p vøM×?åÇ÷÷`÷÷`÷¼Ç÷÷ÇáÁ»ÆĞ¡eDûà÷÷Ãâ¬¾ØäR9ûÂ÷÷ù÷K»û@ZjVeÆtP¦L9`hXiˆ\Óû û}åøå«÷$÷÷q÷¨«÷:ûìQ÷ö÷¸÷ñ7©8Ø77“Ã¸È“¬½¸|U•÷÷}+·!-ûhû"İmßyŞxŞ„OP@‚`‹ NY£Í…ü‹÷Ğ÷ĞĞŒ`u`_€NÚ›ÂÇŒİ÷û- vø‚å÷w÷u÷Àø‚÷@ü‚÷ùP.z70j+Œ-}êø®ê¯÷÷”÷÷ªÜ'o÷÷&÷&§÷ïï§ûû&û&oû'ùû]bûaû3û3´ûa÷]÷]´÷a÷3÷3b÷aû]œ v÷QêøBw„ù>÷ßøãŒöûÇûnûzû°÷Î÷Q÷±ÎûQ÷û§ù^û-}å÷,Ñyv÷Jå«÷,÷÷j÷ºø÷BC=qYcJš¾HÇ·¼“6½”ÂŠ®¢÷÷÷!´&ûûdûƒ÷Ã¸¥Ë¹È€PÊHB”9|+€$vû&ßYèÈÔ·¸\”¬{¹¯’‘œÚ‰‚‹„v…–§ûûaêùwø”÷[~c}_~oV‹yyy+‡¥¥‰¦÷¦ßè°÷]øµûûü‰ûøûzœù^œûj™÷=‹÷œ”ï”üß™÷ªù
+endstream
+endobj
+98 0 obj
+<<
+/FontFile3 97 0 R
+/StemV 114
+/Type/FontDescriptor
+/CapHeight 700
+/StemH 0
+/Descent -191
+/FontName/OJQRHO+HelveticaNeue-Medium
+/Flags 32
+/FontBBox[-165 -221 1066 952]
+/XHeight 731
+/ItalicAngle 0
+/Ascent 714
+>>
+endobj
+99 0 obj
+<<
+/Subtype/Type1
+/Widths[278 0 0 0 0 0 0 0 0 0 0 0 278 0 0 0 556 556 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 667 0 722 0 0 0 0 0 0 0 0 0 0 0 0 667 760 0 648 0 0 0 0 0 0 0 0 0 0 0 0 0 556 0 0 0 556 0 0 574 241 0 0 241 870 574 593 611 0 352 519 333 574 0 0 0 519]
+/LastChar 121
+/BaseFont/OJQRHO+HelveticaNeue-Medium
+/FirstChar 32
+/Encoding 96 0 R
+/Name/F22
+/FontDescriptor 98 0 R
+/Type/Font
+>>
+endobj
+100 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[32/space]
+>>
+endobj
+101 0 obj
+<<
+/Subtype/Type1C
+/Length 355
+/Length1 355
+>>
+stream
+  RDSNTO+HelveticaNeue-Heavy   @ø øøøøû=û~úÜúK
+ ‹‹
+ ‹‹  9  6  <¦  H ²¿ÄCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.12 pt. Helvetica* 85 Heavy   08472HelveticaNeueHeavy      ûãûã|šù^šûfš÷7”÷¡”Ö”ü´“÷Ïù
+endstream
+endobj
+102 0 obj
+<<
+/FontFile3 101 0 R
+/StemV 0
+/Type/FontDescriptor
+/CapHeight 697
+/StemH 0
+/Descent -174
+/FontName/RDSNTO+HelveticaNeue-Heavy
+/Flags 34
+/FontBBox[-169 -234 1096 951]
+/XHeight 729
+/ItalicAngle 0
+/Ascent 714
+>>
+endobj
+103 0 obj
+<<
+/Subtype/Type1
+/Widths[315]
+/LastChar 32
+/BaseFont/RDSNTO+HelveticaNeue-Heavy
+/FirstChar 32
+/Encoding 100 0 R
+/Name/F23
+/FontDescriptor 102 0 R
+/Type/Font
+>>
+endobj
+104 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[110/a73]
+>>
+endobj
+105 0 obj
+<<
+/Subtype/Type1C
+/Length 178
+/Length1 178
+>>
+stream
+  ZRDDUN+ZapfDingbatsITC   6‹û¹Ïƒ
+ ˆ?‹‹
+ ˆ?‹‹   h   e   k‘   ¬ a73    ‡ %<ø
+ú0û¹ÉıÌù7ùÌıYVøçúüçäú!ÑúsúsøÍù
+endstream
+endobj
+106 0 obj
+<<
+/FontFile3 105 0 R
+/StemV 0
+/Type/FontDescriptor
+/CapHeight 1667
+/StemH 0
+/Descent -293
+/FontName/ZRDDUN+ZapfDingbatsITC
+/Flags 4
+/FontBBox[0 -143 976 814]
+/XHeight 0
+/ItalicAngle 0
+/Ascent 1667
+>>
+endobj
+107 0 obj
+<<
+/Subtype/Type1
+/Widths[761]
+/LastChar 110
+/BaseFont/ZRDDUN+ZapfDingbatsITC
+/FirstChar 110
+/Encoding 104 0 R
+/Name/F28
+/FontDescriptor 106 0 R
+/Type/Font
+>>
+endobj
+108 0 obj
+<<
+/Type/Pages
+/Kids[109 0 R 110 0 R]
+/Count 2
+>>
+endobj
+109 0 obj
+<<
+/Resources<</ProcSet[/PDF/Text]/Font<<
+/F3 23 0 R
+/F17 79 0 R
+/F4 27 0 R
+/F1 15 0 R
+/F12 59 0 R
+/F16 75 0 R
+/F15 71 0 R
+/F9 47 0 R
+/F10 51 0 R
+/F0 11 0 R
+/F7 39 0 R
+/F21 95 0 R
+/F19 87 0 R
+/F8 43 0 R
+/F23 103 0 R
+/F5 31 0 R
+/F13 63 0 R
+/F18 83 0 R
+/F22 99 0 R
+/F6 35 0 R
+/F14 67 0 R
+/F2 19 0 R
+/F20 91 0 R
+/F11 55 0 R
+>>
+/ExtGState<</GS3 4 0 R/GS2 3 0 R/GS0 1 0 R/GS1 2 0 R>>>>
+/Parent 108 0 R
+/Contents 5 0 R
+/MediaBox[0 0 756 360]
+/Type/Page
+>>
+endobj
+110 0 obj
+<<
+/Resources<</ProcSet[/PDF/Text]/Font<</F28 107 0 R/F2 19 0 R/F0 11 0 R>>/ExtGState<</GS0 1 0 R>>>>
+/Parent 108 0 R
+/Contents 6 0 R
+/MediaBox[0 0 756 360]
+/Type/Page
+>>
+endobj
+111 0 obj
+<<
+/Type/Catalog
+/PageLabels 7 0 R
+/Pages 108 0 R
+>>
+endobj
+112 0 obj
+<<
+/XPressPrivate(%%DocumentProcessColors:\n%%EndComments)
+/Producer(QuarkXPress(tm) 6.5)
+/CreationDate(20061214135541)
+/Title<FEFF00510043006500720061006D00690063005F0030003000320039002E007100780064>
+/Creator(QuarkXPress(tm) 6.5)
+>>
+endobj
+xref
+0 113
+0000000000 65535 f 
+0000000015 00000 n 
+0000000059 00000 n 
+0000000114 00000 n 
+0000000161 00000 n 
+0000000207 00000 n 
+0000020448 00000 n 
+0000027179 00000 n 
+0000027229 00000 n 
+0000027648 00000 n 
+0000033202 00000 n 
+0000033427 00000 n 
+0000034103 00000 n 
+0000034331 00000 n 
+0000036847 00000 n 
+0000037073 00000 n 
+0000037474 00000 n 
+0000037722 00000 n 
+0000041492 00000 n 
+0000041723 00000 n 
+0000042148 00000 n 
+0000042387 00000 n 
+0000045665 00000 n 
+0000045894 00000 n 
+0000046314 00000 n 
+0000046490 00000 n 
+0000048437 00000 n 
+0000048676 00000 n 
+0000049063 00000 n 
+0000049160 00000 n 
+0000049814 00000 n 
+0000050053 00000 n 
+0000050277 00000 n 
+0000050376 00000 n 
+0000051022 00000 n 
+0000051251 00000 n 
+0000051460 00000 n 
+0000051554 00000 n 
+0000052057 00000 n 
+0000052296 00000 n 
+0000052498 00000 n 
+0000052588 00000 n 
+0000053076 00000 n 
+0000053305 00000 n 
+0000053480 00000 n 
+0000053574 00000 n 
+0000054220 00000 n 
+0000054459 00000 n 
+0000054655 00000 n 
+0000054743 00000 n 
+0000055178 00000 n 
+0000055417 00000 n 
+0000055600 00000 n 
+0000055687 00000 n 
+0000056150 00000 n 
+0000056389 00000 n 
+0000056570 00000 n 
+0000056658 00000 n 
+0000057121 00000 n 
+0000057360 00000 n 
+0000057543 00000 n 
+0000057631 00000 n 
+0000058116 00000 n 
+0000058355 00000 n 
+0000058538 00000 n 
+0000058631 00000 n 
+0000059137 00000 n 
+0000059376 00000 n 
+0000059638 00000 n 
+0000059740 00000 n 
+0000060490 00000 n 
+0000060729 00000 n 
+0000061021 00000 n 
+0000061108 00000 n 
+0000061557 00000 n 
+0000061796 00000 n 
+0000061977 00000 n 
+0000062070 00000 n 
+0000062591 00000 n 
+0000062830 00000 n 
+0000063100 00000 n 
+0000063192 00000 n 
+0000063678 00000 n 
+0000063917 00000 n 
+0000064112 00000 n 
+0000064205 00000 n 
+0000064714 00000 n 
+0000064953 00000 n 
+0000065195 00000 n 
+0000065282 00000 n 
+0000065733 00000 n 
+0000065972 00000 n 
+0000066153 00000 n 
+0000066241 00000 n 
+0000066703 00000 n 
+0000066942 00000 n 
+0000067125 00000 n 
+0000067310 00000 n 
+0000069475 00000 n 
+0000069703 00000 n 
+0000070102 00000 n 
+0000070194 00000 n 
+0000070631 00000 n 
+0000070858 00000 n 
+0000071036 00000 n 
+0000071127 00000 n 
+0000071387 00000 n 
+0000071605 00000 n 
+0000071781 00000 n 
+0000071848 00000 n 
+0000072315 00000 n 
+0000072503 00000 n 
+0000072573 00000 n 
+trailer
+<<
+/Size 113
+/Root 111 0 R
+/Info 112 0 R
+/ID[<269513C8593959FAD8EAAA76056A8D4B><269513C8593959FAD8EAAA76056A8D4B>]
+>>
+startxref
+72824
+%%EOF
