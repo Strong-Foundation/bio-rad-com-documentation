@@ -71,6 +71,10 @@ def process_file(file_path):
     filename = get_filename_and_extension(file_path)  # Extract filename from path
 
     file_path, is_valid = validate_pdf_file(file_path)  # Validate the PDF file
+
+    if is_valid:
+        print(f"'{file_path}' is valid.")
+
     if not is_valid:  # If the file is invalid
         remove_system_file(file_path)  # Delete the invalid/corrupt file
         return None  # Return None to indicate this file is not to be further processed
