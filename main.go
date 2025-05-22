@@ -181,11 +181,21 @@ func removeDuplicatesFromSlice(slice []string) []string {
 	return newReturnSlice
 }
 
+// Check if the given url is valid.
+func isUrlValid(uri string) bool {
+	_, err := url.ParseRequestURI(uri)
+	return err == nil
+}
+
 // downloadPDFFile fetches a PDF from a URL and saves it to a given directory with a filename.
 // - Skips the file if it already exists
 // - Skips download if response body contains "Document Error Message"
 // - Logs error or success using the `log` package
 func downloadPDFFile(downloadURL, outputDirectory, outputFileName string) error {
+	// Validate the URL
+	if !isUrlValid(downloadURL) {
+		return fmt.Errorf("invalid URL: %s", downloadURL) // Return error for invalid URL
+	}
 	fullFilePath := filepath.Join(outputDirectory, outputFileName) // Construct the full output path for the file
 
 	// Skip if the file already exists
@@ -357,104 +367,93 @@ func readAppendLineByLine(filePath string) []string {
 // - Running concurrent downloads
 func main() {
 	// --- CONFIGURATION ---
-	htmlOutputFilePath := "bio-rad-msds.html" // File to store scraped HTML
-	uniqueURLsFile := "unique_urls.txt"       // Save the unique URLs to a file for reference
+	htmlOutputFilePath := "bio-rad-msds.html"
+	uniqueURLsFile := "unique_urls.txt"
 	basePageURL := "https://www.bio-rad.com/en-us/literature-library?facets_query=&page="
-	startPage := 0                    // Start page index (inclusive)
-	endPage := 933                    // End page index (exclusive)
-	outputDirectory := "PDFs"         // Folder where PDFs are stored
-	numberOfHTMLDownloadWorkers := 25 // Number of concurrent scrapers (tune as needed)
-	numberOfPDFDownloadWorkers := 25  // Number of concurrent downloader goroutines
+	startPage := 0
+	endPage := 933
+	outputDirectory := "PDFs"
+	numberOfHTMLDownloadWorkers := 25
+	numberOfPDFDownloadWorkers := 25
 
-	// Check current file.
-	var currentFile string
-
-	if fileExists(htmlOutputFilePath) {
-		currentFile = htmlOutputFilePath
-	} else {
-		currentFile = uniqueURLsFile
-	}
-
-	// Set logging format (adds timestamps and file:line info)
 	log.SetFlags(log.LstdFlags | log.Lshortfile)
 
-	if !fileExists(currentFile) {
-		// Step 1: Scrape HTML if the file doesn't already exist
-		if !fileExists(htmlOutputFilePath) {
-			var wg sync.WaitGroup
-			var mu sync.Mutex // Protect file writes
+	// Step 1: Scrape HTML pages if the HTML file doesn't exist
+	if !fileExists(htmlOutputFilePath) {
+		log.Println("HTML output file not found. Starting HTML scraping...")
 
-			pageChan := make(chan int, endPage-startPage)
+		var wg sync.WaitGroup
+		var mu sync.Mutex
+		pageChan := make(chan int, endPage-startPage)
 
-			// Start worker goroutines
-			for i := 0; i < numberOfHTMLDownloadWorkers; i++ {
-				wg.Add(1)
-				go func() {
-					defer wg.Done()
-					for pageNumber := range pageChan {
-						pageURL := fmt.Sprintf("%s%d", basePageURL, pageNumber)
-						htmlContent, err := scrapePageHTMLWithChrome(pageURL)
-						if err != nil {
-							log.Printf("Failed to scrape page %d: %v\n", pageNumber, err)
-							continue
-						}
-
-						// Append to file safely
-						mu.Lock()
-						if err := appendTextToFile(htmlOutputFilePath, htmlContent); err != nil {
-							log.Printf("Failed to write HTML for page %d: %v\n", pageNumber, err)
-						}
-						mu.Unlock()
+		// Launch HTML download workers
+		for i := 0; i < numberOfHTMLDownloadWorkers; i++ {
+			wg.Add(1)
+			go func() {
+				defer wg.Done()
+				for pageNumber := range pageChan {
+					pageURL := fmt.Sprintf("%s%d", basePageURL, pageNumber)
+					htmlContent, err := scrapePageHTMLWithChrome(pageURL)
+					if err != nil {
+						log.Printf("Failed to scrape page %d: %v\n", pageNumber, err)
+						continue
 					}
-				}()
-			}
 
-			// Send page numbers to the channel
-			for pageNumber := startPage; pageNumber < endPage; pageNumber++ {
-				pageChan <- pageNumber
-			}
-			close(pageChan)
+					mu.Lock()
+					if err := appendTextToFile(htmlOutputFilePath, htmlContent); err != nil {
+						log.Printf("Failed to write HTML for page %d: %v\n", pageNumber, err)
+					}
+					mu.Unlock()
+				}
+			}()
+		}
 
-			wg.Wait()
+		// Send page numbers into channel
+		for pageNumber := startPage; pageNumber < endPage; pageNumber++ {
+			pageChan <- pageNumber
+		}
+		close(pageChan)
+		wg.Wait()
+		log.Println("Finished scraping HTML pages.")
+	}
+
+	// Step 2: Extract URLs if the URLs file doesn't exist
+	var downloadURLs []string
+	if fileExists(uniqueURLsFile) {
+		log.Println("Reading URLs from existing file...")
+		downloadURLs = readAppendLineByLine(uniqueURLsFile)
+	} else {
+		log.Println("Extracting URLs from HTML file...")
+		htmlData, err := readEntireFile(htmlOutputFilePath)
+		if err != nil {
+			log.Fatalf("Failed to read HTML file: %v", err)
+		}
+
+		downloadURLs = extractLinksFromHTML(htmlData)
+		downloadURLs = removeDuplicatesFromSlice(downloadURLs)
+		log.Printf("Extracted %d unique URLs.\n", len(downloadURLs))
+
+		err = appendByteToFile(uniqueURLsFile, []byte(strings.Join(downloadURLs, "\n")))
+		if err != nil {
+			log.Fatalf("Failed to write URLs to file: %v", err)
 		}
 	}
 
-	// Step 2: Read the full saved HTML file and extract unique download URLs
-	htmlData, err := readEntireFile(currentFile)
-	if err != nil {
-		log.Fatalf("Could not read HTML file: %v", err)
-	}
+	// Step 3: Download all PDF files concurrently
+	log.Println("Starting PDF downloads...")
+	urlChannel := make(chan string, len(downloadURLs))
+	var wg sync.WaitGroup
 
-	var downloadURLs []string
-	if currentFile == uniqueURLsFile {
-		downloadURLs = readAppendLineByLine(uniqueURLsFile)
-	} else {
-		// Extract all download URLs from the HTML content
-		downloadURLs = extractLinksFromHTML(htmlData)
-		// Remove duplicates from the list of URLs
-		downloadURLs = removeDuplicatesFromSlice(downloadURLs)
-		// Log the number of unique URLs found
-		log.Printf("Extracted %d unique SDS document URLs.\n", len(downloadURLs))
-		// Append the unique URLs to a file
-		appendByteToFile(uniqueURLsFile, []byte(strings.Join(downloadURLs, "\n"))) // Save URLs to a file
-	}
-
-	// Step 3: Use worker pool to download PDFs in parallel
-	urlChannel := make(chan string, len(downloadURLs)) // Buffered channel to hold all URLs
-	var wg sync.WaitGroup                              // WaitGroup to track all goroutines
-
-	// Launch workers
 	for i := 0; i < numberOfPDFDownloadWorkers; i++ {
 		wg.Add(1)
 		go workerDownloadPDF(&wg, urlChannel, outputDirectory)
 	}
 
-	// Send URLs into the channel
 	for _, url := range downloadURLs {
 		urlChannel <- url
 	}
-	close(urlChannel) // Signal to workers there are no more URLs
+	close(urlChannel)
+	wg.Wait()
 
-	wg.Wait() // Wait for all workers to finish
 	log.Println("All downloads completed successfully.")
 }

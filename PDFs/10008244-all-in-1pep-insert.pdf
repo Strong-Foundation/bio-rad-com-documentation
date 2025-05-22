@@ -1,0 +1,7109 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/OPM 1
+/Type/ExtGState
+>>
+endobj
+2 0 obj
+<<
+/OP true
+/Type/ExtGState
+/SA true
+>>
+endobj
+3 0 obj
+<<
+/OP false
+/Type/ExtGState
+>>
+endobj
+4 0 obj
+<<
+/OP true
+/Type/ExtGState
+>>
+endobj
+5 0 obj
+<<
+/Length 24619
+>>
+stream
+/GS0 gs
+1 g
+0 540 0 0 re
+f
+q
+0.5 w 
+0 G
+36.136 35.758 m
+290.556 35.758 l
+S
+Q
+q
+BT
+/F0 1 Tf
+7 0 0 7 36.136 26.508 Tm
+0 g
+-0.0168 Tc
+<A9>Tj
+1.0722 0 Td
+-0.017 Tc
+0.028 Tw
+(2006 Bio-Rad Laboratories, Inc.)Tj
+ET
+0.5 w 
+0 G
+356.5 35.758 m
+615.474 35.758 l
+S
+BT
+/F0 1 Tf
+7 0 0 7 356.5 26.508 Tm
+-0.0168 Tc
+<A9>Tj
+1.07219 0 Td
+-0.017 Tc
+(2006 Bio-Rad Laboratories, Inc.)Tj
+45.09425 67.49929 TD
+0 Tc
+0 Tw
+[(Eppendorf is a trademark of Eppendorf-Netheler)54(-Hinz GmbH. T)111(omy is a trademark of)]TJ
+0 -1.28571 TD
+[(T)111(omy Seiko Co., Ltd.)]TJ
+0 -3.00343 TD
+[(The SELDI pr)18(ocess is cover)17(ed by US patents 5,719,060, 6,225,047, 6,579,719, )]TJ
+0 -1.28571 TD
+(and 6,818,411 and other issued patents and pending applications in the US and other)Tj
+-0.0001 Tc
+(j)'
+0.18487 0.00001 TD
+0 Tc
+(urisdictions.)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9 0 0 9 355.5 497.5752 Tm
+0 g
+[(Appendix: Adding a Calibrant Into Pr)18(oteinChip Data)]TJ
+0 -1.22222 TD
+[(Manager Softwar)18(e and Pr)17(oteinChip Softwar)18(e)]TJ
+ET
+Q
+q
+BT
+/F2 1 Tf
+8.5 0 0 8.5 355.5 466.5752 Tm
+0 g
+[(Pr)18(oteinChip Data Manager Softwar)17(e)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 355.5 454.5752 Tm
+0 g
+[(1.)-367(Select any spectrum to enable the )]TJ
+ET
+Q
+q
+BT
+/F2 1 Tf
+9 0 0 9 501.1286 454.5752 Tm
+0 g
+[(Inter)-18(nal calibration)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 581.1333 454.5752 Tm
+0 g
+(button.)Tj
+-25.07037 -1.66933 TD
+[(2.)-367(Click )]TJ
+ET
+Q
+q
+BT
+/F2 1 Tf
+9 0 0 9 387.6311 439.5512 Tm
+0 g
+[(Inter)-18(nal calibration)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 465.1352 439.5512 Tm
+0 g
+(.)Tj
+-12.18169 -1.66934 TD
+[(3.)-367(In the Inter)-17(nal Calibration dialog box, click )]TJ
+ET
+Q
+q
+BT
+/F2 1 Tf
+9 0 0 9 529.6096 424.5272 Tm
+0 g
+(Calibrants\311)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 583.4448 424.5272 Tm
+0 g
+(to)Tj
+-24.1272 -1.33333 TD
+(open the Calibrant list dialog box.)Tj
+-1.2 -1.66933 TD
+[(4.)-367(At the Calibrant list dialog box, you can add a new calibrant)1( )-1(by)]TJ
+1.2 -1.33333 TD
+(clicking )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+9 0 0 9 397.4638 385.5032 Tm
+0 g
+[(New r)18(ow)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 433.8066 385.5032 Tm
+0 g
+-0.0001 Tc
+(,)Tj
+0.55571 0 Td
+0 Tc
+(then entering the mass (in Da) for the new)Tj
+-8.05645 -1.33333 TD
+(calibrant.)Tj
+-1.2 -1.66934 TD
+[(5.)-367(Y)92(ou may also edit any calibrant simply by double-clicking its)]TJ
+1.2 -1.33334 TD
+[(r)18(ow and editing the information dir)17(ectly)92(.)]TJ
+-1.2 -1.66933 TD
+[(6.)-367(Click )]TJ
+ET
+Q
+q
+BT
+/F2 1 Tf
+9 0 0 9 387.6311 331.4552 Tm
+0 g
+(OK)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 403.1328 331.4552 Tm
+0 g
+(to save the changes.)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+8.5 0 0 8.5 355.5 315.4792 Tm
+0 g
+(Pr)Tj
+1.00097 0 TD
+[(oteinChip Softwar)18(e)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 355.5 303.4792 Tm
+0 g
+-0.011 Tc
+[(1)-11(.)-378(Select )]TJ
+ET
+Q
+q
+BT
+/F2 1 Tf
+9 0 0 9 392.1034 303.4792 Tm
+0 g
+-0.011 Tc
+(Calibration)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 436.1725 303.4792 Tm
+0 g
+-0.0113 Tc
+(,)Tj
+0.53342 0 Td
+-0.011 Tc
+(then )Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+9 0 0 9 459.9698 303.4792 Tm
+0 g
+-0.011 Tc
+(Calibrants)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 503.7049 303.4792 Tm
+0 g
+-0.011 Tc
+[(fr)18(om the main toolbar menu.)]TJ
+-16.46721 -1.66933 TD
+0 Tc
+[(2.)-367(Enter the calibrant n)1(ame and mass (in Da))-1( in the two fields at)]TJ
+1.2 -1.33333 TD
+(the bottom of the dialog box.  )Tj
+-1.2 -1.66933 TD
+[(3.)-367(Click )]TJ
+ET
+Q
+q
+BT
+/F2 1 Tf
+9 0 0 9 387.6311 261.4312 Tm
+0 g
+(Add)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 407.1296 261.4312 Tm
+0 g
+(to add the new calibrant to the list.)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9 0 0 9 37.1009 496.4184 Tm
+0 g
+[(Or)17(dering Information)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+7 0 0 7 37.1009 487.4184 Tm
+0 g
+[(Catalog #)-2594(Description)]TJ
+0 -1.71771 TD
+(C10-00005)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+7 0 0 7 84.4342 475.3944 Tm
+0 g
+[(Pr)18(oteinChip All-in-One Peptide Standar)17(d)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+7 0 0 7 215.3783 475.3944 Tm
+0 g
+-0.0001 Tc
+(,)Tj
+0.55572 0 Td
+0 Tc
+(lyophilized, 100 )Tj
+-26.02392 -1.28571 TD
+(C57-30043)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+7 0 0 7 84.4342 466.3944 Tm
+0 g
+[(Pr)18(oteinChip NP20 Arrays)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+7 0 0 7 164.6932 466.3944 Tm
+0 g
+-0.0002 Tc
+(,)Tj
+0.55569 0 Td
+0 Tc
+(A-H format, 12)Tj
+-18.78316 -1.28571 TD
+(C57-30028)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+7 0 0 7 84.4342 457.3944 Tm
+0 g
+[(Pr)18(oteinChip H4 Arrays)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+7 0 0 7 156.1329 457.3944 Tm
+0 g
+-0.0002 Tc
+(,)Tj
+0.55569 0 Td
+0 Tc
+(A-H format, 12)Tj
+-17.56026 -1.28571 TD
+-0.0001 Tc
+(C)Tj
+0.70389 0.00001 TD
+0 Tc
+(30-00001)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+7 0 0 7 84.3509 448.3944 Tm
+0 g
+-0.0002 Tc
+(P)Tj
+0.6668 0.00001 TD
+0 Tc
+[(r)18(oteinChip CHCA Energy Absorbing Molecules (EAMs))]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+7 0 0 7 263.7908 448.3944 Tm
+0 g
+-0.0003 Tc
+(,)Tj
+-25.63427 -1.28571 TD
+-0.0002 Tc
+(5)Tj
+0.83366 0 Td
+0 Tc
+(mg/vial, 20)Tj
+-7.58366 -1.28571 TD
+(C30-00002)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+7 0 0 7 84.3509 430.3944 Tm
+0 g
+[(Pr)18(oteinChip SP)74(A Ener)-1(gy Absorbing Molecules (EAMs))]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+7 0 0 7 257.3172 430.3944 Tm
+0 g
+-0.0003 Tc
+(,)Tj
+-24.70947 -1.28571 TD
+-0.0002 Tc
+(5)Tj
+0.83366 0 Td
+0 Tc
+(mg/vial, 20)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+17 0 0 17 1008 378.251 Tm
+0 g
+-0.006 Tc
+[(Pr)18(oteinChi)-1(p)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+6 0 0 6 1095.4196 386.0759 Tm
+0 g
+<A8>Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+17 0 0 17 1103.3018 378.251 Tm
+0 g
+-0.006 Tc
+(All-in-One)Tj
+-5.60598 -1.05882 TD
+[(Peptide Standar)18(d)]TJ
+0 -2.72706 TD
+0 Tc
+(Instruction Manual)Tj
+ET
+Q
+q
+BT
+/F3 1 Tf
+13 0 0 13 1008 261.031 Tm
+0 g
+0.028 Tw
+(Catalog #C10-00005)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10 0 0 10 1008 154.3112 Tm
+0 g
+0.028 Tw
+(For technical support,)Tj
+0 -1.3 TD
+[(call your local Bio-Rad of)18(fice, or )]TJ
+T*
+(in the US, call )Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+10 0 0 10 1070.9546 128.3112 Tm
+0 g
+(1-800-4BIORAD )Tj
+-6.29545 -1.3 TD
+((1-800-424-6723))Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+10 0 0 10 1095.4146 115.3112 Tm
+0 g
+(.)Tj
+ET
+1 w 
+0 G
+1008 422.856 m
+1260 422.856 l
+S
+q
+972 29.415 324 36 re
+W n
+q
+1088.965 59.3912 m
+1088.965 35.438 l
+1179.0344 35.438 l
+1179.0344 59.3912 l
+W n
+0 0 0 1 k
+1166.1467 59.2823 m
+1166.2375 59.1573 1166.2375 59.3195 1166.1467 59.2823 c
+1180.2385 59.1573 1179.4875 46.7984 1178.4113 43.46 c
+1176.928 39.3067 1173.0168 35.4956 1165.1721 35.542 c
+1101.7522 35.542 l
+1095.1681 35.7281 1090.6466 39.378 1089.6199 43.6026 c
+1087.9244 48.3389 1089.6984 58.8141 1101.1951 59.2779 c
+1101.2878 59.2779 1105.2756 59.2779 y
+1166.1467 59.2823 l
+f
+/GS1 gs
+4 M 0.2074 w 
+0 0 0 1 K
+1166.1467 59.2823 m
+1166.2375 59.1573 1166.2375 59.3195 1166.1467 59.2823 c
+1180.2385 59.1573 1179.4875 46.7984 1178.4113 43.46 c
+1176.928 39.3067 1173.0168 35.4956 1165.1721 35.542 c
+1101.7522 35.542 l
+1095.1681 35.7281 1090.6466 39.378 1089.6199 43.6026 c
+1087.9244 48.3389 1089.6984 58.8141 1101.1951 59.2779 c
+1101.2878 59.2779 1105.2756 59.2779 y
+s
+/GS2 gs
+0 0 0 0 k
+1128.5432 51.6383 m
+1129.9514 49.0977 1129.0056 45.8335 1127.2439 43.7383 c
+1125.2424 41.1973 1121.5822 40.6997 1118.7937 41.3643 c
+1116.9459 41.9278 1116.0676 43.2007 1115.7335 44.628 c
+1115.3258 47.4834 1116.3967 50.2286 1118.4371 52.2311 c
+1120.254 53.9742 1122.9563 54.3131 1125.4412 53.8492 c
+1126.6101 53.5343 1127.8376 52.8253 1128.5432 51.6383 c
+f
+1107.6785 41.9346 m
+1106.719 41.503 1105.9729 41.3789 1104.2556 41.3599 c
+1097.2898 41.3599 l
+1099.8282 53.4879 l
+1107.2688 53.483 l
+1110.1423 53.483 1110.9314 51.2579 1110.0066 49.4483 c
+1109.5383 48.5313 1108.7683 48.084 1108.1121 47.8194 c
+1108.1027 47.8106 1108.1301 47.8316 1108.1121 47.8365 c
+1108.1027 47.7808 1108.1486 47.8047 1108.1121 47.8365 c
+1108.1027 47.8272 1108.1027 47.8047 1108.1121 47.8365 c
+1110.9493 46.6885 1110.1256 43.0376 1107.6785 41.9346 c
+f
+1113.5455 41.3536 m
+1110.1521 41.3536 l
+1112.8033 53.4181 l
+1116.1418 53.4181 l
+1113.5455 41.3536 l
+f
+1143.2902 53.506 m
+1149.3391 53.5992 1147.6482 47.8047 1144.2819 46.8716 c
+1144.2819 46.8492 1144.2867 46.8536 1144.2819 46.8716 c
+1146.28 46.251 1146.1173 43.4571 1145.9788 41.3482 c
+1142.0579 41.3467 l
+1142.093 41.9956 1143.9158 46.3208 1141.1339 46.2041 c
+1138.406 46.2041 l
+1138.4148 46.1954 1137.7277 42.9707 1137.3751 41.357 c
+1134.0579 41.357 l
+1134.0725 41.3482 1135.0535 46.1944 1135.0631 46.2041 c
+1131.5002 46.2095 l
+1132.0247 48.6333 l
+1135.571 48.6338 l
+1136.6949 53.506 l
+1143.2902 53.506 l
+f
+0 0 0 1 k
+1105.5388 51.2301 m
+1107.8782 51.2301 1106.8746 48.8584 1105.6233 48.8125 c
+1104.6731 48.8125 1102.0886 48.8125 1102.0992 48.8008 c
+1102.5867 51.2345 l
+1102.5955 51.2252 1105.5388 51.2301 y
+f
+1125.0012 50.6271 m
+1126.2297 49.4498 1125.4132 46.9463 1124.5974 45.5743 c
+1123.7032 44.188 1122.7296 43.8863 1122.2893 43.771 c
+1120.9215 43.5152 1120.0543 43.9605 1119.6838 44.628 c
+1119.0212 45.6714 1119.4568 48.8101 1120.8479 50.2193 c
+1121.8118 51.3878 1123.8884 51.6842 1125.0012 50.6271 c
+f
+1142.1545 51.1886 m
+1144.4255 51.0494 1143.9622 48.6846 1142.3167 48.6148 c
+1142.3396 48.5694 1138.9226 48.6241 1138.9226 48.6016 c
+1139.5002 51.1871 l
+1142.1539 51.19 1142.1545 51.1886 v
+f
+1104.5793 46.5987 m
+1107.6511 46.6914 1107.3035 43.6065 1104.8346 43.7803 c
+1104.8346 43.7823 1101.0217 43.7803 1101.01 43.7803 c
+1101.0217 43.7935 1101.6359 46.5987 y
+1101.6477 46.5987 1104.5793 46.5987 y
+f
+0 0 0 0 k
+1158.2385 41.3833 m
+1160.8137 53.4464 l
+1167.1407 53.4464 l
+1170.2014 53.2374 1171.3303 51.4127 1171.7014 49.7565 c
+1172.2083 46.9942 1171.7316 41.4991 1164.7786 41.3833 c
+1164.7805 41.3975 1164.7542 41.3833 1164.7786 41.3833 c
+1158.2385 41.3833 l
+f
+1158.8606 41.3833 m
+1155.504 41.3858 l
+1155.5022 41.3799 1155.0374 43.4229 1155.01 43.4468 c
+1149.5568 43.4468 l
+1149.5676 43.4229 1148.3053 41.3828 1148.3053 41.3496 c
+1145.1404 41.3506 l
+1152.4241 53.4625 l
+1152.4279 53.4576 1156.2561 53.4669 1156.2717 53.4625 c
+1156.2717 53.4723 1158.8606 41.3833 y
+f
+0 0 0 1 k
+1165.845 51.211 m
+1169.5071 51.211 1169.4124 43.6783 1164.0354 43.6084 c
+1164.0393 43.6094 1162.0529 43.6094 1162.0529 43.6084 c
+1163.6661 51.2081 l
+1163.6799 51.2042 1165.8469 51.2106 1165.845 51.211 c
+f
+1151.01 45.8335 m
+1153.5822 50.2364 l
+1154.4885 45.8335 l
+1151.01 45.8335 l
+f
+Q
+Q
+q
+649.301 0.0301 323.834 205.744 re
+W n
+q
+673.124 196.0401 m
+673.124 22.731 l
+940.686 22.731 l
+940.686 196.0401 l
+W n
+/GS1 gs
+4 M 0.75 w 
+0 0 0 1 K
+940.686 162.8153 m
+679.9209 162.8153 l
+S
+BT
+/F4 1 Tf
+8 0 0 8 679.9209 149.0665 Tm
+0 g
+(Life Science)Tj
+0 -1.125 TD
+(Group)Tj
+ET
+940.686 35.511 m
+679.9209 35.511 l
+S
+BT
+/F4 1 Tf
+6 0 0 6 869.931 24.0171 Tm
+-0.012 Tc
+[(06-0678    1206    Sig 1)40(106)]TJ
+-31.66835 -0.00417 TD
+(10008244    US/EG    Rev H)Tj
+ET
+/GS2 gs
+0 0 0 1 k
+736.3174 176.2216 m
+741.7896 176.2216 746.2266 180.6591 746.2266 186.1318 c
+746.2266 191.6045 741.7896 196.0401 736.3174 196.0401 c
+683.0327 196.0401 l
+677.5605 196.0401 673.124 191.6045 673.124 186.1318 c
+673.124 180.6591 677.5605 176.2216 683.0327 176.2216 c
+736.3174 176.2216 l
+f
+0 0 0 0 k
+705.169 189.5537 m
+706.3159 187.4854 705.5469 184.829 704.1128 183.126 c
+702.4839 181.0595 699.5065 180.6532 697.2374 181.1942 c
+695.7344 181.6532 695.0197 182.6875 694.7487 183.8485 c
+694.416 186.1729 695.2877 188.4053 696.9468 190.0352 c
+698.4254 191.4541 700.6245 191.7275 702.6465 191.3516 c
+703.5972 191.0957 704.5963 190.5186 705.169 189.5537 c
+f
+688.1939 181.6591 m
+687.4131 181.3056 686.8076 181.205 685.4082 181.1903 c
+679.7412 181.1903 l
+681.8066 191.0576 l
+687.8604 191.0527 l
+690.1992 191.0527 690.8399 189.2432 690.0879 187.7705 c
+689.7071 187.0254 689.0806 186.6611 688.5469 186.4463 c
+688.5396 186.4385 688.562 186.457 688.5469 186.46 c
+688.5396 186.4141 688.5777 186.4326 688.5469 186.46 c
+688.5396 186.4531 688.5396 186.4326 688.5469 186.46 c
+690.8555 185.5253 690.1851 182.5547 688.1939 181.6591 c
+f
+692.9678 181.1855 m
+690.2066 181.1855 l
+692.3643 191.001 l
+695.0801 191.001 l
+692.9678 181.1855 l
+f
+717.168 191.0732 m
+722.0904 191.1484 720.7139 186.4326 717.9752 185.6758 c
+717.9752 185.6552 717.979 185.661 717.9752 185.6758 c
+719.6011 185.1689 719.4688 182.8975 719.3555 181.1796 c
+716.1656 181.1796 l
+716.1934 181.7069 717.6773 185.2255 715.4141 185.1317 c
+713.194 185.1317 l
+713.2017 185.1239 712.6426 182.5009 712.356 181.1875 c
+709.6577 181.1875 l
+709.6685 181.1796 710.4664 185.1239 710.4746 185.1317 c
+707.5762 185.1357 l
+708.0026 187.1084 l
+710.8877 187.1084 l
+711.8024 191.0732 l
+717.168 191.0732 l
+f
+0 0 0 1 k
+686.4541 189.2197 m
+688.3565 189.2197 687.5406 187.292 686.5215 187.2539 c
+685.7487 187.2539 683.645 187.2539 683.6548 187.2432 c
+684.0508 189.2236 l
+684.0586 189.2158 686.4541 189.2197 y
+f
+702.2881 188.7295 m
+703.2876 187.7725 702.6237 185.7353 701.9595 184.6201 c
+701.2321 183.4911 700.4396 183.2471 700.0822 183.1514 c
+698.9689 182.9442 698.2632 183.3056 697.9615 183.8485 c
+697.4219 184.6982 697.7764 187.251 698.9082 188.3984 c
+699.6934 189.3486 701.3828 189.5908 702.2881 188.7295 c
+f
+716.2442 189.1865 m
+718.0918 189.0742 717.7149 187.1494 716.3755 187.0928 c
+716.3947 187.0557 713.6143 187.1006 713.6143 187.082 c
+714.084 189.1846 l
+716.2438 189.1885 716.2442 189.1865 v
+f
+685.6729 185.453 m
+688.1724 185.5282 687.8887 183.0186 685.8804 183.1591 c
+685.8804 183.1611 682.7778 183.1591 682.7686 183.1591 c
+682.7778 183.1709 683.2775 185.453 y
+683.2871 185.453 685.6729 185.453 y
+f
+0 0 0 0 k
+729.3322 181.2079 m
+731.4243 191.0225 l
+736.5739 191.0225 l
+739.0635 190.8545 739.982 189.3691 740.2852 188.0205 c
+740.6978 185.7744 740.3082 181.3036 734.6505 181.2079 c
+734.6525 181.2206 734.632 181.2079 734.6505 181.2079 c
+729.3322 181.2079 l
+f
+729.8369 181.2079 m
+727.1055 181.2118 l
+727.1045 181.207 726.7266 182.8692 726.7042 182.8866 c
+722.2672 182.8866 l
+722.2749 182.8692 721.2481 181.2079 721.2481 181.1817 c
+718.674 181.1835 l
+724.5987 191.0381 l
+724.6016 191.0322 727.7168 191.041 727.7296 191.0381 c
+727.7296 191.0459 729.8369 181.2079 y
+f
+0 0 0 1 k
+735.5181 189.2061 m
+738.4976 189.2061 738.4219 183.0762 734.0474 183.0194 c
+734.0504 183.0204 732.4341 183.0204 732.4336 183.0194 c
+733.7457 189.2031 l
+733.7574 189.1992 735.52 189.2041 735.5181 189.2061 c
+f
+723.4478 184.829 m
+725.5415 188.4131 l
+726.2803 184.829 l
+723.4478 184.829 l
+f
+/GS3 gs
+BT
+/F5 1 Tf
+8 0 0 8 764.3594 186.1182 Tm
+0 g
+0 Tc
+(B)Tj
+(io-Ra)Tj
+3.35094 0 Td
+(d)Tj
+-3.35095 -1.125 TD
+(L)Tj
+(abor)Tj
+2.85298 0 Td
+(ator)Tj
+2.019 0 Td
+(ies, Inc.)Tj
+6 0 0 6 764.3961 151.4209 Tm
+-0.013 Tc
+(Web site )Tj
+/F4 1 Tf
+4.53083 0 Td
+(www.bio-rad.com  )Tj
+/F6 1 Tf
+(USA)Tj
+/F5 1 Tf
+10.42683 0 Td
+0 Tc
+( )Tj
+/F4 1 Tf
+0.302 0 Td
+-0.013 Tc
+(800)Tj
+1.894 0 Td
+(4)Tj
+/F7 1 Tf
+(BIO)Tj
+/F4 1 Tf
+0 Tc
+(R)Tj
+/F7 1 Tf
+2.879 0 Td
+-0.013 Tc
+(AD)Tj
+/F4 1 Tf
+1.345 0 Td
+( )Tj
+/F6 1 Tf
+-21.37766 -1.13 TD
+0 Tc
+(A)Tj
+/F8 1 Tf
+0.69097 0 Td
+(u)Tj
+/F5 1 Tf
+0.617 0 Td
+-0.013 Tc
+(stra)Tj
+/F8 1 Tf
+1.89302 0 Td
+0 Tc
+(l)Tj
+/F5 1 Tf
+0.283 0 Td
+-0.013 Tc
+(ia )Tj
+/F4 1 Tf
+1.16483 0 Td
+-0.04 Tw
+(61 02 )Tj
+/F9 1 Tf
+2.662 0 Td
+0 Tw
+(99)Tj
+/F4 1 Tf
+1.08601 0 Td
+(14 2800  )Tj
+/F6 1 Tf
+4.05298 0 Td
+0 Tc
+(A)Tj
+/F8 1 Tf
+0.69101 0 Td
+(u)Tj
+/F5 1 Tf
+0.617 0 Td
+-0.013 Tc
+(stria )Tj
+/F4 1 Tf
+2.478 0 Td
+(01)Tj
+1.351 0 Td
+(877)Tj
+1.894 0 Td
+(8)Tj
+/F9 1 Tf
+0 Tc
+(9)Tj
+/F4 1 Tf
+1.35101 0 Td
+-0.013 Tc
+(01)Tj
+/F5 1 Tf
+-20.83184 -1.13 TD
+(Be)Tj
+/F8 1 Tf
+1.30697 0 Td
+0 Tc
+(l)Tj
+/F10 1 Tf
+0.28304 0 Td
+(g)Tj
+/F5 1 Tf
+0.59799 0 Td
+(i)Tj
+/F8 1 Tf
+0.283 0 Td
+(u)Tj
+/F10 1 Tf
+0.617 0 Td
+(m)Tj
+/F4 1 Tf
+1.23282 0 Td
+(0)Tj
+/F9 1 Tf
+0.543 0 Td
+(9)Tj
+/F11 1 Tf
+0.80801 0 Td
+(3)Tj
+/F4 1 Tf
+0.543 0 Td
+(8)Tj
+/F11 1 Tf
+0.543 0 Td
+(5)Tj
+0.808 0 Td
+-0.013 Tc
+(55)Tj
+/F4 1 Tf
+1.351 0 Td
+(11)Tj
+/F5 1 Tf
+1.616 0 Td
+(Bra)Tj
+/F12 1 Tf
+1.702 0 Td
+0 Tc
+(z)Tj
+/F5 1 Tf
+0.524 0 Td
+(i)Tj
+/F8 1 Tf
+0.283 0 Td
+(l)Tj
+/F11 1 Tf
+0.58501 0 Td
+-0.013 Tc
+(55)Tj
+/F4 1 Tf
+1.351 0 Td
+(21)Tj
+/F11 1 Tf
+1.351 0 Td
+0 Tc
+(3)Tj
+/F4 1 Tf
+0.543 0 Td
+(2)Tj
+/F11 1 Tf
+0.543 0 Td
+(3)Tj
+/F4 1 Tf
+0.543 0 Td
+-0.013 Tc
+(7)Tj
+/F9 1 Tf
+0.808 0 Td
+0 Tc
+(9)Tj
+/F4 1 Tf
+0.543 0 Td
+-0.013 Tc
+(400)Tj
+/F13 1 Tf
+-19.30883 -1.13 TD
+0 Tc
+(C)Tj
+/F5 1 Tf
+0.728 0 Td
+-0.013 Tc
+(anada )Tj
+/F9 1 Tf
+3.27599 0 Td
+0 Tc
+(9)Tj
+/F4 1 Tf
+0.543 0 Td
+(0)Tj
+/F11 1 Tf
+0.54301 0 Td
+(5)Tj
+/F4 1 Tf
+0.808 0 Td
+-0.013 Tc
+(712 2771  )Tj
+/F13 1 Tf
+4.59599 0 Td
+0 Tc
+(C)Tj
+/F14 1 Tf
+0.72784 0 Td
+(h)Tj
+/F5 1 Tf
+0.61699 0 Td
+-0.013 Tc
+(ina )Tj
+/F4 1 Tf
+1.782 0 Td
+(86)Tj
+1.351 0 Td
+(21)Tj
+1.351 0 Td
+(6426)Tj
+2.437 0 Td
+(0808)Tj
+/F13 1 Tf
+-18.75982 -1.13 TD
+0 Tc
+(C)Tj
+/F12 1 Tf
+0.728 0 Td
+(z)Tj
+/F5 1 Tf
+0.52397 0 Td
+-0.013 Tc
+(ec)Tj
+/F14 1 Tf
+1.15903 0 Td
+0 Tc
+(h)Tj
+/F5 1 Tf
+0.91899 0 Td
+-0.013 Tc
+(Re)Tj
+/F15 1 Tf
+1.30684 0 Td
+0 Tc
+(p)Tj
+/F8 1 Tf
+0.61699 0 Td
+(u)Tj
+/F5 1 Tf
+0.617 0 Td
+(b)Tj
+/F8 1 Tf
+0.617 0 Td
+(l)Tj
+/F5 1 Tf
+0.283 0 Td
+-0.013 Tc
+(ic )Tj
+/F4 1 Tf
+(420 241 4)Tj
+/F11 1 Tf
+0 Tc
+(3)Tj
+/F4 1 Tf
+6.01999 0 Td
+-0.013 Tc
+(0)Tj
+/F11 1 Tf
+0.808 0 Td
+(53)Tj
+/F4 1 Tf
+(2)Tj
+/F16 1 Tf
+2.15901 0 Td
+0 Tc
+(D)Tj
+/F5 1 Tf
+0.74599 0 Td
+-0.013 Tc
+(en)Tj
+/F10 1 Tf
+0 Tc
+(m)Tj
+/F5 1 Tf
+2.14601 0 Td
+-0.013 Tc
+(ar)Tj
+/F16 1 Tf
+0.993 0 Td
+0 Tc
+(k)Tj
+/F4 1 Tf
+0.86284 0 Td
+-0.013 Tc
+(44)Tj
+/F11 1 Tf
+1.351 0 Td
+0 Tc
+(5)Tj
+/F4 1 Tf
+0.543 0 Td
+-0.013 Tc
+(2)Tj
+0.808 0 Td
+(10)Tj
+1.351 0 Td
+(00)Tj
+/F17 1 Tf
+-24.55866 -1.13 TD
+0 Tc
+(F)Tj
+/F5 1 Tf
+0.59798 0 Td
+-0.013 Tc
+(in)Tj
+/F8 1 Tf
+0.90002 0 Td
+0 Tc
+(l)Tj
+/F5 1 Tf
+0.283 0 Td
+-0.013 Tc
+(and )Tj
+/F4 1 Tf
+2.11584 0 Td
+0 Tc
+(0)Tj
+/F9 1 Tf
+0.54298 0 Td
+(9)Tj
+/F4 1 Tf
+0.808 0 Td
+-0.013 Tc
+(804 22 00  )Tj
+/GS2 gs
+/F17 1 Tf
+4.86101 0 Td
+0 Tc
+(F)Tj
+/F5 1 Tf
+0.59801 0 Td
+-0.013 Tc
+(rance )Tj
+/F4 1 Tf
+3.071 0 Td
+(01 47 )Tj
+/F9 1 Tf
+0 Tc
+(9)Tj
+/F11 1 Tf
+3.245 0 Td
+(5)Tj
+/F4 1 Tf
+0.808 0 Td
+-0.013 Tc
+(6)Tj
+/F9 1 Tf
+0 Tc
+(9)Tj
+/F4 1 Tf
+1.351 0 Td
+-0.013 Tc
+(6)Tj
+/F11 1 Tf
+0 Tc
+(5)Tj
+/GS3 gs
+/F17 1 Tf
+-19.18183 -1.16667 TD
+(G)Tj
+/F5 1 Tf
+0.76501 0 Td
+-0.013 Tc
+(er)Tj
+/F10 1 Tf
+1.01099 0 Td
+0 Tc
+(m)Tj
+/F5 1 Tf
+0.931 0 Td
+-0.013 Tc
+(an)Tj
+/F17 1 Tf
+1.19701 0 Td
+0 Tc
+(y)Tj
+/F4 1 Tf
+0.826 0 Td
+-0.013 Tc
+(08)Tj
+/F9 1 Tf
+1.086 0 Td
+0 Tc
+(9)Tj
+/F11 1 Tf
+0.808 0 Td
+(3)Tj
+/F4 1 Tf
+0.54283 0 Td
+-0.013 Tc
+(18 84 0 )Tj
+/F5 1 Tf
+3.50999 0 Td
+0 Tc
+( )Tj
+/GS2 gs
+/F17 1 Tf
+0.302 0 Td
+(G)Tj
+/F5 1 Tf
+0.765 0 Td
+-0.013 Tc
+(reece )Tj
+/F11 1 Tf
+3.07001 0 Td
+0 Tc
+(3)Tj
+/F4 1 Tf
+0.543 0 Td
+-0.013 Tc
+(0)Tj
+0.80798 0 Td
+(210)Tj
+1.894 0 Td
+(777)Tj
+1.894 0 Td
+(4)Tj
+/F11 1 Tf
+0.54301 0 Td
+0 Tc
+(3)Tj
+/F9 1 Tf
+0.543 0 Td
+(9)Tj
+/F4 1 Tf
+0.54301 0 Td
+(6)Tj
+/GS3 gs
+/F17 1 Tf
+-21.58184 -1.13 TD
+(H)Tj
+/F5 1 Tf
+0.728 0 Td
+-0.013 Tc
+(on)Tj
+/F10 1 Tf
+1.215 0 Td
+0 Tc
+(g)Tj
+/F17 1 Tf
+0.89999 0 Td
+(K)Tj
+/F5 1 Tf
+0.728 0 Td
+-0.013 Tc
+(on)Tj
+/F10 1 Tf
+1.21501 0 Td
+0 Tc
+(g)Tj
+/F4 1 Tf
+0.89983 0 Td
+(8)Tj
+/F11 1 Tf
+0.543 0 Td
+(5)Tj
+/F4 1 Tf
+0.54301 0 Td
+-0.013 Tc
+(2)Tj
+0.808 0 Td
+(278)Tj
+/F9 1 Tf
+1.62898 0 Td
+0 Tc
+(9)Tj
+/F11 1 Tf
+0.80801 0 Td
+-0.013 Tc
+(33)Tj
+/F4 1 Tf
+1.086 0 Td
+(00)Tj
+/F17 1 Tf
+1.616 0 Td
+0 Tc
+(H)Tj
+/F8 1 Tf
+0.728 0 Td
+(u)Tj
+/F5 1 Tf
+0.617 0 Td
+(n)Tj
+/F10 1 Tf
+0.61699 0 Td
+(g)Tj
+/F5 1 Tf
+0.59801 0 Td
+-0.013 Tc
+(ar)Tj
+/F17 1 Tf
+0.99301 0 Td
+0 Tc
+(y)Tj
+/F11 1 Tf
+0.82599 0 Td
+(3)Tj
+/F4 1 Tf
+0.543 0 Td
+-0.013 Tc
+(6)Tj
+0.808 0 Td
+(1)Tj
+0.808 0 Td
+(4)Tj
+/F11 1 Tf
+(55)Tj
+/F4 1 Tf
+1.629 0 Td
+( 8800)Tj
+/F5 1 Tf
+-20.88582 -1.13 TD
+(India )Tj
+/F9 1 Tf
+2.701 0 Td
+0 Tc
+(9)Tj
+/F4 1 Tf
+0.543 0 Td
+-0.013 Tc
+(1)Tj
+0.808 0 Td
+(124 402)Tj
+/F9 1 Tf
+0 Tc
+(9)Tj
+/F11 1 Tf
+4.06601 0 Td
+(3)Tj
+/F4 1 Tf
+0.543 0 Td
+-0.013 Tc
+(00  )Tj
+/F5 1 Tf
+1.61598 0 Td
+(Israe)Tj
+/F8 1 Tf
+2.41684 0 Td
+0 Tc
+(l)Tj
+/F4 1 Tf
+0.58501 0 Td
+(0)Tj
+/F11 1 Tf
+0.543 0 Td
+(3)Tj
+/F9 1 Tf
+0.808 0 Td
+(9)Tj
+/F4 1 Tf
+0.543 0 Td
+(6)Tj
+/F11 1 Tf
+0.543 0 Td
+(3)Tj
+/F4 1 Tf
+0.808 0 Td
+-0.013 Tc
+(60)Tj
+/F11 1 Tf
+0 Tc
+(5)Tj
+/F4 1 Tf
+1.62901 0 Td
+-0.013 Tc
+(0)Tj
+/F5 1 Tf
+1.073 0 Td
+(Ita)Tj
+/F8 1 Tf
+1.258 0 Td
+0 Tc
+(l)Tj
+/F17 1 Tf
+0.283 0 Td
+(y)Tj
+/F11 1 Tf
+0.82599 0 Td
+(3)Tj
+/F9 1 Tf
+0.543 0 Td
+(9)Tj
+/F4 1 Tf
+0.808 0 Td
+-0.013 Tc
+(02 2160)Tj
+/F9 1 Tf
+3.52301 0 Td
+0 Tc
+(9)Tj
+/F4 1 Tf
+0.54298 0 Td
+-0.013 Tc
+(1)Tj
+/F18 1 Tf
+-27.00982 -1.12998 TD
+0 Tc
+(J)Tj
+/F5 1 Tf
+0.57998 0 Td
+(a)Tj
+/F15 1 Tf
+0.57999 0 Td
+(p)Tj
+/F5 1 Tf
+0.61702 0 Td
+-0.013 Tc
+(an )Tj
+/F4 1 Tf
+0 Tc
+(0)Tj
+/F11 1 Tf
+2.04201 0 Td
+(3)Tj
+0.808 0 Td
+(5)Tj
+/F4 1 Tf
+0.54301 0 Td
+-0.013 Tc
+(811 6270  )Tj
+/F17 1 Tf
+4.59599 0 Td
+0 Tc
+(K)Tj
+/F5 1 Tf
+0.72783 0 Td
+-0.013 Tc
+(orea )Tj
+/F4 1 Tf
+2.491 0 Td
+(82)Tj
+1.351 0 Td
+(2)Tj
+/F11 1 Tf
+0.808 0 Td
+0 Tc
+(3)Tj
+/F4 1 Tf
+0.54301 0 Td
+-0.013 Tc
+(47)Tj
+/F11 1 Tf
+1.086 0 Td
+0 Tc
+(3)Tj
+/F4 1 Tf
+0.808 0 Td
+-0.013 Tc
+(4460)Tj
+/F19 1 Tf
+-17.58083 -1.13 TD
+0 Tc
+(M)Tj
+/F5 1 Tf
+0.91297 0 Td
+(e)Tj
+/F19 1 Tf
+0.59802 0 Td
+(x)Tj
+/F5 1 Tf
+0.524 0 Td
+-0.013 Tc
+(ico )Tj
+/F11 1 Tf
+0 Tc
+(5)Tj
+/F4 1 Tf
+2.287 0 Td
+-0.013 Tc
+(2)Tj
+/F11 1 Tf
+0.808 0 Td
+(555)Tj
+/F4 1 Tf
+1.62901 0 Td
+( 488 7670  )Tj
+/F20 1 Tf
+4.86099 0 Td
+0 Tc
+(T)Tj
+/F14 1 Tf
+0.61682 0 Td
+(h)Tj
+/F5 1 Tf
+0.617 0 Td
+-0.013 Tc
+(e)Tj
+/F20 1 Tf
+0.89999 0 Td
+0 Tc
+(N)Tj
+/F5 1 Tf
+0.728 0 Td
+-0.013 Tc
+(et)Tj
+/F14 1 Tf
+0.97401 0 Td
+0 Tc
+(h)Tj
+/F5 1 Tf
+0.617 0 Td
+-0.013 Tc
+(er)Tj
+/F8 1 Tf
+1.01099 0 Td
+0 Tc
+(l)Tj
+/F5 1 Tf
+0.28302 0 Td
+-0.013 Tc
+(ands )Tj
+/F4 1 Tf
+0 Tc
+(0)Tj
+/F11 1 Tf
+3.18298 0 Td
+(3)Tj
+/F4 1 Tf
+0.543 0 Td
+-0.013 Tc
+(18)Tj
+/F11 1 Tf
+1.351 0 Td
+0 Tc
+(5)Tj
+/F4 1 Tf
+0.543 0 Td
+-0.013 Tc
+(40666)Tj
+/F20 1 Tf
+-22.98682 -1.13 TD
+0 Tc
+(N)Tj
+/F5 1 Tf
+0.728 0 Td
+(e)Tj
+/F21 1 Tf
+0.59798 0 Td
+(w)Tj
+1.12201 0 Td
+(Z)Tj
+/F5 1 Tf
+0.65401 0 Td
+-0.013 Tc
+(ea)Tj
+/F8 1 Tf
+1.17801 0 Td
+0 Tc
+(l)Tj
+/F5 1 Tf
+0.28299 0 Td
+-0.013 Tc
+(and )Tj
+/F4 1 Tf
+2.11583 0 Td
+0 Tc
+(0)Tj
+/F11 1 Tf
+0.54301 0 Td
+(5)Tj
+/F4 1 Tf
+0.54298 0 Td
+-0.013 Tc
+(08)Tj
+1.351 0 Td
+(80)Tj
+/F11 1 Tf
+1.08601 0 Td
+0 Tc
+(5)Tj
+0.80798 0 Td
+(5)Tj
+/F4 1 Tf
+0.54301 0 Td
+-0.013 Tc
+(00)Tj
+/F20 1 Tf
+1.616 0 Td
+0 Tc
+(N)Tj
+/F5 1 Tf
+0.72801 0 Td
+-0.013 Tc
+(or)Tj
+/F21 1 Tf
+1.01099 0 Td
+0 Tc
+(w)Tj
+/F5 1 Tf
+0.82001 0 Td
+(a)Tj
+/F17 1 Tf
+0.58 0 Td
+(y)Tj
+/F4 1 Tf
+0.82599 0 Td
+(2)Tj
+/F11 1 Tf
+0.543 0 Td
+(3)Tj
+0.808 0 Td
+(3)Tj
+/F4 1 Tf
+0.54301 0 Td
+-0.013 Tc
+(8)Tj
+0.808 0 Td
+(41 )Tj
+/F11 1 Tf
+0 Tc
+(3)Tj
+/F4 1 Tf
+1.89398 0 Td
+-0.013 Tc
+(0)Tj
+/F22 1 Tf
+-21.72983 -1.13 TD
+0 Tc
+(P)Tj
+/F5 1 Tf
+0.67199 0 Td
+(o)Tj
+/F8 1 Tf
+0.59799 0 Td
+(l)Tj
+/F5 1 Tf
+0.28302 0 Td
+-0.013 Tc
+(and )Tj
+/F4 1 Tf
+(48 22 )Tj
+/F11 1 Tf
+4.81799 0 Td
+(33)Tj
+/F4 1 Tf
+1.08601 0 Td
+(1)Tj
+/F9 1 Tf
+0.808 0 Td
+(99)Tj
+/F4 1 Tf
+1.08598 0 Td
+0 Tc
+( )Tj
+/F9 1 Tf
+0.265 0 Td
+-0.013 Tc
+(99)Tj
+/F22 1 Tf
+1.616 0 Td
+0 Tc
+(P)Tj
+/F5 1 Tf
+0.67201 0 Td
+-0.013 Tc
+(ort)Tj
+/F8 1 Tf
+1.38683 0 Td
+0 Tc
+(u)Tj
+/F10 1 Tf
+0.617 0 Td
+(g)Tj
+/F5 1 Tf
+0.59801 0 Td
+(a)Tj
+/F8 1 Tf
+0.58 0 Td
+(l)Tj
+/F11 1 Tf
+0.58499 0 Td
+-0.013 Tc
+(35)Tj
+/F4 1 Tf
+1.08601 0 Td
+(1)Tj
+0.808 0 Td
+(21 472 7700  )Tj
+/F5 1 Tf
+-17.56484 -1.13 TD
+0 Tc
+(R)Tj
+/F8 1 Tf
+0.70898 0 Td
+(u)Tj
+/F5 1 Tf
+0.61699 0 Td
+-0.013 Tc
+(ssia )Tj
+/F4 1 Tf
+2.21286 0 Td
+(7)Tj
+0.808 0 Td
+(4)Tj
+/F9 1 Tf
+0.54301 0 Td
+0 Tc
+(9)Tj
+/F11 1 Tf
+0.543 0 Td
+(5)Tj
+/F4 1 Tf
+0.808 0 Td
+-0.013 Tc
+(721 14 04  )Tj
+/F6 1 Tf
+4.86099 0 Td
+0 Tc
+(S)Tj
+/F5 1 Tf
+0.65401 0 Td
+-0.013 Tc
+(in)Tj
+/F10 1 Tf
+0.89999 0 Td
+0 Tc
+(g)Tj
+/F5 1 Tf
+0.59799 0 Td
+(a)Tj
+/F15 1 Tf
+0.58 0 Td
+(p)Tj
+/F5 1 Tf
+0.617 0 Td
+-0.013 Tc
+(ore )Tj
+/F4 1 Tf
+1.911 0 Td
+0 Tc
+(6)Tj
+/F11 1 Tf
+0.54301 0 Td
+(5)Tj
+/F4 1 Tf
+0.808 0 Td
+-0.013 Tc
+(641)Tj
+/F11 1 Tf
+1.62898 0 Td
+0 Tc
+(5)Tj
+0.80801 0 Td
+(3)Tj
+/F4 1 Tf
+0.543 0 Td
+-0.013 Tc
+(188)Tj
+/F6 1 Tf
+-20.69283 -1.13 TD
+0 Tc
+(S)Tj
+/F5 1 Tf
+0.65398 0 Td
+(o)Tj
+/F8 1 Tf
+0.59799 0 Td
+(u)Tj
+/F5 1 Tf
+0.61702 0 Td
+(t)Tj
+/F14 1 Tf
+0.37601 0 Td
+(h)Tj
+/F6 1 Tf
+0.91899 0 Td
+(A)Tj
+/F23 1 Tf
+0.69101 0 Td
+(f)Tj
+/F5 1 Tf
+0.35699 0 Td
+-0.013 Tc
+(rica)Tj
+/F4 1 Tf
+1.83682 0 Td
+( 27 861 246 72)Tj
+/F11 1 Tf
+6.49001 0 Td
+0 Tc
+(3)Tj
+/F6 1 Tf
+1.11 0 Td
+(S)Tj
+/F15 1 Tf
+0.65401 0 Td
+(p)Tj
+/F5 1 Tf
+0.61699 0 Td
+-0.013 Tc
+(ain )Tj
+/F11 1 Tf
+1.76201 0 Td
+0 Tc
+(3)Tj
+/F4 1 Tf
+0.543 0 Td
+(4)Tj
+/F9 1 Tf
+0.76801 0 Td
+(9)Tj
+/F4 1 Tf
+0.543 0 Td
+(1)Tj
+/F11 1 Tf
+0.76799 0 Td
+(5)Tj
+/F9 1 Tf
+0.543 0 Td
+(9)Tj
+/F4 1 Tf
+0.543 0 Td
+(0)Tj
+/F11 1 Tf
+0.76801 0 Td
+(5)Tj
+/F4 1 Tf
+0.543 0 Td
+-0.013 Tc
+(200)Tj
+/F6 1 Tf
+-21.70083 -1.13 TD
+0 Tc
+(S)Tj
+/F21 1 Tf
+0.65398 0 Td
+(w)Tj
+/F5 1 Tf
+0.82001 0 Td
+-0.013 Tc
+(eden )Tj
+/F4 1 Tf
+2.71201 0 Td
+(08 )Tj
+/F11 1 Tf
+1.31099 0 Td
+(555)Tj
+/F4 1 Tf
+1.62901 0 Td
+-0.06 Tw
+[( 12700 )-60( )]TJ
+/F6 1 Tf
+3.45 0 Td
+0 Tc
+(S)Tj
+/F21 1 Tf
+0.65401 0 Td
+(w)Tj
+/F5 1 Tf
+0.81982 0 Td
+-0.013 Tc
+0 Tw
+(it)Tj
+/F12 1 Tf
+0.659 0 Td
+0 Tc
+(z)Tj
+/F5 1 Tf
+0.524 0 Td
+-0.013 Tc
+(er)Tj
+/F8 1 Tf
+0 Tc
+(l)Tj
+/F5 1 Tf
+1.29401 0 Td
+-0.013 Tc
+(and )Tj
+/F4 1 Tf
+2.09599 0 Td
+(061)Tj
+1.83401 0 Td
+(717)Tj
+/F9 1 Tf
+1.85399 0 Td
+0 Tc
+(9)Tj
+/F11 1 Tf
+0.543 0 Td
+(5)Tj
+0.76801 0 Td
+-0.013 Tc
+(55)Tj
+/F20 1 Tf
+-21.62184 -1.13 TD
+0 Tc
+(T)Tj
+/F5 1 Tf
+0.61698 0 Td
+-0.013 Tc
+(ai)Tj
+/F21 1 Tf
+0.86302 0 Td
+0 Tc
+(w)Tj
+/F5 1 Tf
+0.81999 0 Td
+-0.013 Tc
+(an )Tj
+/F4 1 Tf
+1.479 0 Td
+-0.04 Tw
+(886 2 2)Tj
+/F11 1 Tf
+3.16501 0 Td
+0 Tc
+(5)Tj
+/F4 1 Tf
+0.54282 0 Td
+-0.013 Tc
+(78 718)Tj
+/F9 1 Tf
+0 Tc
+(9)Tj
+/F6 1 Tf
+4.013 0 Td
+(U)Tj
+/F5 1 Tf
+0.72801 0 Td
+-0.013 Tc
+0 Tw
+(nited )Tj
+/F17 1 Tf
+2.773 0 Td
+0 Tc
+(K)Tj
+/F5 1 Tf
+0.728 0 Td
+-0.013 Tc
+(in)Tj
+/F10 1 Tf
+0.89999 0 Td
+0 Tc
+(g)Tj
+/F5 1 Tf
+0.59801 0 Td
+-0.013 Tc
+(do)Tj
+/F10 1 Tf
+1.21501 0 Td
+0 Tc
+(m)Tj
+/F4 1 Tf
+1.213 0 Td
+-0.013 Tc
+(020)Tj
+1.85399 0 Td
+0 Tc
+(8)Tj
+/F11 1 Tf
+0.543 0 Td
+(3)Tj
+/F4 1 Tf
+0.54301 0 Td
+-0.013 Tc
+[(28 )60(2000    )]TJ
+ET
+Q
+Q
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/SA true
+/Type/ExtGState
+>>
+endobj
+7 0 obj
+<<
+/Length 73108
+>>
+stream
+/GS0 gs
+1 g
+0 540 0 0 re
+f
+q
+BT
+/F2 1 Tf
+8.5 0 0 8.5 1008 497.6661 Tm
+0 g
+[(Step 4: Reading Arrays With the Pr)17(oteinChip SELDI)-278(Reader)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 1008 485.6661 Tm
+0 g
+-0.006 Tc
+[(After the Pr)18(oteinChip NP20 array has dried, r)17(ead the array in the)]TJ
+0 -1.33333 TD
+[(Pr)18(oteinChip SELDI)-273(r)18(eader using the r)17(ecommended spot pr)18(otocol.)]TJ
+ET
+Q
+q
+BT
+/F2 1 Tf
+7 0 0 7 1008 457.1781 Tm
+0 g
+(Note:)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+7 0 0 7 1027.3132 457.1781 Tm
+0 g
+[(Please r)18(efer to the Pr)17(oteinChip Data Manager Softwar)18(e Operation Manual \(or)]TJ
+-2.75903 -1.28571 TD
+[(to the Pr)18(oteinChip Softwar)17(e Operation Manual if using a Pr)18(oteinChip biology system)]TJ
+ET
+0.25 w 
+0 G
+1008 436.029 m
+1260 436.029 l
+S
+BT
+/F0 1 Tf
+7 0 0 7 1008 439.1781 Tm
+[((PBS) r)18(eader\) for details on spot pr)17(otocol setup.)]TJ
+ET
+Q
+q
+BT
+/F2 1 Tf
+8.5 0 0 8.5 1008 417.2021 Tm
+0 g
+[(Step 5: Calibrating the Pr)18(oteinChip SELDI)-278(Reader Using the )]TJ
+0 -1.17647 TD
+[(Pr)18(oteinChip All-in-One Peptide Standar)17(d)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 1008 395.2021 Tm
+0 g
+[(After r)18(eading the Pr)17(oteinChip NP20 array and obtaining the)]TJ
+0 -1.33334 TD
+[(average mass spectra for the peptides, r)18(efer to the Pr)17(oteinChip)]TJ
+0 -1.33333 TD
+[(Data Manager Softwar)18(e Operation Manual)-278(to calibrate the r)17(eader)92(.)]TJ
+0 -1.99734 TD
+-0.006 Tc
+[(Calibrate the Pr)18(oteinChip SELDI r)17(eader based on the MW for the )]TJ
+0 -1.33333 TD
+-0.0057 Tc
+(5)Tj
+0.82265 0 Td
+-0.006 Tc
+[((out of 7) peptides that best corr)17(espond to the mass range to)]TJ
+-0.82264 -1.33334 TD
+[(be measur)18(ed. When assigning the bovine insulin )]TJ
+ET
+Q
+q
+BT
+/F28 1 Tf
+9 0 0 9 1194.2874 329.2261 Tm
+0 g
+(b)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 1199.1818 329.2261 Tm
+0 g
+-0.006 Tc
+(-chain peak, be)Tj
+-21.24241 -1.33333 TD
+[(car)18(eful to distinguish between this peak (3,496 Da) and the)]TJ
+T*
+[(doubly charged ion of hirudin \(appar)17(ent mass 3,479.48 Da\),)]TJ
+T*
+[(which is sometimes pr)18(esent. These two peaks ar)17(e close enough)]TJ
+T*
+(together to appear as almost a doublet: the peak with a higher)Tj
+T*
+(mass-to-char)Tj
+5.72776 0 TD
+(ge ratio (m/z) is bovine insulin )Tj
+ET
+Q
+q
+BT
+/F28 1 Tf
+9 0 0 9 1173.7065 269.2261 Tm
+0 g
+(b)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 1178.6011 269.2261 Tm
+0 g
+-0.006 Tc
+(-chain, and is the)Tj
+-18.95566 -1.33334 TD
+(one to be used for calibration.)Tj
+ET
+0.5 w 
+0 G
+36.136 35.758 m
+296.011 35.758 l
+S
+Q
+q
+BT
+/F0 1 Tf
+7 0 0 7 36.136 26.508 Tm
+0 g
+-0.0168 Tc
+<A9>Tj
+1.0722 0 Td
+-0.017 Tc
+0.028 Tw
+(2006 Bio-Rad Laboratories, Inc.)Tj
+ET
+0.5 w 
+0 G
+356.044 35.758 m
+615.476 35.758 l
+S
+BT
+/F0 1 Tf
+7 0 0 7 356.0444 26.508 Tm
+-0.0168 Tc
+<A9>Tj
+1.07219 0 Td
+-0.017 Tc
+(2006 Bio-Rad Laboratories, Inc.)Tj
+ET
+680.044 35.758 m
+939.476 35.758 l
+S
+BT
+/F0 1 Tf
+7 0 0 7 680.0444 26.508 Tm
+-0.0168 Tc
+<A9>Tj
+1.0722 0 Td
+-0.017 Tc
+(2006 Bio-Rad Laboratories, Inc.)Tj
+ET
+1008.397 35.758 m
+1258.939 35.758 l
+S
+BT
+/F0 1 Tf
+7 0 0 7 1008.3973 26.508 Tm
+-0.0168 Tc
+<A9>Tj
+1.07219 0 Td
+-0.017 Tc
+(2006 Bio-Rad Laboratories, Inc.)Tj
+ET
+Q
+q
+BT
+/F1 1 Tf
+9 0 0 9 36.9633 497.3416 Tm
+0 g
+[(Intr)18(oduction)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 36.9633 485.3416 Tm
+0 g
+[(The Pr)18(oteinChip SELDI r)17(eader should be r)18(outinely calibrated.)]TJ
+0 -1.33333 TD
+[(Calibration optimizes the performance of the instr)-1(ument, enabling)]TJ
+T*
+[(users to obtain mor)18(e r)17(eliable r)18(esults.)]TJ
+0 -1.99734 TD
+[(The Pr)18(oteinChip all-in-one peptide standar)17(d is used to calibrate)]TJ
+0 -1.33334 TD
+[(the Pr)18(oteinChip SELDI)-278(r)18(eader in the low mass range, with )]TJ
+0 -1.33333 TD
+-0.0001 Tc
+(7)Tj
+0.83373 0 Td
+0 Tc
+[(peptides ranging in molecular weight (MW) fr)18(om 1,084.25 to)]TJ
+-0.83373 -1.33333 TD
+[(6,963.52. Enough Pr)18(oteinChip all-in-one peptide standar)17(d is)]TJ
+0 -1.33334 TD
+[(pr)18(ovided for 100 calibrations. )]TJ
+0 -1.99733 TD
+[(The Pr)18(oteinChip all-in-one peptide standar)17(d is optimized for use)]TJ
+0 -1.33333 TD
+[(with the Pr)18(oteinChip NP20 array)91(. The Pr)18(oteinChip H4 array has)]TJ
+0 -1.33334 TD
+[(also shown good r)18(esults using this standar)17(d. Use of other)]TJ
+0 -1.33333 TD
+[(Pr)18(oteinChip ar)-1(rays may r)18(esult in loss of one or mor)18(e peaks due to)]TJ
+T*
+[(r)18(etention by the surface.)]TJ
+ET
+Q
+q
+BT
+/F1 1 Tf
+9 0 0 9 36.9633 311.4136 Tm
+0 g
+(Materials)Tj
+ET
+Q
+q
+BT
+/F2 1 Tf
+8.5 0 0 8.5 36.9633 301.4136 Tm
+0 g
+(Materials Included)Tj
+ET
+Q
+q
+BT
+/F31 1 Tf
+4 0 0 4 36.9633 290.9136 Tm
+0 g
+(n)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 47.7633 289.4136 Tm
+0 g
+-0.0001 Tc
+(1)Tj
+0.83372 0 Td
+0 Tc
+[(tube containing lyophilized Pr)18(oteinChip all-in-one peptide)]TJ
+-0.83372 -1.33333 TD
+[(standar)18(d)]TJ
+ET
+0.25 w 
+0 G
+36.963 256.288 m
+219.394 256.288 l
+S
+Q
+q
+BT
+/F32 1 Tf
+7 0 0 7 36.9633 260.4376 Tm
+0 g
+-0.006 Tc
+[(T)111(able 1. Composition of the all-in-one peptide standar)17(d. )]TJ
+ET
+0.25 w 
+0 G
+36.963 245.265 m
+219.394 245.265 l
+S
+Q
+q
+BT
+/F2 1 Tf
+7 0 0 7 36.9633 248.4136 Tm
+0 g
+-0.006 Tc
+(Peptide)Tj
+17.49787 0 TD
+0 Tc
+(A)Tj
+0.64361 0 TD
+-0.006 Tc
+(verage MW)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+7 0 0 7 36.9633 236.3896 Tm
+0 g
+-0.006 Tc
+(Arg)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+4.2 0 0 4.2 47.3517 238.3646 Tm
+0 g
+(8)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+7 0 0 7 49.6632 236.3896 Tm
+0 g
+-0.006 Tc
+[(-vasopr)18(essin)-10289(1,084.25)]TJ
+-1.81427 -1.71772 TD
+[(Somatostatin)-11862(1,637.90)]TJ
+0 -1.71771 TD
+[(Dynorphin \(por)18(cine\))-9270(2,147.50)]TJ
+0 -1.71772 TD
+(ACTH (1\32024) (human))Tj
+17.49787 0 TD
+(2,933.50)Tj
+-17.49787 -1.71772 TD
+(Bovine insulin )Tj
+ET
+Q
+q
+BT
+/F28 1 Tf
+7 0 0 7 79.2754 188.2936 Tm
+0 g
+(b)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+7 0 0 7 83.0822 188.2936 Tm
+0 g
+-0.006 Tc
+[(-chain)-8277(3,495.94)]TJ
+-6.58841 -1.71772 TD
+[(Human insulin)-11517(5,807.65)]TJ
+ET
+0.25 w 
+0 G
+36.963 161.097 m
+219.394 161.097 l
+S
+BT
+/F0 1 Tf
+7 0 0 7 36.9633 164.2456 Tm
+[(Hirudin, r)17(ecombinant)-8646(6,963.52)]TJ
+ET
+Q
+q
+BT
+/F2 1 Tf
+8.5 0 0 8.5 36.9633 140.1976 Tm
+0 g
+(Materials Needed but Not Included)Tj
+ET
+Q
+q
+BT
+/F31 1 Tf
+4 0 0 4 36.9633 129.6976 Tm
+0 g
+(n)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 47.7633 128.1976 Tm
+0 g
+(Resuspension solution, 50 \265l \(final concentration is 10 mM)Tj
+0 -1.3333 TD
+[(ammonium acetate, 25% acetonitrile, 1.25% trifluor)18(oacetic)]TJ
+T*
+(acid \(TF)Tj
+3.353 0 TD
+(A\)\). Add 25 )Tj
+5.1128 0 TD
+(\265l acetonitrile into an Eppendorf tube)Tj
+-8.4658 -1.3333 TD
+[(containing 25 \265l of 5% TF)55(A. Add 50 \265l of 20 mM ammonium)]TJ
+T*
+[(acetate to make 100 \265l r)18(esuspension solution.)]TJ
+70.31269 46.29194 TD
+[(7.)-367(Flick mix the pooled standar)18(d solutions, micr)18(ocentrifuge briefly if)]TJ
+1.2 -1.33334 TD
+[(necessary)92(, and divide into single-use aliquots. Stor)17(e r)18(emaining)]TJ
+0 -1.33333 TD
+[(aliquots at \32020\241C or lower)92(.)]TJ
+ET
+Q
+q
+BT
+/F2 1 Tf
+8.5 0 0 8.5 680.5775 456.8491 Tm
+0 g
+[(Step 2: Pr)18(eparing the EAM and Peptide Standar)17(d Mix)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 680.5775 444.8491 Tm
+0 g
+[(1.)-367(Add 100 \265)1(l acetonitrile and 100 )-1<B56C>1( )-1(1% )1(TF)54(A to the tube of SP)74(A or)]TJ
+1.2 -1.33334 TD
+(CHCA EAMs.)Tj
+-1.2 -1.66933 TD
+[(2.)-367(Mix the tube vigor)18(ously in a T)111(omy mixer \(T)111(omy Seiko Co., Ltd.\))]TJ
+1.2 -1.33333 TD
+(for at least 15 minutes to dissolve the EAMs.)Tj
+-1.2 -1.66934 TD
+[(3.)-367(Spin in a micr)18(ocentrifuge to pellet any undissolved EAMs.)]TJ
+0 -1.66933 TD
+[(4.)-367(For CHCA only: T)92(ransfer 50 \265l of solution into a new)]TJ
+1.2 -1.33334 TD
+[(micr)18(ocentrifuge tube. T)110(o this tube, add 100 \265l acetonitrile and)]TJ
+0 -1.33333 TD
+[(100 \265l 1% TF)55(A. This solution is 20% saturated CHCA EAMs.)]TJ
+-1.2 -1.66933 TD
+[(5.)-367(Pipet 10 \265l of EAM solution into a)1( mic)-1(r)18(ocentrifuge tube.)]TJ
+0 -1.66934 TD
+[(6.)-367(Add 10 \265)1(l of the r)17(esuspended Pr)18(oteinChip all-in-one peptide)]TJ
+1.2 -1.33333 TD
+(standar)Tj
+3.22241 0 TD
+[(d, flick mix, and micr)18(ocentrifuge briefly)91(. The sample is)]TJ
+-3.22241 -1.33334 TD
+[(now r)18(eady to be applied to a Pr)17(oteinChip array)92(.)]TJ
+ET
+Q
+q
+BT
+/F2 1 Tf
+8.5 0 0 8.5 680.5775 281.7531 Tm
+0 g
+[(Step 3: Applying the EAM and Peptide Standar)18(d Mix to a)]TJ
+0 -1.17647 TD
+(Pr)Tj
+1.00097 0 TD
+(oteinChip Ar)Tj
+5.74073 0.00001 TD
+(ray)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 680.5775 259.7531 Tm
+0 g
+[(1.)-367(Pipet 3 \265l of water onto the spots of a new Pr)18(oteinChip NP20)]TJ
+1.2 -1.33334 TD
+[(array \(pr)17(ewetting is optional\).)]TJ
+-1.2 -1.66934 TD
+(2. Using a clean, folded laboratory wipe and working at the side of)Tj
+1.2 -1.33333 TD
+[(the spot, blot the water of)18(f, being car)17(eful not to touch the actual )]TJ
+T*
+[(spot ar)18(ea.)]TJ
+-1.2 -1.66933 TD
+[(3. Pipet 1 \265l of the EAM and Pr)18(oteinChip all-in-one peptide)]TJ
+1.2 -1.33333 TD
+(standar)Tj
+3.22241 0 TD
+-0.0001 Tc
+(d)Tj
+0.85172 0 Td
+0 Tc
+(mix onto each spot, being car)Tj
+12.81527 0 TD
+(eful to avoid touching)Tj
+-16.88941 -1.33334 TD
+(the sur)Tj
+2.96216 0 TD
+(face of the spot with the pipet tip.)Tj
+-4.16216 -1.66934 TD
+[(4. Air)55(-dry the Pr)17(oteinChip array completely (about 10 minutes))]TJ
+1.2 -1.33333 TD
+(befor)Tj
+2.20459 0 TD
+-0.0002 Tc
+(e)Tj
+0.79657 0 Td
+(r)Tj
+0.29719 0 TD
+0 Tc
+(eading in the Pr)Tj
+6.7229 0 TD
+(oteinChip SELDI)Tj
+7.31372 0 TD
+[(r)18(eader)92(.)]TJ
+ET
+Q
+q
+BT
+/F31 1 Tf
+4 0 0 4 357.3345 497.8657 Tm
+0 g
+(n)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 368.1345 496.3657 Tm
+0 g
+[(1% TF)55(A, 100 \265l)]TJ
+ET
+Q
+q
+BT
+/F31 1 Tf
+4 0 0 4 357.3345 482.8417 Tm
+0 g
+(n)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 368.1345 481.3417 Tm
+0 g
+[(Pr)18(oteinChip sinapinic acid \(SP)73(A\) energy absorbing molecules)]TJ
+0 -1.33334 TD
+[((EAMs) in a micr)18(ocentrifuge tube, 5 mg (catalog #C30-00002),)]TJ
+0 -1.33333 TD
+[(or Pr)18(oteinChip alpha-cyano-4-hydr)17(oxycinnamic acid (CHCA))]TJ
+T*
+[(EAMs in a micr)18(ocentrifuge tube, 5 mg (catalog #C30-00001))]TJ
+ET
+Q
+q
+BT
+/F31 1 Tf
+4 0 0 4 357.3345 431.8177 Tm
+0 g
+(n)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 368.1345 430.3177 Tm
+0 g
+(HPLC grade acetonitrile, 100 \265l)Tj
+ET
+Q
+q
+BT
+/F31 1 Tf
+4 0 0 4 357.3345 416.7937 Tm
+0 g
+(n)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 368.1345 415.2937 Tm
+0 g
+[(Pr)18(oteinChip NP20 ar)-1(ray)]TJ
+ET
+Q
+q
+BT
+/F1 1 Tf
+9 0 0 9 357.3345 397.3177 Tm
+0 g
+(Shipping and Storage )Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 357.3345 385.3177 Tm
+0 g
+-0.006 Tc
+[(The Pr)18(oteinChip all-in-one peptide standar)17(d is usually shipped at)]TJ
+0 -1.33333 TD
+[(r)17(oom temperatur)18(e but should be stor)18(ed between \32020\241)-1(C and \32050\241C)]TJ
+T*
+[(upon arrival. After r)18(econstitution, the standar)17(d should be stor)18(ed in)]TJ
+T*
+[(single-use aliquots (e.g., 5\32010 \265l) at \32020)-1(\241C or lower)92(.)]TJ
+0 -1.99733 TD
+0 Tc
+[(Do not stor)18(e in a fr)17(ost-fr)18(ee fr)18(eezer)91(.)]TJ
+ET
+Q
+q
+BT
+/F1 1 Tf
+9 0 0 9 357.3345 313.3657 Tm
+0 g
+[(Pr)17(otocol)]TJ
+ET
+Q
+q
+BT
+/F2 1 Tf
+8.5 0 0 8.5 357.3345 303.3657 Tm
+0 g
+-0.011 Tc
+(Step 1: Reconstituting the Pr)Tj
+12.95607 0 TD
+[(oteinChip All-In-One Peptide Standar)18(d)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+9 0 0 9 357.3345 291.3657 Tm
+0 g
+[(1.)-367(Remove the vial fr)18(om the fr)18(eezer and allow it to warm to r)17(oom)]TJ
+1.2 -1.33334 TD
+[(temperatur)18(e, either on the benchtop or in your hands. W)-24(ipe any)]TJ
+T*
+(condensation of)Tj
+6.88917 0 TD
+-0.0001 Tc
+(f)Tj
+0.5367 0 Td
+0 Tc
+(the outside of the vial befor)Tj
+11.61002 0 TD
+-0.0002 Tc
+(e)Tj
+0.7967 0 Td
+0 Tc
+(opening.)Tj
+-21.03258 -1.66934 TD
+[(2.)-367(Remove the metal ring and discar)18(d.)]TJ
+T*
+[(3.)-367(Remove but do not discar)18(d the rubber septum.)]TJ
+0 -1.66933 TD
+(4.)Tj
+1.2 0 TD
+[(Pipet 25 \265l of r)18(esuspension solution into the bottom of the vial,)]TJ
+0 -1.33333 TD
+[(being car)18(eful not to touch the bottom of the V)54(-shape with the)]TJ
+T*
+(pipet tip.)Tj
+-1.2 -1.66933 TD
+(5.)Tj
+1.2 0 TD
+(Replace the r)Tj
+5.72314 0 TD
+(ubber septum and flick mix \(hold the top of the vial)Tj
+-5.72314 -1.33334 TD
+(loosely in one hand and flick or tap the bottom of the vial with)Tj
+T*
+(the other hand\) the liquid in the vial for at least 30 seconds to )Tj
+0 -1.33333 TD
+(r)Tj
+0.29712 0 TD
+(edissolve the lyophilized peptides. Shake the vial down)Tj
+-0.29712 -1.33334 TD
+[(vigor)18(ously or tap the bottom several times on the benchtop to)]TJ
+0 -1.33333 TD
+(get all liquid into the bottom of the V)Tj
+15.46045 0 TD
+(-well.)Tj
+-16.66045 -1.66934 TD
+[(6.)-367(T)92(ransfer this 25 \265l of liquid to a micr)18(ocentrifuge tube. Pipet an)]TJ
+1.2 -1.33333 TD
+[(additional 25 \265l r)18(esuspension solution into the glass vial. Repeat)]TJ
+T*
+(the mixing steps. Allow vial to stand at r)Tj
+16.99659 0 TD
+(oom temperatur)Tj
+6.92626 0 TD
+-0.0002 Tc
+(e)Tj
+0.79665 0 Td
+0 Tc
+(for )Tj
+-24.7195 -1.33334 TD
+[(10 minutes. Add this liquid to the micr)18(ocentrifuge tube.)]TJ
+ET
+q
+1007.056 110.2691 259.0511 143.235 re
+W n
+q
+1018.343 241.7105 m
+1018.343 -129.677 l
+1260.2634 -129.677 l
+1260.2634 241.7105 l
+W n
+/GS4 gs
+-0.98109 0 0 1.01927 0 0 cm
+1 J 1 j 0.1295 w 
+0 0 0 0.246 K
+-1044.5717 132.7548 m
+-1284.4142 132.7548 l
+S
+0 0 0 0 k
+-1040.5571 130.1647 -2.7193 5.4392 re
+f
+0.2698 w 
+-1044.5717 167.721 m
+-1284.4142 167.721 l
+S
+-1040.5571 165.1309 -2.7193 5.4386 re
+f
+-1044.5717 202.6873 m
+-1284.4142 202.6873 l
+S
+-1037.9668 200.0971 -5.4392 5.4393 re
+f
+-1079.0197 120.7104 m
+-1079.0197 237.0058 l
+S
+-1143.1243 120.7104 m
+-1143.1243 237.0058 l
+S
+-1137.5563 114.3652 -10.8784 5.4392 re
+f
+-1206.9706 120.7104 m
+-1206.9706 237.0058 l
+S
+-1201.4019 114.3652 -10.8784 5.4392 re
+f
+-1271.0747 120.7104 m
+-1271.0747 237.0058 l
+S
+-1265.506 114.3652 -10.8784 5.4392 re
+f
+0 0 0 1 K
+-1044.5717 120.8404 -239.7126 116.1655 re
+s
+q
+-1044.5717 130.8122 m
+-1082.2574 130.8122 l
+-1082.2574 227.552 l
+-1044.5717 227.552 l
+-1044.5717 130.8122 l
+W n
+-1044.5717 132.2368 m
+-1044.5717 131.9778 l
+-1044.5717 133.0138 l
+-1044.5717 132.7548 l
+-1044.8307 132.4958 l
+-1044.8307 131.7188 l
+-1044.8307 133.2728 l
+-1044.8307 133.0138 l
+-1045.0897 133.5318 l
+-1045.0897 133.7908 l
+-1045.0897 132.2368 l
+-1045.3486 132.7548 l
+-1045.3486 132.2368 l
+-1045.3486 133.5318 l
+-1045.3486 133.0138 l
+-1045.6077 132.4958 l
+-1045.6077 132.2368 l
+-1045.6077 133.2728 l
+-1045.6077 132.4958 l
+-1045.8667 132.4958 l
+-1045.8667 133.5318 l
+-1045.8667 131.9778 l
+-1045.8667 132.2368 l
+-1046.1256 133.0138 l
+-1046.1256 134.0498 l
+-1046.1256 131.9778 l
+-1046.1256 132.4958 l
+-1046.3846 133.7908 l
+-1046.3846 131.9778 l
+-1046.3846 133.0138 l
+-1046.6437 132.4958 l
+-1046.6437 133.0138 l
+-1046.6437 131.7188 l
+-1046.6437 131.9778 l
+-1046.9026 132.2368 l
+-1046.9026 131.9778 l
+-1046.9026 134.3088 l
+-1046.9026 133.0138 l
+-1047.1616 133.0138 l
+-1047.1616 131.9778 l
+-1047.1616 133.2728 l
+-1047.4207 133.5318 l
+-1047.4207 133.7908 l
+-1047.4207 131.7188 l
+-1047.4207 132.7548 l
+-1047.6797 132.7548 l
+-1047.6797 132.2368 l
+-1047.6797 134.3088 l
+-1047.6797 133.0138 l
+-1047.9386 132.4958 l
+-1047.9386 131.4597 l
+-1047.9386 133.2728 l
+-1047.9386 133.0138 l
+-1048.1976 132.7548 l
+-1048.1976 133.7908 l
+-1048.1976 133.2728 l
+-1048.4567 133.2728 l
+-1048.4567 134.3088 l
+-1048.4567 131.9778 l
+-1048.7157 133.0138 l
+-1048.7157 132.4958 l
+-1048.7157 134.3088 l
+-1048.7157 133.7908 l
+-1048.9747 133.5318 l
+-1048.9747 134.5679 l
+-1048.9747 131.9778 l
+-1048.9747 133.2728 l
+-1049.2336 133.0138 l
+-1049.2336 132.4958 l
+-1049.2336 134.0498 l
+-1049.2336 133.5318 l
+-1049.4926 134.3088 l
+-1049.4926 133.5318 l
+-1049.4926 136.8984 l
+-1049.4926 135.0859 l
+-1049.7517 134.5679 l
+-1049.7517 133.5318 l
+-1049.7517 216.8032 l
+-1050.0109 227.293 l
+-1050.0109 135.0859 l
+-1050.0109 135.6039 l
+-1050.2698 133.7908 l
+-1050.2698 134.0498 l
+-1050.2698 131.9778 l
+-1050.2698 133.5318 l
+-1050.5289 134.3088 l
+-1050.5289 133.2728 l
+-1050.5289 136.8984 l
+-1050.5289 136.3809 l
+-1050.7878 135.6039 l
+-1050.7878 132.4958 l
+-1050.7878 133.0138 l
+-1050.9172 131.9778 l
+-1050.9172 134.0498 l
+-1050.9172 133.5318 l
+-1051.1763 132.7548 l
+-1051.1763 131.2002 l
+-1051.1763 134.0498 l
+-1051.1763 133.5318 l
+-1051.4353 132.4958 l
+-1051.4353 133.2728 l
+-1051.4353 132.2368 l
+-1051.6942 132.4958 l
+-1051.6942 131.9778 l
+-1051.6942 133.7908 l
+-1051.6942 133.2728 l
+-1051.9532 132.7548 l
+-1051.9532 133.5318 l
+-1051.9532 132.4958 l
+-1052.2123 133.0138 l
+-1052.2123 133.7908 l
+-1052.2123 132.4958 l
+-1052.2123 132.7548 l
+-1052.4712 132.2368 l
+-1052.4712 133.5318 l
+-1052.4712 132.7548 l
+-1052.7302 133.2728 l
+-1052.7302 131.9778 l
+-1052.9893 131.7188 l
+-1052.9893 133.7908 l
+-1052.9893 132.2368 l
+-1053.2485 132.2368 l
+-1053.2485 131.9778 l
+-1053.2485 133.2728 l
+-1053.2485 133.0138 l
+-1053.5076 133.0138 l
+-1053.5076 133.7908 l
+-1053.5076 132.2368 l
+-1053.5076 132.4958 l
+-1053.7665 132.4958 l
+-1053.7665 134.5679 l
+-1053.7665 132.4958 l
+-1054.0255 132.2368 l
+-1054.0255 131.7188 l
+-1054.0255 134.0498 l
+-1054.0255 133.2728 l
+-1054.2845 133.0138 l
+-1054.2845 132.2368 l
+-1054.2845 134.5679 l
+-1054.5435 133.0138 l
+-1054.5435 133.5318 l
+-1054.5435 131.9778 l
+-1054.8024 132.7548 l
+-1054.8024 132.2368 l
+-1054.8024 133.5318 l
+-1054.8024 133.2728 l
+-1055.0615 133.0138 l
+-1055.0615 134.0498 l
+-1055.0615 132.4958 l
+-1055.0615 132.7548 l
+-1055.3204 133.2728 l
+-1055.3204 134.0498 l
+-1055.3204 132.2368 l
+-1055.3204 132.4958 l
+-1055.5796 132.7548 l
+-1055.5796 134.3088 l
+-1055.5796 133.5318 l
+-1055.8385 133.5318 l
+-1055.8385 140.395 l
+-1055.8385 136.1219 l
+-1056.0974 134.8269 l
+-1056.0974 132.7548 l
+-1056.3564 133.0138 l
+-1056.3564 132.7548 l
+-1056.3564 134.0498 l
+-1056.3564 133.2728 l
+-1056.6155 133.7908 l
+-1056.6155 132.7548 l
+-1056.6155 133.0138 l
+-1056.8745 133.5318 l
+-1056.8745 134.3088 l
+-1056.8745 132.7548 l
+-1056.8745 133.0138 l
+-1057.1335 133.0138 l
+-1057.1335 133.7908 l
+-1057.1335 132.2368 l
+-1057.3925 132.7548 l
+-1057.3925 131.9778 l
+-1057.3925 133.7908 l
+-1057.3925 132.7548 l
+-1057.6515 132.2368 l
+-1057.6515 131.9778 l
+-1057.6515 134.0498 l
+-1057.6515 132.7548 l
+-1057.9105 132.7548 l
+-1057.9105 131.9778 l
+-1057.9105 133.7908 l
+-1057.9105 132.7548 l
+-1058.1694 133.2728 l
+-1058.1694 132.4958 l
+-1058.1694 133.7908 l
+-1058.1694 133.2728 l
+-1058.4285 133.0138 l
+-1058.4285 132.2368 l
+-1058.4285 134.5679 l
+-1058.4285 133.5318 l
+-1058.6875 133.0138 l
+-1058.6875 133.5318 l
+-1058.6875 132.2368 l
+-1058.6875 132.4958 l
+-1058.9465 132.4958 l
+-1058.9465 131.9778 l
+-1058.9465 133.5318 l
+-1058.9465 133.2728 l
+-1059.2054 133.2728 l
+-1059.2054 133.5318 l
+-1059.2054 132.2368 l
+-1059.2054 132.4958 l
+-1059.4645 133.0138 l
+-1059.4645 132.2368 l
+-1059.4645 134.0498 l
+-1059.7238 132.7548 l
+-1059.7238 132.2368 l
+-1059.7238 133.5318 l
+-1059.7238 132.7548 l
+-1059.853 133.2728 l
+-1059.853 134.0498 l
+-1059.853 132.2368 l
+-1060.1122 132.7548 l
+-1060.1122 132.2368 l
+-1060.1122 133.2728 l
+-1060.1122 132.7548 l
+-1060.3711 132.7548 l
+-1060.3711 131.9778 l
+-1060.3711 134.3088 l
+-1060.3711 133.0138 l
+-1060.6301 132.7548 l
+-1060.6301 134.5679 l
+-1060.6301 133.5318 l
+-1060.889 133.0138 l
+-1060.889 134.5679 l
+-1060.889 133.5318 l
+-1061.1481 133.7908 l
+-1061.1481 132.2368 l
+-1061.1481 133.5318 l
+-1061.4071 134.3088 l
+-1061.4071 132.4958 l
+-1061.4071 133.5318 l
+-1061.6661 133.7908 l
+-1061.6661 133.0138 l
+-1061.6661 133.2728 l
+-1061.925 133.0138 l
+-1061.925 132.7548 l
+-1061.925 136.3809 l
+-1062.1841 136.3809 l
+-1062.1841 132.7548 l
+-1062.1841 134.0498 l
+-1062.443 133.5318 l
+-1062.443 133.7908 l
+-1062.443 132.4958 l
+-1062.443 133.2728 l
+-1062.7021 133.7908 l
+-1062.7021 134.3088 l
+-1062.7021 132.4958 l
+-1062.7021 133.5318 l
+-1062.9614 133.7908 l
+-1062.9614 131.9778 l
+-1063.2203 132.7548 l
+-1063.2203 132.4958 l
+-1063.2203 133.2728 l
+-1063.2203 132.7548 l
+-1063.4794 133.2728 l
+-1063.4794 134.5679 l
+-1063.4794 132.2368 l
+-1063.4794 132.7548 l
+-1063.7383 133.2728 l
+-1063.7383 131.9778 l
+-1063.7383 133.5318 l
+-1063.9973 133.2728 l
+-1063.9973 133.5318 l
+-1063.9973 131.9778 l
+-1063.9973 132.7548 l
+-1064.2563 132.7548 l
+-1064.2563 132.4958 l
+-1064.2563 133.7908 l
+-1064.2563 133.0138 l
+-1064.5153 133.0138 l
+-1064.5153 132.2368 l
+-1064.5153 133.7908 l
+-1064.5153 133.0138 l
+-1064.7744 133.2728 l
+-1064.7744 133.7908 l
+-1064.7744 131.9778 l
+-1065.0333 131.9778 l
+-1065.0333 131.7188 l
+-1065.0333 134.0498 l
+-1065.2922 134.0498 l
+-1065.2922 134.3088 l
+-1065.2922 132.2368 l
+-1065.2922 132.7548 l
+-1065.5514 132.7548 l
+-1065.5514 132.4958 l
+-1065.5514 133.7908 l
+-1065.5514 133.0138 l
+-1065.8103 133.2728 l
+-1065.8103 132.2368 l
+-1065.8103 133.7908 l
+-1066.0692 133.2728 l
+-1066.0692 132.7548 l
+-1066.0692 135.0859 l
+-1066.0692 134.3088 l
+-1066.3284 133.5318 l
+-1066.3284 132.4958 l
+-1066.3284 134.5679 l
+-1066.5873 134.3088 l
+-1066.5873 132.7548 l
+-1066.5873 133.7908 l
+-1066.8464 133.5318 l
+-1066.8464 132.2368 l
+-1066.8464 133.0138 l
+-1067.1053 134.3088 l
+-1067.1053 134.5679 l
+-1067.1053 133.0138 l
+-1067.3643 133.5318 l
+-1067.3643 133.0138 l
+-1067.3643 136.3809 l
+-1067.6233 139.6185 l
+-1067.6233 185.5927 l
+-1067.6233 142.9856 l
+-1067.8823 139.3595 l
+-1067.8823 133.0138 l
+-1067.8823 133.5318 l
+-1068.1412 133.0138 l
+-1068.1412 135.3449 l
+-1068.1412 134.0498 l
+-1068.4004 136.3809 l
+-1068.4004 138.0645 l
+-1068.4004 133.2728 l
+-1068.4004 134.5679 l
+-1068.6593 133.5318 l
+-1068.6593 132.7548 l
+-1068.6593 134.0498 l
+-1068.6593 133.5318 l
+-1068.7889 133.2728 l
+-1068.7889 134.0498 l
+-1068.7889 133.0138 l
+-1069.048 133.5318 l
+-1069.048 131.9778 l
+-1069.048 133.0138 l
+-1069.307 132.2368 l
+-1069.307 133.2728 l
+-1069.307 133.0138 l
+-1069.5659 133.0138 l
+-1069.5659 131.9778 l
+-1069.8248 132.7548 l
+-1069.8248 134.0498 l
+-1069.8248 132.4958 l
+-1070.084 131.9778 l
+-1070.084 133.2728 l
+-1070.084 132.4958 l
+-1070.3429 132.7548 l
+-1070.3429 131.9778 l
+-1070.3429 133.2728 l
+-1070.3429 133.0138 l
+-1070.6019 133.0138 l
+-1070.6019 131.9778 l
+-1070.6019 133.5318 l
+-1070.6019 133.2728 l
+-1070.861 133.7908 l
+-1070.861 133.0138 l
+-1070.861 133.7908 l
+-1071.1199 133.5318 l
+-1071.1199 136.1219 l
+-1071.1199 133.2728 l
+-1071.3789 133.5318 l
+-1071.3789 132.7548 l
+-1071.3789 134.0498 l
+-1071.6379 133.7908 l
+-1071.6379 132.2368 l
+-1071.6379 134.0498 l
+-1071.8969 132.7548 l
+-1071.8969 131.7188 l
+-1071.8969 133.5318 l
+-1071.8969 133.2728 l
+-1072.1559 132.7548 l
+-1072.1559 131.9778 l
+-1072.1559 133.5318 l
+-1072.4149 132.2368 l
+-1072.4149 133.7908 l
+-1072.4149 132.4958 l
+-1072.6742 132.2368 l
+-1072.6742 133.7908 l
+-1072.9331 133.0138 l
+-1072.9331 132.2368 l
+-1072.9331 133.5318 l
+-1072.9331 133.0138 l
+-1073.1921 133.5318 l
+-1073.1921 132.2368 l
+-1073.1921 132.4958 l
+-1073.4512 132.7548 l
+-1073.4512 132.4958 l
+-1073.4512 133.2728 l
+-1073.4512 132.7548 l
+-1073.7102 132.2368 l
+-1073.7102 133.5318 l
+-1073.7102 133.0138 l
+-1073.9691 133.0138 l
+-1073.9691 132.4958 l
+-1073.9691 133.7908 l
+-1073.9691 133.0138 l
+-1074.2281 133.0138 l
+-1074.2281 133.2728 l
+-1074.2281 131.9778 l
+-1074.2281 132.4958 l
+-1074.4871 131.9778 l
+-1074.4871 133.7908 l
+-1074.4871 133.5318 l
+-1074.7462 132.7548 l
+-1074.7462 132.2368 l
+-1074.7462 133.0138 l
+-1074.7462 132.7548 l
+-1075.0051 131.9778 l
+-1075.0051 133.5318 l
+-1075.2642 133.0138 l
+-1075.2642 132.2368 l
+-1075.5232 131.9778 l
+-1075.5232 131.7188 l
+-1075.5232 133.2728 l
+-1075.7821 133.0138 l
+-1075.7821 132.2368 l
+-1075.7821 133.2728 l
+-1076.041 133.2728 l
+-1076.041 131.7188 l
+-1076.041 133.5318 l
+-1076.3002 133.2728 l
+-1076.3002 132.2368 l
+-1076.3002 133.5318 l
+-1076.3002 133.2728 l
+-1076.5591 131.9778 l
+-1076.5591 133.0138 l
+-1076.8181 132.4958 l
+-1076.8181 133.0138 l
+-1076.8181 131.7188 l
+-1077.0771 133.2728 l
+-1077.0771 132.7548 l
+-1077.0771 133.7908 l
+-1077.0771 133.5318 l
+-1077.3361 132.7548 l
+-1077.3361 133.2728 l
+-1077.3361 131.9778 l
+-1077.5952 131.9778 l
+-1077.5952 133.2728 l
+-1077.5952 133.0138 l
+-1077.8541 133.2728 l
+-1077.8541 132.4958 l
+-1077.8541 133.5318 l
+-1077.8541 133.2728 l
+-1077.9838 133.0138 l
+-1077.9838 133.5318 l
+-1077.9838 132.2368 l
+-1078.2428 131.7188 l
+-1078.2428 133.2728 l
+-1078.2428 133.0138 l
+-1078.5018 132.4958 l
+-1078.5018 132.2368 l
+-1078.5018 133.2728 l
+-1078.5018 133.0138 l
+-1078.7607 133.5318 l
+-1078.7607 132.7548 l
+-1079.0197 131.9778 l
+-1079.0197 133.5318 l
+-1079.0197 133.2728 l
+-1079.2788 132.7548 l
+-1079.2788 132.2368 l
+-1079.2788 133.0138 l
+-1079.5377 132.7548 l
+-1079.5377 132.4958 l
+-1079.5377 133.7908 l
+-1079.5377 133.5318 l
+-1079.7968 133.5318 l
+-1079.7968 132.2368 l
+-1079.7968 133.7908 l
+-1080.0558 133.5318 l
+-1080.0558 131.9778 l
+-1080.0558 132.7548 l
+-1080.3147 132.7548 l
+-1080.3147 131.9778 l
+-1080.3147 133.5318 l
+-1080.3147 133.0138 l
+-1080.5737 132.2368 l
+-1080.5737 131.9778 l
+-1080.5737 133.5318 l
+-1080.5737 132.4958 l
+-1080.8328 132.4958 l
+-1080.8328 131.7188 l
+-1080.8328 133.2728 l
+-1081.0917 133.2728 l
+-1081.0917 132.2368 l
+-1081.0917 133.2728 l
+-1081.3508 133.0138 l
+-1081.3508 132.4958 l
+-1081.3508 133.7908 l
+-1081.3508 133.0138 l
+-1081.6097 132.7548 l
+-1081.6097 133.5318 l
+-1081.6097 132.2368 l
+-1081.6097 132.4958 l
+-1081.8688 132.7548 l
+-1081.8688 132.4958 l
+-1081.8688 134.8269 l
+S
+Q
+-1215.9059 133.0138 m
+-1216.1648 133.0138 l
+-1216.1648 132.7548 l
+-1216.1648 133.5318 l
+-1216.4244 133.2728 l
+-1216.4244 132.7548 l
+-1216.6835 133.0138 l
+-1216.6835 133.5318 l
+-1216.6835 133.0138 l
+-1216.9419 132.4958 l
+-1216.9419 132.2368 l
+-1216.9419 132.4958 l
+-1217.2008 132.7548 l
+-1217.2008 133.0138 l
+-1217.4604 133.0138 l
+-1217.4604 133.2728 l
+-1217.4604 133.0138 l
+-1217.7195 133.0138 l
+-1217.7195 132.7548 l
+-1217.7195 133.0138 l
+-1217.978 133.0138 l
+-1217.978 133.2728 l
+-1217.978 132.2368 l
+-1218.2369 132.4958 l
+-1218.2369 132.2368 l
+-1218.2369 132.7548 l
+-1218.4965 132.7548 l
+-1218.4965 133.0138 l
+-1218.4965 132.7548 l
+-1218.7555 132.7548 l
+-1218.7555 133.0138 l
+-1218.7555 132.7548 l
+-1219.015 133.0138 l
+-1219.015 133.2728 l
+-1219.015 132.7548 l
+-1219.2729 132.7548 l
+-1219.2729 132.4958 l
+-1219.2729 133.2728 l
+-1219.532 133.5318 l
+-1219.532 133.0138 l
+-1219.532 133.2728 l
+-1219.7915 132.7548 l
+-1219.7915 132.4958 l
+-1219.7915 133.0138 l
+-1220.0505 132.7548 l
+-1220.0505 133.5318 l
+-1220.0505 133.0138 l
+-1220.309 132.7548 l
+-1220.309 132.4958 l
+-1220.309 133.2728 l
+-1220.568 133.5318 l
+-1220.568 133.2728 l
+-1220.568 133.7908 l
+-1220.8276 134.0498 l
+-1220.8276 133.0138 l
+-1221.0865 133.0138 l
+-1221.0865 133.5318 l
+-1221.0865 133.2728 l
+-1221.345 133.0138 l
+-1221.345 132.2368 l
+-1221.345 133.0138 l
+-1221.604 133.2728 l
+-1221.604 132.7548 l
+-1221.604 133.0138 l
+-1221.8635 133.2728 l
+-1221.8635 132.7548 l
+-1221.8635 133.0138 l
+-1222.1227 133.2728 l
+-1222.1227 133.0138 l
+-1222.2527 133.0138 l
+-1222.2527 132.7548 l
+-1222.5106 133.0138 l
+-1222.5106 132.4958 l
+-1222.5106 132.7548 l
+-1222.7695 133.0138 l
+-1223.0291 133.0138 l
+-1223.0291 132.7548 l
+-1223.0291 133.0138 l
+-1223.2882 133.0138 l
+-1223.2882 133.5318 l
+-1223.2882 133.0138 l
+-1223.5466 133.0138 l
+-1223.5466 133.2728 l
+-1223.8057 133.0138 l
+-1223.8057 132.4958 l
+-1224.0652 132.4958 l
+-1224.0652 133.2728 l
+-1224.3241 133.0138 l
+-1224.3241 132.4958 l
+-1224.3241 133.0138 l
+-1224.5826 133.2728 l
+-1224.5826 132.4958 l
+-1224.5826 133.0138 l
+-1224.8417 133.0138 l
+-1224.8417 132.4958 l
+-1225.1012 132.4958 l
+-1225.1012 133.0138 l
+-1225.3602 133.0138 l
+-1225.3602 132.7548 l
+-1225.6187 132.2368 l
+-1225.6187 132.7548 l
+-1225.6187 132.4958 l
+-1225.8777 132.4958 l
+-1225.8777 132.7548 l
+-1226.1372 132.7548 l
+-1226.3962 133.0138 l
+-1226.3962 132.4958 l
+-1226.6548 132.4958 l
+-1226.6548 133.2728 l
+-1226.9137 133.0138 l
+-1226.9137 132.7548 l
+-1226.9137 133.0138 l
+-1227.1732 132.7548 l
+-1227.1732 133.0138 l
+-1227.1732 132.7548 l
+-1227.4323 132.7548 l
+-1227.4323 132.4958 l
+-1227.6907 132.4958 l
+-1227.6907 132.7548 l
+-1227.9498 132.7548 l
+-1227.9498 133.0138 l
+-1228.2094 133.2728 l
+-1228.2094 132.7548 l
+-1228.4683 132.4958 l
+-1228.4683 132.7548 l
+-1228.7279 132.7548 l
+-1228.7279 133.0138 l
+-1228.7279 132.7548 l
+-1228.9857 132.7548 l
+-1228.9857 133.0138 l
+-1229.2449 133.0138 l
+-1229.2449 132.7548 l
+-1229.2449 133.2728 l
+-1229.5044 132.7548 l
+-1229.5044 132.4958 l
+-1229.5044 133.2728 l
+-1229.7633 133.2728 l
+-1229.7633 132.7548 l
+-1230.0219 132.7548 l
+-1230.0219 132.4958 l
+-1230.0219 133.0138 l
+-1230.0219 132.7548 l
+-1230.2809 132.7548 l
+-1230.2809 132.4958 l
+-1230.2809 132.7548 l
+-1230.5403 132.7548 l
+-1230.5403 133.0138 l
+-1230.7994 132.7548 l
+-1230.7994 133.0138 l
+-1230.7994 132.7548 l
+-1231.0579 132.7548 l
+-1231.0579 133.0138 l
+-1231.0579 132.7548 l
+-1231.1874 132.7548 l
+-1231.1874 133.0138 l
+-1231.1874 132.7548 l
+-1231.4469 132.7548 l
+-1231.4469 133.0138 l
+-1231.7059 132.7548 l
+-1231.7059 132.4958 l
+-1231.7059 133.0138 l
+-1231.9655 133.0138 l
+-1231.9655 132.7548 l
+-1232.2234 133.0138 l
+-1232.4824 133.0138 l
+-1232.4824 132.7548 l
+-1232.7419 132.7548 l
+-1232.7419 133.0138 l
+-1232.7419 132.7548 l
+-1233.0009 132.7548 l
+-1233.0009 133.0138 l
+-1233.2594 133.0138 l
+-1233.2594 132.7548 l
+-1233.2594 133.0138 l
+-1233.5184 133.0138 l
+-1233.5184 132.2368 l
+-1233.7781 132.4958 l
+-1233.7781 133.2728 l
+-1233.7781 133.0138 l
+-1234.037 132.7548 l
+-1234.037 133.0138 l
+-1234.2954 132.7548 l
+-1234.2954 132.4958 l
+-1234.2954 133.2728 l
+-1234.5544 133.2728 l
+-1234.5544 132.7548 l
+-1234.814 132.7548 l
+-1234.814 132.4958 l
+-1234.814 132.7548 l
+-1235.073 132.7548 l
+-1235.073 133.2728 l
+-1235.3315 133.0138 l
+-1235.3315 132.7548 l
+-1235.3315 133.0138 l
+-1235.5905 133.2728 l
+-1235.5905 133.5318 l
+-1235.5905 133.0138 l
+-1235.8501 133.0138 l
+-1235.8501 132.7548 l
+-1236.1091 133.0138 l
+-1236.1091 133.2728 l
+-1236.1091 133.0138 l
+-1236.3674 133.2728 l
+-1236.3674 133.0138 l
+-1236.6266 133.0138 l
+-1236.8861 133.2728 l
+-1236.8861 133.0138 l
+-1237.145 133.0138 l
+-1237.145 132.7548 l
+-1237.4036 133.2728 l
+-1237.4036 133.5318 l
+-1237.4036 132.7548 l
+-1237.6626 132.7548 l
+-1237.6626 133.5318 l
+-1237.6626 133.2728 l
+-1237.9221 133.2728 l
+-1237.9221 133.0138 l
+-1238.1812 133.2728 l
+-1238.1812 133.7908 l
+-1238.4407 133.5318 l
+-1238.4407 133.7908 l
+-1238.6986 134.0498 l
+-1238.6986 135.8629 l
+-1238.9576 136.1219 l
+-1238.9576 134.3088 l
+-1239.2172 134.0498 l
+-1239.2172 135.6039 l
+-1239.4762 136.1219 l
+-1239.4762 138.5825 l
+-1239.7346 139.1005 l
+-1239.7346 138.0645 l
+-1239.7346 138.3235 l
+-1239.9937 139.3595 l
+-1239.9937 154.7706 l
+-1240.1237 158.5262 l
+-1240.1237 159.5617 l
+-1240.1237 148.8133 l
+-1240.3827 145.0577 l
+-1240.3827 137.1574 l
+-1240.6411 136.6399 l
+-1240.6411 136.1219 l
+-1240.6411 136.6399 l
+-1240.9003 136.8984 l
+-1240.9003 135.3449 l
+-1241.1598 135.3449 l
+-1241.1598 135.0859 l
+-1241.4187 134.8269 l
+-1241.4187 134.3088 l
+-1241.6782 134.3088 l
+-1241.6782 133.5318 l
+-1241.9362 133.7908 l
+-1241.9362 134.0498 l
+-1242.1952 134.0498 l
+-1242.1952 133.5318 l
+-1242.1952 133.7908 l
+-1242.4548 134.0498 l
+-1242.4548 134.3088 l
+-1242.4548 133.7908 l
+-1242.7137 134.0498 l
+-1242.7137 134.3088 l
+-1242.7137 133.7908 l
+-1242.9723 133.7908 l
+-1242.9723 134.0498 l
+-1242.9723 133.7908 l
+-1243.2313 134.0498 l
+-1243.2313 133.2728 l
+-1243.4908 133.2728 l
+-1243.4908 133.5318 l
+-1243.7499 133.5318 l
+-1243.7499 133.0138 l
+-1244.0083 133.0138 l
+-1244.0083 133.5318 l
+-1244.0083 133.2728 l
+-1244.2672 133.2728 l
+-1244.2672 133.5318 l
+-1244.2672 133.2728 l
+-1244.5269 133.2728 l
+-1244.7859 133.2728 l
+-1244.7859 133.5318 l
+-1244.7859 133.2728 l
+-1245.0444 133.5318 l
+-1245.0444 134.0498 l
+-1245.3033 133.7908 l
+-1245.3033 133.0138 l
+-1245.5629 133.0138 l
+-1245.5629 133.5318 l
+-1245.5629 133.2728 l
+-1245.8219 133.2728 l
+-1245.8219 133.0138 l
+-1245.8219 133.2728 l
+-1246.0803 133.2728 l
+-1246.0803 133.0138 l
+-1246.3394 133.2728 l
+-1246.3394 132.7548 l
+-1246.599 132.7548 l
+-1246.599 133.2728 l
+-1246.8579 133.2728 l
+-1246.8579 132.4958 l
+-1246.8579 132.7548 l
+-1247.1165 133.0138 l
+-1247.1165 133.5318 l
+-1247.3754 133.5318 l
+-1247.3754 133.0138 l
+-1247.6349 133.2728 l
+-1247.6349 133.0138 l
+-1247.894 133.0138 l
+-1247.894 133.2728 l
+-1248.1536 133.0138 l
+-1248.4114 133.0138 l
+-1248.4114 132.7548 l
+-1248.4114 133.0138 l
+-1248.6705 132.4958 l
+-1248.6705 132.2368 l
+-1248.6705 133.0138 l
+-1248.9299 133.0138 l
+-1248.9299 133.2728 l
+-1248.9299 133.0138 l
+-1249.1891 133.0138 l
+-1249.1891 132.7548 l
+-1249.1891 133.0138 l
+-1249.3179 133.0138 l
+-1249.577 132.7548 l
+-1249.577 133.0138 l
+-1249.8365 133.2728 l
+-1249.8365 132.7548 l
+-1250.0955 132.7548 l
+-1250.354 132.7548 l
+-1250.354 133.2728 l
+-1250.613 133.2728 l
+-1250.613 133.0138 l
+-1250.8726 132.7548 l
+-1250.8726 133.0138 l
+-1250.8726 132.7548 l
+-1251.1316 132.7548 l
+-1251.1316 132.4958 l
+-1251.1316 133.0138 l
+-1251.3911 133.5318 l
+-1251.3911 132.7548 l
+-1251.649 132.4958 l
+-1251.649 132.7548 l
+-1251.9081 132.7548 l
+-1251.9081 133.0138 l
+-1252.1676 133.0138 l
+-1252.1676 132.4958 l
+-1252.4266 132.4958 l
+-1252.4266 132.7548 l
+-1252.6851 133.0138 l
+-1252.6851 132.7548 l
+-1252.9441 132.7548 l
+-1252.9441 133.0138 l
+-1253.2037 133.0138 l
+-1253.2037 132.7548 l
+-1253.2037 133.0138 l
+-1253.4626 133.0138 l
+-1253.4626 132.4958 l
+-1253.4626 132.7548 l
+-1253.7212 133.0138 l
+-1253.9801 133.0138 l
+-1253.9801 132.7548 l
+-1253.9801 133.2728 l
+-1254.2396 133.2728 l
+-1254.2396 132.7548 l
+-1254.4988 132.7548 l
+-1254.4988 133.0138 l
+-1254.7572 133.2728 l
+-1254.7572 132.7548 l
+-1255.0162 132.7548 l
+-1255.0162 133.0138 l
+-1255.0162 132.7548 l
+-1255.2758 132.7548 l
+-1255.5347 132.7548 l
+-1255.5347 133.0138 l
+-1255.7932 133.2728 l
+-1255.7932 132.7548 l
+-1256.0522 132.7548 l
+-1256.0522 133.0138 l
+-1256.3116 132.7548 l
+-1256.3116 132.4958 l
+-1256.3116 132.7548 l
+-1256.5708 133.0138 l
+-1256.8292 133.0138 l
+-1256.8292 132.4958 l
+-1257.0883 132.4958 l
+-1257.0883 132.7548 l
+-1257.3478 133.0138 l
+-1257.3478 132.7548 l
+-1257.6067 132.7548 l
+-1257.6067 132.4958 l
+-1257.8665 132.4958 l
+-1257.8665 132.7548 l
+-1258.1243 133.0138 l
+-1258.1243 132.7548 l
+-1258.2538 132.7548 l
+-1258.2538 133.0138 l
+-1258.5133 133.0138 l
+-1258.5133 132.7548 l
+-1258.7723 132.7548 l
+-1258.7723 133.0138 l
+-1259.0308 133.0138 l
+-1259.2898 132.7548 l
+-1259.5494 132.7548 l
+-1259.5494 133.2728 l
+-1259.8083 133.2728 l
+-1259.8083 133.0138 l
+-1260.0668 132.7548 l
+-1260.0668 132.4958 l
+-1260.0668 132.7548 l
+-1260.3258 132.7548 l
+-1260.5854 132.7548 l
+-1260.5854 133.0138 l
+-1260.5854 132.7548 l
+-1260.8445 132.4958 l
+-1260.8445 133.0138 l
+-1261.104 133.2728 l
+-1261.104 132.7548 l
+-1261.3618 132.7548 l
+-1261.3618 133.0138 l
+-1261.621 133.0138 l
+-1261.621 132.4958 l
+-1261.8805 132.4958 l
+-1261.8805 133.0138 l
+-1262.1394 133.2728 l
+-1262.1394 132.4958 l
+-1262.3979 132.7548 l
+-1262.3979 133.0138 l
+-1262.6569 132.7548 l
+-1262.6569 132.4958 l
+-1262.9165 132.7548 l
+-1263.1755 132.7548 l
+-1263.434 132.7548 l
+-1263.693 132.7548 l
+-1263.9525 133.0138 l
+-1263.9525 132.7548 l
+-1264.2114 132.7548 l
+-1264.2114 133.0138 l
+-1264.2114 132.7548 l
+-1264.47 132.7548 l
+-1264.47 133.0138 l
+-1264.729 132.7548 l
+-1264.729 133.0138 l
+-1264.9886 132.7548 l
+-1264.9886 132.4958 l
+-1264.9886 133.0138 l
+-1265.2476 133.0138 l
+-1265.506 133.0138 l
+-1265.506 132.4958 l
+-1265.506 132.7548 l
+-1265.765 132.7548 l
+-1266.0245 132.7548 l
+-1266.0245 133.0138 l
+-1266.2836 133.2728 l
+-1266.2836 132.7548 l
+-1266.5421 132.7548 l
+-1266.801 132.7548 l
+-1266.801 132.4958 l
+-1267.0607 132.4958 l
+-1267.0607 133.0138 l
+-1267.0607 132.7548 l
+-1267.1901 132.7548 l
+-1267.1901 132.4958 l
+-1267.1901 133.0138 l
+-1267.4492 133.0138 l
+-1267.4492 132.4958 l
+-1267.7076 132.4958 l
+-1267.7076 133.0138 l
+-1267.9667 133.0138 l
+-1267.9667 132.4958 l
+-1268.2262 132.7548 l
+-1268.2262 133.2728 l
+-1268.2262 133.0138 l
+-1268.4851 133.0138 l
+-1268.4851 132.4958 l
+-1268.7437 132.4958 l
+-1268.7437 133.2728 l
+-1269.0027 133.0138 l
+-1269.2622 133.0138 l
+-1269.2622 132.7548 l
+-1269.5212 132.7548 l
+-1269.7797 132.7548 l
+-1269.7797 133.0138 l
+-1269.7797 132.7548 l
+-1270.0387 132.7548 l
+-1270.0387 132.4958 l
+-1270.0387 132.7548 l
+-1270.2982 132.7548 l
+-1270.5573 133.0138 l
+-1270.5573 132.7548 l
+-1270.8168 132.7548 l
+-1271.0747 132.7548 l
+-1271.0747 133.0138 l
+-1271.3336 133.0138 l
+-1271.3336 132.7548 l
+-1271.5933 132.7548 l
+-1271.8523 132.7548 l
+-1271.8523 133.0138 l
+-1272.1108 133.2728 l
+-1272.1108 133.0138 l
+-1272.3698 132.7548 l
+-1272.6293 132.7548 l
+-1272.8884 133.0138 l
+-1167.4712 132.7548 m
+-1167.7302 132.7548 l
+-1167.7302 133.0138 l
+-1167.7302 132.4958 l
+-1167.9897 132.2368 l
+-1167.9897 133.0138 l
+-1168.1193 132.7548 l
+-1168.1193 132.4958 l
+-1168.1193 133.2728 l
+-1168.3778 133.2728 l
+-1168.3778 132.2368 l
+-1168.3778 133.5318 l
+-1168.3778 133.2728 l
+-1168.6367 133.2728 l
+-1168.6367 132.4958 l
+-1168.6367 132.7548 l
+-1168.8962 133.0138 l
+-1168.8962 132.4958 l
+-1168.8962 132.7548 l
+-1169.1553 132.7548 l
+-1169.1553 133.0138 l
+-1169.4137 133.0138 l
+-1169.4137 132.4958 l
+-1169.4137 133.2728 l
+-1169.6729 133.0138 l
+-1169.6729 133.2728 l
+-1169.6729 132.4958 l
+-1169.9324 132.4958 l
+-1169.9324 133.2728 l
+-1169.9324 132.4958 l
+-1170.1913 132.7548 l
+-1170.1913 132.4958 l
+-1170.1913 133.0138 l
+-1170.1913 132.7548 l
+-1170.4509 133.0138 l
+-1170.4509 132.4958 l
+-1170.4509 132.7548 l
+-1170.7087 133.0138 l
+-1170.7087 132.2368 l
+-1170.7087 133.2728 l
+-1170.9678 133.2728 l
+-1170.9678 132.7548 l
+-1170.9678 133.0138 l
+-1171.2274 132.7548 l
+-1171.2274 133.0138 l
+-1171.2274 132.4958 l
+-1171.4863 132.4958 l
+-1171.4863 133.2728 l
+-1171.4863 132.4958 l
+-1171.7449 132.7548 l
+-1171.7449 133.0138 l
+-1172.0038 133.0138 l
+-1172.0038 132.4958 l
+-1172.0038 132.7548 l
+-1172.2634 132.7548 l
+-1172.2634 133.2728 l
+-1172.2634 132.7548 l
+-1172.5225 132.7548 l
+-1172.7809 132.7548 l
+-1172.7809 133.2728 l
+-1173.0399 133.2728 l
+-1173.0399 132.4958 l
+-1173.0399 132.7548 l
+-1173.2994 132.4958 l
+-1173.2994 132.2368 l
+-1173.2994 133.0138 l
+-1173.2994 132.7548 l
+-1173.5585 132.4958 l
+-1173.5585 132.7548 l
+-1173.817 132.7548 l
+-1173.817 132.4958 l
+-1173.817 133.0138 l
+-1174.0759 132.7548 l
+-1174.0759 132.4958 l
+-1174.0759 133.7908 l
+-1174.0759 133.2728 l
+-1174.3354 132.4958 l
+-1174.3354 132.2368 l
+-1174.3354 133.2728 l
+-1174.5945 133.2728 l
+-1174.5945 132.2368 l
+-1174.5945 133.0138 l
+-1174.8529 133.2728 l
+-1174.8529 132.4958 l
+-1174.8529 133.0138 l
+-1175.1121 133.0138 l
+-1175.3715 133.0138 l
+-1175.3715 133.2728 l
+-1175.3715 132.7548 l
+-1175.6305 132.7548 l
+-1175.6305 133.0138 l
+-1175.889 132.7548 l
+-1175.889 132.2368 l
+-1175.889 133.2728 l
+-1175.889 133.0138 l
+-1176.1479 132.7548 l
+-1176.1479 132.4958 l
+-1176.1479 133.0138 l
+-1176.4075 133.2728 l
+-1176.4075 132.7548 l
+-1176.6666 132.7548 l
+-1176.6666 132.4958 l
+-1176.6666 132.7548 l
+-1176.9261 133.0138 l
+-1176.9261 132.4958 l
+-1176.9261 133.0138 l
+-1177.0546 133.5318 l
+-1177.0546 132.4958 l
+-1177.0546 132.7548 l
+-1177.3135 132.7548 l
+-1177.3135 132.2368 l
+-1177.3135 132.4958 l
+-1177.5731 133.0138 l
+-1177.5731 133.2728 l
+-1177.5731 133.0138 l
+-1177.832 133.0138 l
+-1177.832 132.7548 l
+-1177.832 133.5318 l
+-1178.0905 133.2728 l
+-1178.0905 132.7548 l
+-1178.0905 133.5318 l
+-1178.3496 133.0138 l
+-1178.3496 131.9778 l
+-1178.3496 133.0138 l
+-1178.6091 133.2728 l
+-1178.6091 132.7548 l
+-1178.868 132.7548 l
+-1178.868 133.0138 l
+-1178.868 132.2368 l
+-1179.1266 132.4958 l
+-1179.1266 133.5318 l
+-1179.1266 132.7548 l
+-1179.3855 132.4958 l
+-1179.3855 133.2728 l
+-1179.3855 132.2368 l
+-1179.6453 132.4958 l
+-1179.6453 133.0138 l
+-1179.9042 133.0138 l
+-1179.9042 132.4958 l
+-1180.1637 132.7548 l
+-1180.1637 133.2728 l
+-1180.1637 132.7548 l
+-1180.4216 132.7548 l
+-1180.4216 133.2728 l
+-1180.6807 133.5318 l
+-1180.6807 132.7548 l
+-1180.6807 133.0138 l
+-1180.9402 133.0138 l
+-1180.9402 133.2728 l
+-1180.9402 132.4958 l
+-1181.1992 132.7548 l
+-1181.1992 132.4958 l
+-1181.1992 132.7548 l
+-1181.4576 132.7548 l
+-1181.4576 133.2728 l
+-1181.7167 133.5318 l
+-1181.7167 132.7548 l
+-1181.7167 133.0138 l
+-1181.9762 132.7548 l
+-1181.9762 132.4958 l
+-1181.9762 133.2728 l
+-1182.2352 133.2728 l
+-1182.2352 132.7548 l
+-1182.4938 132.7548 l
+-1182.4938 132.4958 l
+-1182.4938 133.5318 l
+-1182.7527 133.2728 l
+-1182.7527 132.4958 l
+-1183.0122 132.7548 l
+-1183.0122 133.0138 l
+-1183.2712 132.7548 l
+-1183.2712 132.4958 l
+-1183.2712 133.0138 l
+-1183.5297 132.7548 l
+-1183.5297 134.3088 l
+-1183.7888 134.0498 l
+-1183.7888 132.4958 l
+-1183.7888 132.7548 l
+-1184.0483 133.0138 l
+-1184.0483 132.7548 l
+-1184.0483 133.2728 l
+-1184.3073 133.5318 l
+-1184.3073 132.7548 l
+-1184.5658 132.4958 l
+-1184.5658 133.2728 l
+-1184.8248 133.2728 l
+-1184.8248 132.4958 l
+-1184.8248 133.0138 l
+-1185.0844 133.7908 l
+-1185.0844 134.3088 l
+-1185.0844 132.7548 l
+-1185.3434 133.0138 l
+-1185.3434 132.4958 l
+-1185.3434 133.2728 l
+-1185.6018 132.7548 l
+-1185.6018 133.0138 l
+-1185.8608 132.7548 l
+-1185.8608 133.2728 l
+-1185.9902 133.2728 l
+-1185.9902 132.4958 l
+-1185.9902 132.7548 l
+-1186.2499 133.2728 l
+-1186.2499 132.7548 l
+-1186.5089 132.4958 l
+-1186.5089 132.7548 l
+-1186.7675 132.7548 l
+-1186.7675 133.0138 l
+-1187.0264 133.2728 l
+-1187.0264 133.5318 l
+-1187.0264 132.4958 l
+-1187.0264 133.0138 l
+-1187.2859 133.0138 l
+-1187.2859 132.7548 l
+-1187.2859 133.0138 l
+-1187.5449 133.2728 l
+-1187.5449 133.5318 l
+-1187.5449 132.7548 l
+-1187.8033 132.2368 l
+-1187.8033 133.2728 l
+-1188.0624 133.0138 l
+-1188.0624 133.2728 l
+-1188.0624 132.4958 l
+-1188.322 132.4958 l
+-1188.322 133.0138 l
+-1188.5809 133.0138 l
+-1188.5809 132.4958 l
+-1188.5809 132.7548 l
+-1188.8395 133.0138 l
+-1188.8395 132.7548 l
+-1189.0984 133.0138 l
+-1189.0984 132.4958 l
+-1189.0984 132.7548 l
+-1189.3579 132.7548 l
+-1189.3579 132.2368 l
+-1189.6171 132.4958 l
+-1189.6171 133.2728 l
+-1189.6171 132.4958 l
+-1189.8766 132.4958 l
+-1189.8766 133.2728 l
+-1190.1344 133.2728 l
+-1190.1344 132.7548 l
+-1190.1344 133.0138 l
+-1190.3934 133.0138 l
+-1190.3934 132.7548 l
+-1190.653 132.7548 l
+-1190.653 132.4958 l
+-1190.653 133.2728 l
+-1190.653 133.0138 l
+-1190.912 132.7548 l
+-1190.912 132.4958 l
+-1190.912 133.2728 l
+-1190.912 133.0138 l
+-1191.1705 132.7548 l
+-1191.1705 132.4958 l
+-1191.1705 132.7548 l
+-1191.4294 132.4958 l
+-1191.4294 132.2368 l
+-1191.4294 132.7548 l
+-1191.6891 133.0138 l
+-1191.6891 133.2728 l
+-1191.9481 132.7548 l
+-1191.9481 132.2368 l
+-1191.9481 133.0138 l
+-1192.2065 132.7548 l
+-1192.2065 133.2728 l
+-1192.4656 133.5318 l
+-1192.4656 133.0138 l
+-1192.7251 133.0138 l
+-1192.7251 132.4958 l
+-1192.7251 132.7548 l
+-1192.9841 132.4958 l
+-1192.9841 132.7548 l
+-1193.2426 132.7548 l
+-1193.2426 133.2728 l
+-1193.5016 133.5318 l
+-1193.5016 132.4958 l
+-1193.5016 132.7548 l
+-1193.7611 132.7548 l
+-1193.7611 133.2728 l
+-1194.0201 133.2728 l
+-1194.0201 133.0138 l
+-1194.2787 133.0138 l
+-1194.2787 132.7548 l
+-1194.5376 132.7548 l
+-1194.5376 133.2728 l
+-1194.7971 133.0138 l
+-1194.7971 133.5318 l
+-1194.7971 133.2728 l
+-1195.0563 133.0138 l
+-1195.0563 132.4958 l
+-1195.1857 132.7548 l
+-1195.1857 133.0138 l
+-1195.1857 132.7548 l
+-1195.4442 132.7548 l
+-1195.4442 133.5318 l
+-1195.7031 133.7908 l
+-1195.7031 134.3088 l
+-1195.7031 133.7908 l
+-1195.9626 133.5318 l
+-1195.9626 133.2728 l
+-1196.2217 133.5318 l
+-1196.2217 133.7908 l
+-1196.4801 134.0498 l
+-1196.4801 133.0138 l
+-1196.4801 133.5318 l
+-1196.7393 133.7908 l
+-1196.7393 132.7548 l
+-1196.7393 133.5318 l
+-1196.9988 133.5318 l
+-1196.9988 133.2728 l
+-1196.9988 133.5318 l
+-1197.2577 133.7908 l
+-1197.2577 133.5318 l
+-1197.2577 133.7908 l
+-1197.5162 133.7908 l
+-1197.5162 133.2728 l
+-1197.7751 133.2728 l
+-1197.7751 133.0138 l
+-1197.7751 133.5318 l
+-1198.0348 133.5318 l
+-1198.0348 133.7908 l
+-1198.2938 133.5318 l
+-1198.2938 133.0138 l
+-1198.5522 133.0138 l
+-1198.5522 133.7908 l
+-1198.5522 133.2728 l
+-1198.8113 133.5318 l
+-1198.8113 133.7908 l
+-1199.0708 133.7908 l
+-1199.0708 134.0498 l
+-1199.0708 133.7908 l
+-1199.3298 133.7908 l
+-1199.3298 133.5318 l
+-1199.3298 134.3088 l
+-1199.5894 134.8269 l
+-1199.5894 135.3449 l
+-1199.5894 134.0498 l
+-1199.8473 134.0498 l
+-1199.8473 134.8269 l
+-1200.1063 134.5679 l
+-1200.1063 135.3449 l
+-1200.1063 135.0859 l
+-1200.3658 135.0859 l
+-1200.3658 138.3235 l
+-1200.6249 138.5825 l
+-1200.6249 141.6906 l
+-1200.8834 146.6112 l
+-1200.8834 206.8313 l
+-1201.1423 197.3775 l
+-1201.1423 146.0938 l
+-1201.4019 142.7266 l
+-1201.4019 138.3235 l
+-1201.4019 138.8415 l
+-1201.6609 139.3595 l
+-1201.6609 139.6185 l
+-1201.6609 138.5825 l
+-1201.9193 137.935 l
+-1201.9193 135.0859 l
+-1202.1785 135.3449 l
+-1202.1785 136.8984 l
+-1202.1785 136.1219 l
+-1202.438 135.8629 l
+-1202.438 135.0859 l
+-1202.438 135.3449 l
+-1202.6969 135.0859 l
+-1202.6969 134.3088 l
+-1202.9554 134.5679 l
+-1202.9554 135.0859 l
+-1202.9554 134.8269 l
+-1203.2144 134.8269 l
+-1203.2144 133.7908 l
+-1203.4739 134.0498 l
+-1203.4739 134.3088 l
+-1203.4739 134.0498 l
+-1203.733 133.7908 l
+-1203.733 134.3088 l
+-1203.733 134.0498 l
+-1203.9915 134.3088 l
+-1203.9915 135.3449 l
+-1204.121 135.6039 l
+-1204.121 133.5318 l
+-1204.3799 133.5318 l
+-1204.3799 133.7908 l
+-1204.6395 133.7908 l
+-1204.6395 133.0138 l
+-1204.6395 133.2728 l
+-1204.8986 133.7908 l
+-1204.8986 133.5318 l
+-1204.8986 133.7908 l
+-1205.1569 133.7908 l
+-1205.1569 133.2728 l
+-1205.1569 133.5318 l
+-1205.416 133.5318 l
+-1205.416 134.0498 l
+-1205.416 133.7908 l
+-1205.6755 133.7908 l
+-1205.6755 133.0138 l
+-1205.9344 133.0138 l
+-1205.9344 133.5318 l
+-1205.9344 133.2728 l
+-1206.193 133.2728 l
+-1206.193 134.0498 l
+-1206.452 134.5679 l
+-1206.452 133.7908 l
+-1206.7117 133.5318 l
+-1206.7117 133.2728 l
+-1206.7117 133.7908 l
+-1206.9706 134.0498 l
+-1206.9706 133.7908 l
+-1206.9706 134.3088 l
+-1206.9706 134.0498 l
+-1207.229 133.7908 l
+-1207.229 133.0138 l
+-1207.229 133.7908 l
+-1207.488 133.7908 l
+-1207.488 133.0138 l
+-1207.7476 133.2728 l
+-1207.7476 132.7548 l
+-1207.7476 133.0138 l
+-1208.0066 133.2728 l
+-1208.2651 133.0138 l
+-1208.2651 133.7908 l
+-1208.2651 133.5318 l
+-1208.524 133.2728 l
+-1208.524 132.7548 l
+-1208.7837 132.7548 l
+-1208.7837 133.5318 l
+-1209.0426 133.2728 l
+-1209.0426 132.4958 l
+-1209.0426 133.5318 l
+-1209.3021 133.2728 l
+-1209.3021 132.4958 l
+-1209.3021 132.7548 l
+-1209.5602 132.7548 l
+-1209.5602 132.4958 l
+-1209.5602 133.0138 l
+-1209.5602 132.7548 l
+-1209.8191 132.7548 l
+-1209.8191 133.0138 l
+-1210.0786 133.2728 l
+-1210.0786 133.0138 l
+-1210.3378 132.7548 l
+-1210.3378 133.2728 l
+-1210.5962 133.2728 l
+-1210.5962 132.7548 l
+-1210.8552 132.4958 l
+-1210.8552 132.2368 l
+-1210.8552 133.0138 l
+-1211.1147 133.0138 l
+-1211.1147 132.4958 l
+-1211.3737 132.4958 l
+-1211.3737 133.5318 l
+-1211.3737 133.0138 l
+-1211.6322 132.7548 l
+-1211.6322 133.2728 l
+-1211.8912 133.2728 l
+-1211.8912 133.0138 l
+-1211.8912 133.2728 l
+-1212.1506 133.0138 l
+-1212.1506 132.4958 l
+-1212.4098 132.4958 l
+-1212.4098 133.2728 l
+-1212.4098 133.0138 l
+-1212.6682 133.0138 l
+-1212.6682 132.7548 l
+-1212.9272 133.0138 l
+-1212.9272 133.2728 l
+-1212.9272 132.7548 l
+-1213.0568 133.2728 l
+-1213.0568 132.7548 l
+-1213.0568 133.2728 l
+-1213.3163 132.7548 l
+-1213.3163 132.2368 l
+-1213.3163 132.7548 l
+-1213.5753 133.0138 l
+-1213.5753 132.7548 l
+-1213.8339 132.7548 l
+-1213.8339 133.2728 l
+-1214.0928 133.2728 l
+-1214.0928 132.7548 l
+-1214.0928 133.0138 l
+-1214.3523 133.5318 l
+-1214.3523 133.0138 l
+-1214.3523 133.2728 l
+-1214.6113 133.2728 l
+-1214.6113 132.7548 l
+-1214.8698 133.0138 l
+-1214.8698 133.2728 l
+-1214.8698 132.4958 l
+-1215.1288 133.0138 l
+-1215.1288 133.2728 l
+-1215.1288 132.4958 l
+-1215.3884 132.4958 l
+-1215.3884 132.7548 l
+-1215.3884 132.4958 l
+-1215.6473 132.7548 l
+-1215.6473 133.2728 l
+-1215.9059 133.2728 l
+-1215.9059 132.7548 l
+-1215.9059 133.0138 l
+-1122.5337 132.7548 m
+-1122.7927 133.0138 l
+-1122.7927 132.7548 l
+-1122.7927 133.2728 l
+-1122.7927 133.0138 l
+-1122.9216 133.2728 l
+-1122.9216 133.0138 l
+-1122.9216 134.0498 l
+-1123.1807 133.2728 l
+-1123.1807 133.0138 l
+-1123.1807 134.5679 l
+-1123.1807 134.3088 l
+-1123.4397 133.7908 l
+-1123.4397 132.7548 l
+-1123.4397 133.0138 l
+-1123.6987 132.7548 l
+-1123.6987 133.7908 l
+-1123.6987 133.5318 l
+-1123.9576 133.7908 l
+-1123.9576 133.5318 l
+-1123.9576 134.0498 l
+-1124.2168 133.7908 l
+-1124.2168 133.0138 l
+-1124.2168 134.5679 l
+-1124.4763 134.5679 l
+-1124.4763 134.8269 l
+-1124.7352 134.8269 l
+-1124.7352 136.8984 l
+-1124.7352 135.0859 l
+-1124.9943 134.5679 l
+-1124.9943 133.7908 l
+-1124.9943 134.0498 l
+-1125.2533 134.3088 l
+-1125.2533 133.2728 l
+-1125.2533 134.0498 l
+-1125.5123 133.7908 l
+-1125.5123 134.0498 l
+-1125.7714 134.5679 l
+-1125.7714 134.3088 l
+-1125.7714 134.5679 l
+-1126.0303 134.0498 l
+-1126.0303 134.3088 l
+-1126.0303 133.2728 l
+-1126.2893 133.2728 l
+-1126.2893 137.1574 l
+-1126.5483 137.935 l
+-1126.5483 137.6754 l
+-1126.5483 141.1726 l
+-1126.8073 141.9496 l
+-1126.8073 166.1669 l
+-1127.0664 185.5927 l
+-1127.0664 201.9101 l
+-1127.0664 155.5476 l
+-1127.3253 149.8488 l
+-1127.3253 141.1726 l
+-1127.3253 141.6906 l
+-1127.5845 142.4676 l
+-1127.5845 141.6906 l
+-1127.5845 158.5262 l
+-1127.8434 157.4901 l
+-1127.8434 138.3235 l
+-1128.1023 138.5825 l
+-1128.1023 136.8984 l
+-1128.1023 139.1005 l
+-1128.3615 138.5825 l
+-1128.3615 137.1574 l
+-1128.3615 138.3235 l
+-1128.6199 137.6754 l
+-1128.6199 134.0498 l
+-1128.8789 134.0498 l
+-1128.8789 136.6399 l
+-1128.8789 136.3809 l
+-1129.1379 136.1219 l
+-1129.1379 135.0859 l
+-1129.3969 134.5679 l
+-1129.3969 135.0859 l
+-1129.3969 133.7908 l
+-1129.656 133.5318 l
+-1129.656 134.5679 l
+-1129.9149 134.8269 l
+-1129.9149 133.7908 l
+-1129.9149 134.0498 l
+-1130.1738 133.7908 l
+-1130.1738 133.5318 l
+-1130.1738 133.7908 l
+-1130.433 134.0498 l
+-1130.433 134.3088 l
+-1130.433 133.0138 l
+-1130.6919 133.2728 l
+-1130.6919 133.0138 l
+-1130.6919 133.7908 l
+-1130.6919 133.5318 l
+-1130.9515 133.7908 l
+-1130.9515 134.5679 l
+-1130.9515 133.0138 l
+-1131.2104 132.7548 l
+-1131.2104 133.2728 l
+-1131.2104 132.7548 l
+-1131.4695 133.2728 l
+-1131.4695 133.0138 l
+-1131.4695 134.3088 l
+-1131.7285 134.3088 l
+-1131.7285 133.2728 l
+-1131.8574 132.7548 l
+-1131.8574 133.5318 l
+-1131.8574 133.0138 l
+-1132.1166 133.2728 l
+-1132.1166 133.0138 l
+-1132.1166 133.5318 l
+-1132.3755 133.0138 l
+-1132.3755 132.7548 l
+-1132.3755 133.0138 l
+-1132.6345 133.7908 l
+-1132.6345 132.7548 l
+-1132.6345 133.7908 l
+-1132.8936 133.2728 l
+-1132.8936 133.0138 l
+-1132.8936 133.5318 l
+-1133.1525 133.5318 l
+-1133.1525 132.7548 l
+-1133.1525 133.0138 l
+-1133.4116 132.4958 l
+-1133.4116 132.2368 l
+-1133.4116 133.5318 l
+-1133.6705 133.2728 l
+-1133.6705 133.0138 l
+-1133.6705 133.2728 l
+-1133.9294 133.2728 l
+-1133.9294 133.5318 l
+-1133.9294 133.0138 l
+-1134.1891 133.0138 l
+-1134.1891 133.2728 l
+-1134.1891 131.9778 l
+-1134.1891 132.2368 l
+-1134.4481 132.7548 l
+-1134.4481 132.4958 l
+-1134.4481 133.5318 l
+-1134.707 133.2728 l
+-1134.707 133.0138 l
+-1134.9662 133.2728 l
+-1134.9662 132.4958 l
+-1135.2251 132.7548 l
+-1135.2251 133.2728 l
+-1135.2251 132.7548 l
+-1135.4843 132.4958 l
+-1135.4843 133.0138 l
+-1135.4843 132.4958 l
+-1135.7432 132.7548 l
+-1135.7432 133.0138 l
+-1136.0021 133.0138 l
+-1136.0021 133.2728 l
+-1136.0021 132.4958 l
+-1136.2612 132.4958 l
+-1136.2612 133.0138 l
+-1136.2612 132.2368 l
+-1136.5201 132.7548 l
+-1136.5201 133.2728 l
+-1136.5201 132.7548 l
+-1136.7793 132.4958 l
+-1136.7793 133.0138 l
+-1136.7793 132.2368 l
+-1137.0382 132.2368 l
+-1137.0382 133.0138 l
+-1137.2971 133.0138 l
+-1137.2971 132.2368 l
+-1137.5563 131.9778 l
+-1137.5563 133.5318 l
+-1137.5563 132.7548 l
+-1137.8152 133.0138 l
+-1137.8152 132.4958 l
+-1138.0742 133.0138 l
+-1138.0742 133.2728 l
+-1138.0742 132.4958 l
+-1138.3328 132.4958 l
+-1138.3328 133.0138 l
+-1138.3328 132.7548 l
+-1138.5917 133.0138 l
+-1138.5917 132.4958 l
+-1138.5917 133.2728 l
+-1138.8507 133.0138 l
+-1138.8507 132.7548 l
+-1138.8507 133.0138 l
+-1139.1097 132.4958 l
+-1139.1097 133.2728 l
+-1139.3687 132.7548 l
+-1139.3687 132.4958 l
+-1139.3687 133.5318 l
+-1139.6278 133.2728 l
+-1139.6278 132.4958 l
+-1139.6278 132.7548 l
+-1139.8867 132.7548 l
+-1139.8867 132.4958 l
+-1139.8867 133.0138 l
+-1139.8867 132.7548 l
+-1140.1459 133.2728 l
+-1140.1459 132.4958 l
+-1140.4048 133.0138 l
+-1140.4048 132.7548 l
+-1140.4048 133.2728 l
+-1140.4048 133.0138 l
+-1140.6637 133.0138 l
+-1140.6637 133.2728 l
+-1140.6637 132.7548 l
+-1140.9229 132.4958 l
+-1140.9229 132.2368 l
+-1140.9229 133.0138 l
+-1141.0529 133.0138 l
+-1141.0529 132.7548 l
+-1141.0529 133.0138 l
+-1141.3119 133.0138 l
+-1141.3119 132.2368 l
+-1141.3119 133.0138 l
+-1141.5703 133.0138 l
+-1141.5703 133.2728 l
+-1141.5703 132.4958 l
+-1141.8292 132.4958 l
+-1141.8292 133.0138 l
+-1142.0884 133.5318 l
+-1142.0884 132.7548 l
+-1142.0884 133.0138 l
+-1142.3473 132.7548 l
+-1142.3473 132.4958 l
+-1142.3473 133.5318 l
+-1142.3473 132.7548 l
+-1142.6064 132.4958 l
+-1142.6064 133.5318 l
+-1142.6064 133.2728 l
+-1142.8654 132.7548 l
+-1142.8654 132.2368 l
+-1142.8654 133.2728 l
+-1143.1243 132.7548 l
+-1143.1243 132.2368 l
+-1143.1243 132.7548 l
+-1143.3834 132.4958 l
+-1143.3834 133.2728 l
+-1143.3834 132.7548 l
+-1143.6423 132.7548 l
+-1143.6423 132.4958 l
+-1143.6423 133.0138 l
+-1143.9014 133.0138 l
+-1143.9014 132.4958 l
+-1143.9014 133.0138 l
+-1144.1604 133.2728 l
+-1144.1604 132.2368 l
+-1144.4199 132.4958 l
+-1144.4199 133.2728 l
+-1144.4199 132.7548 l
+-1144.679 132.7548 l
+-1144.679 132.4958 l
+-1144.679 133.5318 l
+-1144.679 133.0138 l
+-1144.938 132.7548 l
+-1144.938 133.0138 l
+-1145.1969 133.0138 l
+-1145.1969 132.4958 l
+-1145.1969 133.0138 l
+-1145.4561 132.7548 l
+-1145.4561 133.0138 l
+-1145.4561 132.7548 l
+-1145.715 132.7548 l
+-1145.715 133.0138 l
+-1145.974 133.0138 l
+-1145.974 133.2728 l
+-1145.974 132.4958 l
+-1146.233 132.7548 l
+-1146.233 133.2728 l
+-1146.233 133.0138 l
+-1146.4919 133.0138 l
+-1146.4919 132.4958 l
+-1146.7511 132.7548 l
+-1146.7511 133.2728 l
+-1146.7511 133.0138 l
+-1147.01 132.4958 l
+-1147.01 132.2368 l
+-1147.01 133.2728 l
+-1147.01 132.4958 l
+-1147.269 132.4958 l
+-1147.269 133.7908 l
+-1147.269 132.7548 l
+-1147.5281 133.0138 l
+-1147.5281 132.4958 l
+-1147.5281 133.0138 l
+-1147.7871 133.0138 l
+-1147.7871 131.9778 l
+-1147.7871 133.2728 l
+-1148.0455 133.5318 l
+-1148.0455 132.2368 l
+-1148.0455 133.0138 l
+-1148.3046 132.7548 l
+-1148.3046 132.2368 l
+-1148.3046 133.5318 l
+-1148.5635 133.2728 l
+-1148.5635 132.7548 l
+-1148.8226 132.4958 l
+-1148.8226 133.0138 l
+-1149.0815 132.7548 l
+-1149.0815 132.2368 l
+-1149.0815 133.0138 l
+-1149.3406 133.2728 l
+-1149.3406 132.7548 l
+-1149.5996 132.7548 l
+-1149.5996 133.0138 l
+-1149.5996 132.4958 l
+-1149.8585 132.4958 l
+-1149.8585 133.2728 l
+-1149.9886 133.2728 l
+-1149.9886 132.2368 l
+-1150.2477 132.4958 l
+-1150.2477 133.0138 l
+-1150.5067 132.7548 l
+-1150.5067 133.0138 l
+-1150.5067 132.7548 l
+-1150.7656 132.7548 l
+-1150.7656 133.2728 l
+-1150.7656 132.7548 l
+-1151.0247 132.7548 l
+-1151.0247 132.4958 l
+-1151.0247 133.0138 l
+-1151.0247 132.7548 l
+-1151.2832 132.7548 l
+-1151.2832 132.4958 l
+-1151.2832 132.7548 l
+-1151.5421 132.7548 l
+-1151.5421 133.2728 l
+-1151.5421 132.4958 l
+-1151.8013 132.7548 l
+-1151.8013 133.2728 l
+-1151.8013 132.7548 l
+-1152.0602 132.7548 l
+-1152.0602 133.5318 l
+-1152.0602 133.2728 l
+-1152.3191 133.0138 l
+-1152.3191 132.4958 l
+-1152.3191 132.7548 l
+-1152.5782 132.4958 l
+-1152.5782 133.2728 l
+-1152.5782 133.0138 l
+-1152.8372 132.7548 l
+-1152.8372 133.2728 l
+-1152.8372 132.4958 l
+-1153.0962 132.4958 l
+-1153.0962 133.0138 l
+-1153.0962 132.7548 l
+-1153.3552 132.7548 l
+-1153.3552 133.2728 l
+-1153.6143 133.2728 l
+-1153.6143 132.4958 l
+-1153.6143 132.7548 l
+-1153.8733 132.7548 l
+-1153.8733 132.2368 l
+-1154.1328 132.7548 l
+-1154.1328 132.4958 l
+-1154.1328 133.2728 l
+-1154.1328 132.7548 l
+-1154.3917 133.0138 l
+-1154.3917 132.7548 l
+-1154.6509 132.7548 l
+-1154.6509 133.2728 l
+-1154.9098 133.0138 l
+-1154.9098 132.7548 l
+-1155.1688 132.7548 l
+-1155.1688 132.4958 l
+-1155.1688 133.0138 l
+-1155.4279 133.0138 l
+-1155.4279 132.7548 l
+-1155.6868 132.7548 l
+-1155.6868 132.4958 l
+-1155.6868 133.0138 l
+-1155.9458 132.7548 l
+-1155.9458 131.9778 l
+-1155.9458 133.5318 l
+-1155.9458 133.2728 l
+-1156.2048 133.0138 l
+-1156.2048 132.4958 l
+-1156.2048 133.2728 l
+-1156.4639 133.0138 l
+-1156.4639 132.4958 l
+-1156.4639 132.7548 l
+-1156.7229 132.7548 l
+-1156.7229 133.2728 l
+-1156.7229 132.7548 l
+-1156.9819 132.4958 l
+-1156.9819 133.0138 l
+-1156.9819 132.7548 l
+-1157.2408 132.4958 l
+-1157.2408 133.5318 l
+-1157.4999 133.7908 l
+-1157.4999 132.2368 l
+-1157.7583 132.4958 l
+-1157.7583 133.7908 l
+-1157.7583 133.2728 l
+-1158.0175 133.0138 l
+-1158.0175 132.4958 l
+-1158.0175 133.0138 l
+-1158.2764 133.2728 l
+-1158.2764 133.0138 l
+-1158.5354 132.7548 l
+-1158.5354 132.4958 l
+-1158.5354 133.2728 l
+-1158.5354 133.0138 l
+-1158.7944 132.4958 l
+-1158.7944 132.2368 l
+-1158.7944 133.0138 l
+-1158.7944 132.4958 l
+-1158.9244 132.7548 l
+-1158.9244 133.5318 l
+-1158.9244 132.7548 l
+-1159.1835 132.4958 l
+-1159.1835 133.2728 l
+-1159.1835 132.4958 l
+-1159.4425 132.7548 l
+-1159.4425 133.0138 l
+-1159.4425 132.7548 l
+-1159.7014 132.7548 l
+-1159.7014 132.4958 l
+-1159.7014 133.2728 l
+-1159.7014 133.0138 l
+-1159.9604 132.7548 l
+-1159.9604 133.2728 l
+-1159.9604 132.7548 l
+-1160.2195 132.4958 l
+-1160.2195 133.2728 l
+-1160.2195 132.7548 l
+-1160.4785 132.7548 l
+-1160.4785 132.4958 l
+-1160.4785 133.5318 l
+-1160.7375 133.7908 l
+-1160.7375 132.7548 l
+-1160.7375 133.2728 l
+-1160.996 133.0138 l
+-1160.996 132.2368 l
+-1160.996 133.2728 l
+-1160.996 133.0138 l
+-1161.255 133.0138 l
+-1161.255 133.2728 l
+-1161.255 132.7548 l
+-1161.5139 132.7548 l
+-1161.5139 133.7908 l
+-1161.7731 133.5318 l
+-1161.7731 132.7548 l
+-1161.7731 133.2728 l
+-1162.032 133.2728 l
+-1162.032 133.7908 l
+-1162.032 132.4958 l
+-1162.291 132.4958 l
+-1162.291 133.2728 l
+-1162.55 133.0138 l
+-1162.55 132.4958 l
+-1162.55 133.2728 l
+-1162.8091 133.5318 l
+-1162.8091 132.7548 l
+-1163.068 132.7548 l
+-1163.068 133.2728 l
+-1163.068 133.0138 l
+-1163.327 133.0138 l
+-1163.327 133.5318 l
+-1163.327 132.4958 l
+-1163.327 132.7548 l
+-1163.5861 132.7548 l
+-1163.5861 132.4958 l
+-1163.5861 133.0138 l
+-1163.8457 133.2728 l
+-1163.8457 132.7548 l
+-1163.8457 133.5318 l
+-1164.1041 133.2728 l
+-1164.1041 132.4958 l
+-1164.363 132.4958 l
+-1164.363 133.7908 l
+-1164.363 133.2728 l
+-1164.6227 132.7548 l
+-1164.6227 132.4958 l
+-1164.8817 132.7548 l
+-1164.8817 133.2728 l
+-1164.8817 132.4958 l
+-1165.14 132.4958 l
+-1165.14 133.0138 l
+-1165.14 132.4958 l
+-1165.3992 132.4958 l
+-1165.3992 133.5318 l
+-1165.3992 132.7548 l
+-1165.6587 132.7548 l
+-1165.6587 133.2728 l
+-1165.6587 132.7548 l
+-1165.9177 132.4958 l
+-1165.9177 133.0138 l
+-1166.1761 132.7548 l
+-1166.1761 132.4958 l
+-1166.1761 133.0138 l
+-1166.4352 133.0138 l
+-1166.4352 132.2368 l
+-1166.6947 132.7548 l
+-1166.6947 133.2728 l
+-1166.9537 133.0138 l
+-1166.9537 132.4958 l
+-1166.9537 132.7548 l
+-1167.2133 133.0138 l
+-1167.2133 132.7548 l
+-1167.4712 132.7548 l
+-1167.4712 133.0138 l
+-1167.4712 132.7548 l
+-1081.8688 134.8269 m
+-1081.8688 134.3088 l
+-1082.1278 133.2728 l
+-1082.1278 133.5318 l
+-1082.1278 132.7548 l
+-1082.1278 133.0138 l
+-1082.3867 132.4958 l
+-1082.3867 134.5679 l
+-1082.3867 133.5318 l
+-1082.646 133.5318 l
+-1082.646 134.0498 l
+-1082.646 132.7548 l
+-1082.646 133.0138 l
+-1082.905 133.0138 l
+-1082.905 134.0498 l
+-1082.905 132.4958 l
+-1083.1639 132.7548 l
+-1083.1639 132.4958 l
+-1083.1639 134.3088 l
+-1083.423 134.5679 l
+-1083.423 134.8269 l
+-1083.423 133.5318 l
+-1083.423 134.0498 l
+-1083.682 134.0498 l
+-1083.682 133.5318 l
+-1083.682 138.5825 l
+-1083.9409 150.3674 l
+-1083.9409 187.9237 l
+-1083.9409 137.1574 l
+-1084.2 135.6039 l
+-1084.2 132.4958 l
+-1084.2 133.7908 l
+-1084.459 134.3088 l
+-1084.459 132.7548 l
+-1084.459 134.8269 l
+-1084.718 135.3449 l
+-1084.718 132.7548 l
+-1084.9771 133.7908 l
+-1084.9771 134.5679 l
+-1084.9771 132.4958 l
+-1084.9771 133.5318 l
+-1085.236 133.5318 l
+-1085.236 133.0138 l
+-1085.236 133.7908 l
+-1085.236 133.5318 l
+-1085.495 133.2728 l
+-1085.495 132.2368 l
+-1085.7539 132.7548 l
+-1085.7539 133.7908 l
+-1086.0131 133.2728 l
+-1086.0131 132.2368 l
+-1086.0131 133.5318 l
+-1086.272 133.2728 l
+-1086.272 132.4958 l
+-1086.272 133.5318 l
+-1086.272 133.2728 l
+-1086.5309 132.4958 l
+-1086.5309 132.2368 l
+-1086.5309 133.7908 l
+-1086.5309 133.0138 l
+-1086.79 133.0138 l
+-1086.79 132.2368 l
+-1086.79 132.7548 l
+-1086.9196 132.7548 l
+-1086.9196 132.4958 l
+-1086.9196 133.5318 l
+-1086.9196 133.2728 l
+-1087.1786 132.4958 l
+-1087.1786 132.2368 l
+-1087.1786 133.0138 l
+-1087.4376 132.7548 l
+-1087.4376 133.2728 l
+-1087.4376 131.9778 l
+-1087.6965 132.4958 l
+-1087.6965 133.2728 l
+-1087.6965 132.4958 l
+-1087.9556 132.4958 l
+-1087.9556 133.5318 l
+-1087.9556 133.2728 l
+-1088.2146 133.2728 l
+-1088.2146 131.9778 l
+-1088.2146 132.7548 l
+-1088.4736 132.7548 l
+-1088.4736 131.9778 l
+-1088.4736 133.5318 l
+-1088.4736 133.0138 l
+-1088.7325 134.0498 l
+-1088.7325 132.4958 l
+-1088.7325 133.0138 l
+-1088.9916 133.0138 l
+-1088.9916 132.2368 l
+-1088.9916 134.0498 l
+-1088.9916 133.0138 l
+-1089.2506 132.7548 l
+-1089.2506 132.4958 l
+-1089.2506 133.2728 l
+-1089.2506 132.7548 l
+-1089.5095 132.7548 l
+-1089.5095 133.5318 l
+-1089.5095 133.0138 l
+-1089.7686 132.7548 l
+-1089.7686 133.2728 l
+-1089.7686 132.4958 l
+-1090.0276 132.2368 l
+-1090.0276 131.9778 l
+-1090.0276 133.7908 l
+-1090.2865 133.7908 l
+-1090.2865 132.4958 l
+-1090.2865 132.7548 l
+-1090.5457 133.0138 l
+-1090.5457 133.5318 l
+-1090.5457 132.4958 l
+-1090.5457 132.7548 l
+-1090.8046 131.9778 l
+-1090.8046 133.5318 l
+-1090.8046 132.7548 l
+-1091.0636 133.2728 l
+-1091.0636 132.4958 l
+-1091.0636 132.7548 l
+-1091.3226 132.4958 l
+-1091.3226 133.0138 l
+-1091.5815 133.0138 l
+-1091.5815 133.2728 l
+-1091.5815 131.9778 l
+-1091.5815 132.4958 l
+-1091.8406 133.2728 l
+-1091.8406 133.0138 l
+-1092.0996 133.7908 l
+-1092.0996 132.2368 l
+-1092.0996 133.2728 l
+-1092.3591 133.2728 l
+-1092.3591 133.5318 l
+-1092.3591 132.4958 l
+-1092.3591 133.0138 l
+-1092.6183 132.4958 l
+-1092.6183 132.2368 l
+-1092.6183 133.5318 l
+-1092.6183 132.4958 l
+-1092.8772 133.5318 l
+-1092.8772 132.4958 l
+-1092.8772 133.0138 l
+-1093.1361 132.7548 l
+-1093.1361 132.4958 l
+-1093.1361 133.0138 l
+-1093.3953 132.4958 l
+-1093.3953 133.2728 l
+-1093.3953 131.9778 l
+-1093.3953 132.2368 l
+-1093.6542 133.2728 l
+-1093.6542 132.7548 l
+-1093.6542 133.5318 l
+-1093.6542 133.2728 l
+-1093.9132 132.4958 l
+-1093.9132 134.3088 l
+-1093.9132 133.2728 l
+-1094.1722 131.9778 l
+-1094.1722 133.2728 l
+-1094.1722 132.4958 l
+-1094.4313 133.2728 l
+-1094.4313 133.5318 l
+-1094.4313 131.9778 l
+-1094.6903 132.7548 l
+-1094.6903 132.4958 l
+-1094.6903 133.7908 l
+-1094.6903 132.7548 l
+-1094.9492 132.4958 l
+-1094.9492 132.2368 l
+-1094.9492 133.2728 l
+-1094.9492 132.7548 l
+-1095.2083 132.4958 l
+-1095.2083 132.2368 l
+-1095.2083 133.5318 l
+-1095.2083 133.0138 l
+-1095.4673 132.7548 l
+-1095.4673 132.2368 l
+-1095.4673 133.2728 l
+-1095.4673 133.0138 l
+-1095.7263 132.7548 l
+-1095.7263 133.0138 l
+-1095.7263 131.7188 l
+-1095.7263 132.4958 l
+-1095.8558 132.4958 l
+-1095.8558 133.2728 l
+-1095.8558 133.0138 l
+-1096.1147 133.0138 l
+-1096.1147 132.4958 l
+-1096.1147 133.7908 l
+-1096.1147 133.5318 l
+-1096.3739 133.2728 l
+-1096.3739 132.2368 l
+-1096.3739 132.7548 l
+-1096.6328 133.5318 l
+-1096.6328 132.2368 l
+-1096.6328 132.7548 l
+-1096.8918 132.4958 l
+-1096.8918 131.9778 l
+-1096.8918 133.7908 l
+-1096.8918 133.0138 l
+-1097.1509 133.0138 l
+-1097.1509 132.7548 l
+-1097.1509 133.5318 l
+-1097.1509 133.0138 l
+-1097.4098 133.0138 l
+-1097.4098 132.2368 l
+-1097.4098 133.5318 l
+-1097.4098 133.2728 l
+-1097.6688 133.5318 l
+-1097.6688 132.4958 l
+-1097.9279 133.0138 l
+-1097.9279 133.5318 l
+-1097.9279 132.7548 l
+-1098.1869 132.4958 l
+-1098.1869 133.2728 l
+-1098.1869 133.0138 l
+-1098.4459 133.2728 l
+-1098.4459 133.0138 l
+-1098.4459 134.5679 l
+-1098.4459 134.0498 l
+-1098.705 133.7908 l
+-1098.705 132.7548 l
+-1098.705 133.7908 l
+-1098.9639 133.5318 l
+-1098.9639 132.7548 l
+-1098.9639 133.5318 l
+-1099.2229 133.0138 l
+-1099.2229 132.7548 l
+-1099.2229 133.7908 l
+-1099.2229 133.5318 l
+-1099.4813 133.2728 l
+-1099.4813 133.5318 l
+-1099.4813 133.0138 l
+-1099.7405 132.7548 l
+-1099.7405 133.2728 l
+-1099.9994 133.0138 l
+-1099.9994 132.7548 l
+-1099.9994 133.2728 l
+-1100.2584 132.4958 l
+-1100.2584 133.5318 l
+-1100.5175 134.0498 l
+-1100.5175 132.7548 l
+-1100.7764 133.0138 l
+-1100.7764 133.5318 l
+-1100.7764 132.7548 l
+-1101.0354 132.7548 l
+-1101.0354 133.7908 l
+-1101.0354 133.0138 l
+-1101.2944 132.2368 l
+-1101.2944 133.0138 l
+-1101.5535 133.0138 l
+-1101.5535 132.4958 l
+-1101.5535 133.0138 l
+-1101.813 133.2728 l
+-1101.813 132.4958 l
+-1101.813 132.7548 l
+-1102.0714 133.0138 l
+-1102.0714 132.2368 l
+-1102.0714 132.7548 l
+-1102.3309 133.0138 l
+-1102.3309 132.4958 l
+-1102.3309 133.2728 l
+-1102.5901 132.7548 l
+-1102.5901 132.4958 l
+-1102.5901 133.2728 l
+-1102.5901 132.7548 l
+-1102.849 132.7548 l
+-1102.849 133.2728 l
+-1102.849 132.2368 l
+-1103.108 133.0138 l
+-1103.108 132.2368 l
+-1103.108 133.5318 l
+-1103.3671 133.2728 l
+-1103.3671 132.7548 l
+-1103.3671 133.5318 l
+-1103.6261 133.0138 l
+-1103.6261 133.2728 l
+-1103.6261 132.2368 l
+-1103.6261 132.7548 l
+-1103.8851 132.7548 l
+-1103.8851 132.4958 l
+-1103.8851 133.2728 l
+-1104.144 133.2728 l
+-1104.144 132.2368 l
+-1104.144 133.5318 l
+-1104.4031 133.5318 l
+-1104.4031 132.4958 l
+-1104.6621 133.0138 l
+-1104.6621 133.2728 l
+-1104.6621 132.4958 l
+-1104.9211 133.0138 l
+-1104.9211 132.7548 l
+-1104.9211 133.7908 l
+-1104.9211 133.2728 l
+-1105.0507 133.0138 l
+-1105.0507 133.5318 l
+-1105.0507 133.2728 l
+-1105.3091 133.5318 l
+-1105.3091 133.7908 l
+-1105.3091 132.7548 l
+-1105.3091 133.0138 l
+-1105.5686 133.0138 l
+-1105.5686 133.2728 l
+-1105.5686 132.7548 l
+-1105.8276 132.4958 l
+-1105.8276 133.5318 l
+-1105.8276 133.2728 l
+-1106.0867 133.2728 l
+-1106.0867 132.7548 l
+-1106.0867 133.7908 l
+-1106.3457 133.5318 l
+-1106.3457 132.7548 l
+-1106.6046 133.5318 l
+-1106.6046 134.0498 l
+-1106.6046 132.7548 l
+-1106.8636 132.7548 l
+-1106.8636 133.7908 l
+-1106.8636 133.0138 l
+-1107.1227 133.2728 l
+-1107.1227 134.5679 l
+-1107.1227 133.5318 l
+-1107.3817 133.2728 l
+-1107.3817 133.0138 l
+-1107.3817 133.7908 l
+-1107.3817 133.5318 l
+-1107.6407 133.0138 l
+-1107.6407 135.0859 l
+-1107.8997 134.5679 l
+-1107.8997 133.7908 l
+-1107.8997 151.4034 l
+-1108.1587 151.6624 l
+-1108.1587 135.3449 l
+-1108.4177 134.5679 l
+-1108.4177 136.3809 l
+-1108.4177 134.8269 l
+-1108.6768 134.5679 l
+-1108.6768 134.0498 l
+-1108.6768 136.3809 l
+-1108.9357 136.6399 l
+-1108.9357 178.2108 l
+-1108.9357 161.3753 l
+-1109.1942 151.1439 l
+-1109.1942 134.0498 l
+-1109.4531 133.5318 l
+-1109.4531 138.0645 l
+-1109.4531 137.935 l
+-1109.7123 137.1574 l
+-1109.7123 134.8269 l
+-1109.7123 135.0859 l
+-1109.9712 134.5679 l
+-1109.9712 134.8269 l
+-1109.9712 133.2728 l
+-1109.9712 134.0498 l
+-1110.2302 133.7908 l
+-1110.2302 134.3088 l
+-1110.2302 133.0138 l
+-1110.4893 133.5318 l
+-1110.4893 134.5679 l
+-1110.4893 133.0138 l
+-1110.4893 133.2728 l
+-1110.7483 133.5318 l
+-1110.7483 132.4958 l
+-1110.7483 133.5318 l
+-1111.0073 133.5318 l
+-1111.0073 132.4958 l
+-1111.0073 133.2728 l
+-1111.2664 133.2728 l
+-1111.2664 133.5318 l
+-1111.2664 132.7548 l
+-1111.5258 133.0138 l
+-1111.5258 133.5318 l
+-1111.5258 132.7548 l
+-1111.7843 132.7548 l
+-1111.7843 133.5318 l
+-1111.7843 133.0138 l
+-1112.0438 132.2368 l
+-1112.0438 133.0138 l
+-1112.0438 132.7548 l
+-1112.3029 132.7548 l
+-1112.3029 133.5318 l
+-1112.3029 133.0138 l
+-1112.5619 132.4958 l
+-1112.5619 131.9778 l
+-1112.5619 133.7908 l
+-1112.5619 133.0138 l
+-1112.8208 132.7548 l
+-1112.8208 132.4958 l
+-1112.8208 133.2728 l
+-1113.0798 133.2728 l
+-1113.0798 132.7548 l
+-1113.0798 133.5318 l
+-1113.0798 133.2728 l
+-1113.3389 133.2728 l
+-1113.3389 132.4958 l
+-1113.3389 132.7548 l
+-1113.5979 132.2368 l
+-1113.5979 134.5679 l
+-1113.5979 134.3088 l
+-1113.8569 134.0498 l
+-1113.8569 132.7548 l
+-1113.9858 132.4958 l
+-1113.9858 132.2368 l
+-1113.9858 133.2728 l
+-1114.2449 133.2728 l
+-1114.2449 132.4958 l
+-1114.2449 133.5318 l
+-1114.5039 134.0498 l
+-1114.5039 132.2368 l
+-1114.5039 133.0138 l
+-1114.7634 133.0138 l
+-1114.7634 133.5318 l
+-1114.7634 131.9778 l
+-1114.7634 132.4958 l
+-1115.022 132.4958 l
+-1115.022 133.5318 l
+-1115.022 133.2728 l
+-1115.2815 133.2728 l
+-1115.2815 132.4958 l
+-1115.2815 133.2728 l
+-1115.5405 133.2728 l
+-1115.5405 132.4958 l
+-1115.5405 132.7548 l
+-1115.7994 132.7548 l
+-1115.7994 133.0138 l
+-1115.7994 132.4958 l
+-1116.0585 132.7548 l
+-1116.0585 133.0138 l
+-1116.3175 132.7548 l
+-1116.3175 132.4958 l
+-1116.3175 133.5318 l
+-1116.3175 133.0138 l
+-1116.5765 132.4958 l
+-1116.5765 132.2368 l
+-1116.5765 132.7548 l
+-1116.8354 133.2728 l
+-1116.8354 132.7548 l
+-1116.8354 133.5318 l
+-1117.0946 133.0138 l
+-1117.0946 132.4958 l
+-1117.0946 133.0138 l
+-1117.3535 133.2728 l
+-1117.3535 133.5318 l
+-1117.3535 132.7548 l
+-1117.3535 133.0138 l
+-1117.6125 133.2728 l
+-1117.6125 131.9778 l
+-1117.6125 132.7548 l
+-1117.8716 132.4958 l
+-1117.8716 133.5318 l
+-1117.8716 133.2728 l
+-1118.1305 133.7908 l
+-1118.1305 132.4958 l
+-1118.1305 133.0138 l
+-1118.3896 133.0138 l
+-1118.3896 132.7548 l
+-1118.3896 133.2728 l
+-1118.3896 133.0138 l
+-1118.6486 133.0138 l
+-1118.6486 132.2368 l
+-1118.6486 132.7548 l
+-1118.9071 133.0138 l
+-1118.9071 133.2728 l
+-1118.9071 132.4958 l
+-1118.9071 132.7548 l
+-1119.166 132.7548 l
+-1119.166 133.5318 l
+-1119.166 133.2728 l
+-1119.425 133.0138 l
+-1119.425 132.4958 l
+-1119.425 133.0138 l
+-1119.6841 133.2728 l
+-1119.6841 132.2368 l
+-1119.9431 132.4958 l
+-1119.9431 133.2728 l
+-1119.9431 133.0138 l
+-1120.202 132.2368 l
+-1120.202 131.9778 l
+-1120.202 133.2728 l
+-1120.4611 133.2728 l
+-1120.4611 132.2368 l
+-1120.4611 132.4958 l
+-1120.7201 133.0138 l
+-1120.7201 133.5318 l
+-1120.7201 132.7548 l
+-1120.9791 132.4958 l
+-1120.9791 133.0138 l
+-1121.2386 133.5318 l
+-1121.2386 132.7548 l
+-1121.4977 133.2728 l
+-1121.4977 132.7548 l
+-1121.7567 133.0138 l
+-1121.7567 133.5318 l
+-1121.7567 132.2368 l
+-1121.7567 132.7548 l
+-1122.0157 132.4958 l
+-1122.0157 133.7908 l
+-1122.0157 133.2728 l
+-1122.2747 133.0138 l
+-1122.2747 132.7548 l
+-1122.2747 133.5318 l
+-1122.5337 133.5318 l
+-1122.5337 132.7548 l
+S
+q
+-1272.6293 132.1073 m
+-1284.4142 132.1073 l
+-1284.4142 133.7908 l
+-1272.6293 133.7908 l
+-1272.6293 132.1073 l
+W n
+-1272.8884 133.0138 m
+-1272.8884 133.5318 l
+-1272.8884 133.2728 l
+-1273.1467 133.0138 l
+-1273.1467 132.7548 l
+-1273.4058 132.7548 l
+-1273.4058 133.0138 l
+-1273.6654 133.0138 l
+-1273.6654 132.4958 l
+-1273.9243 132.4958 l
+-1273.9243 132.7548 l
+-1274.1829 132.7548 l
+-1274.1829 133.0138 l
+-1274.4419 133.0138 l
+-1274.4419 132.7548 l
+-1274.4419 133.0138 l
+-1274.7013 132.7548 l
+-1274.7013 132.4958 l
+-1274.9604 132.7548 l
+-1275.2189 132.4958 l
+-1275.4778 132.7548 l
+-1275.4778 133.0138 l
+-1275.7374 133.0138 l
+-1275.7374 132.7548 l
+-1275.7374 133.0138 l
+-1275.9965 133.0138 l
+-1276.2549 132.7548 l
+-1276.2549 133.2728 l
+-1276.3844 133.2728 l
+-1276.3844 132.7548 l
+-1276.6434 132.7548 l
+-1276.6434 132.4958 l
+-1276.6434 133.0138 l
+-1276.903 133.0138 l
+-1277.1619 133.0138 l
+-1277.1619 132.7548 l
+-1277.4204 132.7548 l
+-1277.6794 132.7548 l
+-1277.6794 132.4958 l
+-1277.6794 132.7548 l
+-1277.939 132.7548 l
+-1277.939 133.0138 l
+-1278.198 132.7548 l
+-1278.198 132.4958 l
+-1278.198 133.0138 l
+-1278.4564 133.0138 l
+-1278.4564 132.7548 l
+-1278.7155 132.7548 l
+-1278.7155 132.4958 l
+-1278.975 132.7548 l
+-1278.975 133.0138 l
+-1278.975 132.7548 l
+-1279.234 132.7548 l
+-1279.234 132.4958 l
+-1279.234 133.0138 l
+-1279.4926 133.2728 l
+-1279.4926 133.0138 l
+-1279.7515 132.7548 l
+-1280.011 132.7548 l
+-1280.2701 132.7548 l
+-1280.2701 133.0138 l
+-1280.5284 133.0138 l
+-1280.5284 132.4958 l
+-1280.7876 132.7548 l
+-1280.7876 133.0138 l
+-1281.0465 133.2728 l
+-1281.0465 132.7548 l
+-1281.306 132.4958 l
+-1281.306 132.7548 l
+-1281.5652 133.0138 l
+-1281.5652 132.7548 l
+-1281.8236 132.7548 l
+-1282.0826 132.7548 l
+-1282.0826 133.0138 l
+-1282.0826 132.4958 l
+-1282.3422 132.7548 l
+-1282.3422 133.0138 l
+-1282.6011 133.0138 l
+-1282.6011 132.7548 l
+-1282.6011 133.0138 l
+-1282.8596 132.7548 l
+-1282.8596 132.4958 l
+-1282.8596 132.7548 l
+-1283.1187 132.7548 l
+-1283.1187 133.2728 l
+-1283.3782 133.2728 l
+-1283.3782 133.0138 l
+-1283.6372 132.7548 l
+-1283.8956 132.7548 l
+-1283.8956 133.0138 l
+-1284.1547 133.2728 l
+-1284.1547 132.7548 l
+-1284.4142 132.4958 l
+-1284.4142 132.7548 l
+S
+Q
+0.255 w 
+0 0 0 0.703 K
+-1050.0109 229.4946 m
+-1050.0109 224.444 l
+S
+-1050.9172 224.444 m
+-1050.9172 229.4946 l
+f
+-1067.6233 187.6647 m
+-1067.6233 182.614 l
+S
+-1083.9409 190.2549 m
+-1083.9409 185.0747 l
+S
+-1108.9357 180.5419 m
+-1108.9357 175.3618 l
+S
+-1127.0664 203.9823 m
+-1127.0664 198.9318 l
+S
+-1200.8834 208.9033 m
+-1200.8834 203.7234 l
+S
+-1240.1237 162.1523 m
+-1240.1237 156.9721 l
+S
+-1044.5717 114.3652 m
+-1265.6355 114.3652 l
+f
+-1073.4512 114.3652 -10.8783 5.4392 re
+f
+Q
+Q
+1 g
+1008 62.247 251.875 36.969 re
+f
+Q
+q
+BT
+/F2 1 Tf
+7 0 0 7 1008 94.2185 Tm
+0 g
+[(Fig. 1. Example spectra for Pr)18(oteinChip all-in-one peptide standar)17(d generated)]TJ
+0 -1.28572 TD
+[(on the Pr)18(oteinChip biology system II \(PBS II\) \(no longer a)-1(vailable\); laser)]TJ
+0 -1.28571 TD
+(intensity 195; sensitivity 5.)Tj
+ET
+1 g
+1014.4691 121.449 9.2319 89.279 re
+f
+Q
+q
+BT
+/F0 1 Tf
+6 0 0 6 1016.0301 205.4447 Tm
+0 g
+(10)Tj
+0.5559 -6.125 TD
+(5)Tj
+(0)'
+ET
+1 g
+1031.254 220.279 42.5399 13.44 re
+f
+BT
+/F0 1 Tf
+6 0 0 6 1032.2495 228.6225 Tm
+0 g
+[(V)55(asopr)18(essin)]TJ
+0 -1.16667 TD
+[(M)17(W)-122(1,084.25)]TJ
+ET
+1 g
+1216.912 152.444 35.887 12.529 re
+f
+BT
+/F0 1 Tf
+6 0 0 6 1216.2856 172.5469 Tm
+0 g
+(Hir)Tj
+1.20363 0 TD
+(udin)Tj
+-1.20363 -1.16667 TD
+[(M)17(W)-233(6,963.52)]TJ
+ET
+1 g
+1033.593 192.653 28.38 11.911 re
+f
+BT
+/F0 1 Tf
+6 0 0 6 1031.3163 200.1453 Tm
+0 g
+(Somatostatin)Tj
+0 -1.16667 TD
+-0.017 Tc
+[(MW)-122(1)55(,)16(637)111(.)56(90)]TJ
+ET
+1 g
+1065.6331 180.014 22.6849 17.248 re
+f
+BT
+/F0 1 Tf
+6 0 0 6 1064.9113 189.7389 Tm
+0 g
+0 Tc
+(Dynorphin)Tj
+0 -1.16667 TD
+-0.017 Tc
+(MW)Tj
+1.95643 0 TD
+0 Tc
+(2,147.50)Tj
+ET
+1 g
+1088.5649 166.809 34.5861 13.699 re
+f
+BT
+/F0 1 Tf
+6 0 0 6 1089.4573 175.155 Tm
+0 g
+(ACTH)Tj
+0 -1.16667 TD
+[(M)17(W)-233(2,933.50)]TJ
+ET
+1 g
+1109.6 198.234 64.3151 5.266 re
+f
+1106.915 194.5 56.2779 15.881 re
+f
+BT
+/F0 1 Tf
+6 0 0 6 1107.4415 203.9451 Tm
+0 g
+0.028 Tw
+(Bovine Insulin )Tj
+ET
+Q
+q
+BT
+/F28 1 Tf
+6 0 0 6 1144.7653 203.9451 Tm
+0 g
+(b)Tj
+ET
+Q
+q
+BT
+/F0 1 Tf
+6 0 0 6 1148.0581 203.9451 Tm
+0 g
+(-chain)Tj
+-6.76943 -1.16667 TD
+[(M)17(W)-233(3,495.94)]TJ
+ET
+1 g
+1179.23 200.636 38.9201 13.212 re
+f
+BT
+/F0 1 Tf
+6 0 0 6 1179.851 208.5942 Tm
+0 g
+0.028 Tw
+(Human insulin)Tj
+0 -1.16667 TD
+0 Tw
+[(M)17(W)-233(5,807.65)]TJ
+-21.40756 -14.20785 TD
+[(2,000)-7936(4,000)-8095(6,000)-7815(8,000)]TJ
+ET
+Q
+q
+BT
+/F0 1 Tf
+7 0 0 7 1136.9001 107.5136 Tm
+0 g
+(m/z)Tj
+ET
+1 g
+1007.9183 124.8263 9.492 116.3529 re
+f
+BT
+/F0 1 Tf
+0 7 -7 0 1013.9158 170.6305 Tm
+0 g
+-0.0001 Tc
+(I)Tj
+0.22187 0 TD
+(n)Tj
+0.53687 0 TD
+(t)Tj
+0.29586 0 TD
+(e)Tj
+0.51886 0 TD
+(n)Tj
+0.53687 0 TD
+(s)Tj
+0.48086 0 TD
+(i)Tj
+0.18486 0 TD
+(t)Tj
+0.29586 0 TD
+(y)Tj
+ET
+Q
+
+endstream
+endobj
+8 0 obj
+<<
+/Nums[0<</P(1)>> 1<</P(5)>>]
+>>
+endobj
+9 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[32/space 35/numbersign 37/percent 40/parenleft/parenright 44/comma/hyphen/period/slash/zero/one/two/three/four/five/six/seven/eight/nine/colon 65/A/B/C/D/E/F/G/H/I 76/L/M/N/O/P 82/R/S/T/U/V/W 89/Y 97/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z 161/degree 168/registered/copyright 181/mu 208/endash]
+>>
+endobj
+10 0 obj
+<<
+/Subtype/Type1C
+/Length 5568
+/Length1 5568
+>>
+stream
+  DGXCZB+HelveticaNeue-Light   @¯ ¯¯¯¯˚:˚g˙Æ˙[
+ ãã
+ ãã  4  0  ≈¶  • ê≤øCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.12 pt. Helvetica* 45 Light   02472HelveticaNeue  G  ™     # J P  3 B E - C S U F T  * O D  & Q G N L / I M ) [ ( 5 Z 4 $ % W 6       V H K  Y " X 	 
+ :   • ' 1 . 0 8  o ò  R ° 7 I   ò õ ?Æ4Éö˚Ö‚˘Xà¿†≥;KoŒ
+k§Õ@a Á	(	û	
+6
+]
+ò
+ÔB±„x∏/i·MïÕ/üªQr≠Í<†∑˛ãÍ$J¸˜*|¿Â∏¯∏Â¿ß≈ı¿¯i≈˘ò˜˘˜e˚6˜7˚f˚f˚6˚7˚e˚e˜6˚7˜f˜f˜6˜7˜eQ˚F˚˚!˚H˚H˚˜!˜F˜F˜˜!˜H˜H˜˚!˚F˚ŸÏ~=¡-˚:*˚˚‹*˜ÈŸ¡ÏòXO[]B˚ R€ÛÛƒ€˜ ‘äª]óP¸-ã≈¯Á¿¿ ˜œ ¯Ö≈¸úÈ˜…œπÊ∆‡‘ã˜	ã˜,Œ˚ã˚,ã@#é˚$ Úâ∏Á˜‡”W0Swfed˚˚˚iXÜ˚d¯a-|¿¯˚¿≠ ˜˛ ˜™˘!˜4†˚N˚˚v˚N˚4˚4v˜N˜˜†˜N˜4¿˚`c˚Y˚8˚7≥˚Y˜`˜`≥˜Y˜8˜7c˜Y˚`-|¿¯¿˜Y¿≥◊˜⁄ ] Ù˜∂¯'ˆ…8%*G8'˚V‹ÓÚÀ›˜∏˜k˜˜|>»˚˚yv˚û8˚•÷(˜>Ù˜Ó˜˜0Ï˚ <A\Fjâ˜©˜N˜7(‹¡V>ñúã≈˜±≈˜ì≈”œ¯œbœÙ˜ ˜Î˜~˜–\0˚4i&å˚~GQ˜¬˜|£˜œËP–/óçx’õΩ–÷˜˚µ˚˚¬œQ˜~ı¬^2HWU˚˚~¸e†v¯òw˜	» » ¯òL0Ï L-|¿¯L¿≠ ˜˛ ˜™¯ß˚25˚˚(˚(·˚˜2˜2·˜˜(˜(5˜˚2V˜«˚˚˚O˚˚˚O˜˜˜«˜˜˚¨†v˜ä≈«˜é˜ ˜ä≈˚éQú†v˜—≈˜≠≈”œ¯%»Uœ¯”œ˜—˜ñ˜êì˚ë'çmãVúo÷mØãÌàºÜ‡pÀ.óçtÁù∫’Â˜(ƒ˚
+˚€œQ˜íÒøT44DW8˚í˚|¿e¿¯=¿´ b ˜• ¥¯˜\&å6N+PS≤ ˜äˆûúéßêìöç,˚•◊ﬂç≈ØŸ’»v6RnÑWÖî˚{˚!Ü˚%#Ÿ\ÍÓ∏±Œ∑çlUïgÀúïåéô¿âÜÉâÑrô£˜¶˜(ß0˚
+6W˚Ö?|¿e±¯L¿˜Kw± ˜Ú º˜ñˆº˜˜˜∫˚  \˚˚˚Z˜ˆ¯1¯\L˚ºâ’p@≤>˚1@˚˚&˚&÷˚˜1÷›πŒ¶çD)≈˚ã≈˘$w”œ”¯h≈¸$˘$G?|¿e±¯L¿˜Kw« ˜Ú º¯m˜ñ Z˚˚˚\˜ˆˆ∫˜˜˜º˚ H¸1˚ñ≈ÌçºE®”`ﬁ˜1÷˜˜&˜&@˜˚1>@dApâ˜ºL˚„†v¯` Ñw« ∞« ˜ßPˆŸﬂ˜Ö .èEZk8â0˜Q˚ˆÖ¿¯4¿Ï ˜4˘3L˚/1VÂ˚ı3ä®oﬂûùçû¡âyyäy^éÖ£¥˜Ù¿"˚|¿˜_¿˜L¿≠ ˜‚ ¯Ç˜Ö˜%êI˜%˚:˚8F˚˚˚'–˚˜8˜œœ˜	¶L=wYU/˚[˜Áä¿ÈïƒÂÚÒ∆2,é˚=|¿¯L¿™ ^ ˜ï ^ X¯D¯˜á9¡$0$c"3…o›u‹y§ƒ}√wOC9qP7L∑‡ÜL˚ï›S˜Î˜∂˜Â@µCñ7ûX`ñKü√ŒÕ°√”«h=é¸ãıÏﬂÏı!µçj|Zj`«ú¶»å≈ˆ¸@†v˘^wÿœÿœ˘^G˚†v¯r±e¿∆ ˜π ∏∆ ˜¡ç«◊ÔÒ®H2˚÷ ˜‡˜_◊˚%BFaMtâP‰L˚|¿¯L¿≠ ¯{˜ˆ˜
+}6∆˚˚25˚˚(˚(·˚˜2˜‹◊˜úL5ÉKN=˚O˜˜˜«˜˜›∫\>ú¸ãıÏﬂ˜Iı7!Rã≈˜Æ≈˜ñ≈”œ”¯Ü≈¸B˜Æ¯"≈¸"˜ñ¯=≈¸Å?˚>v˜D¿¯L±e¿« ˜Ú ‹¯m˜ñ Z˚˚˚\˜ˆ˜	µÚ˜˜º˚ ¸1¸U ˜µçA¶÷dÿ˜1÷˜˜&˜&@˜˚18C`Enâ(ÌQ¸†v¯c¿˜%¿È ˜ó¯ò%∏√åâ∑—öôâàú¡éw|åy&rM2å\3V„¸c ¯cÒ˜K†v¯r±e¿« ˜ö ˜ö º« ˜¥˜ å∑›˜€®QEä˚Ú ˜∏Î™Â˜Â´]6˚Ô ˜Ú˜Q∆˚GJjGlœxN¨G9UcMjà\‚Q˚*ã˜û†v˜éw˜nw« ®« ˜XÒ‡˜`˚≠⁄˚˜Ÿ˜p˜S7X˚≤˚é¯TL¡†v˘^w“œ¯>œ“œ¯ç¯4¸◊˘^G¸â¸4¯?˚†v¯r¿˜Kw∆ ˜π ∆ ˜¡ç«◊ÔÒ®H2˚÷ ˜‡˜_◊˚%BFaMtâ˜≥L¸e†v˘^w» » ˘^L¡†v˜Ó≈˜ w”œ¯<œ”œ˜Ó¯<˚Óœ˘^G˚ ¸<˜ G˚Oã¿¯.¿¯D¯k∏¸V˜Œ˚Â¸0X¯C¿˚˜Ê|≈uv˜≈≈˜»≈±œ¯ü¿º˘>˜ˇ˚√Q˜á˚+é/˚˚2˚Q;˜2˜0˜0€˜2˜Q˜‡*9îœ˜0q˚‹˚*˚u˚˚E˚W˚W˜˚E˜uÚÎ∂ÒªçDî˚º-†v˘$≈˜àœÜ˘$˜ç˝$œ˘$˜ç≈¸ ˚O˚S¿˘"wç¯_˜dçuPv[~jSã}}çé|Vïáòã§ä⁄ã†§Ø‚˜t¯ÁL˚3¸L˚>¯LHw|≈˘≈Øœ^œ¯
+œ`œ§Ø˜˚BÉ˜?˜=˜ëü˜/º˜	7∑&¶˚B∂XQôYßŒı·ØËÂT˚èœ˜&å˚◊˚!˚]^˚E˚ÿcﬂv˜3d§Õ{‹k:#˚b@˚!∏˜'é¡|≈˘≈±œ˘*¯Ü˜*y˚‹˚˚u˚˚E˚W˚W˜˚E˜u˜;˜˜˜CûG˚~7%˚˚Q;˜2˜0˜0€˜2˜QÛÊL˚£Æã≈¯Í≈”œ¯Kœ˜ ˘$˜%˜aå‰4˚i˚i24˚aå˚%GQ˜ã˜kê˜˜
+˜~˜~˚˜
+˚kê˚ã˚Oã ¯Ywç¯_˜]Œ˜U¯òJ˚4¸Yâ˚6¯YEÆ|≈˘3wÃœ¯7œÃ˜ï˚'⁄˚˜Z˜[⁄˜˜'¯]G¸N˚:å<L˚˚< ˜:å¯NG-|¿¯	¿˜=≈Ø ˜Ô Ø˜\˚éÏ9˜˜˜Ô˜˜!0˚$UPsbhâç∏˜|˜∆≈˚ÚG˚ˇ¡¿≠«©…Û÷<$%H2˚ +BÃÏà-†v˘≈˜*œæ˘¯˚V˚q>˚Cz˚Åœõ˜⁄˜H˜l‚Ê≈¸V-†v¯ú∏˜w˜Æ Ï¯ú˜M¸ú ˘PXx˚Gâ˚á-|¿˜Y¿¯¿≠ ] ˜⁄◊Ù˜û˜¥ MﬁÒÏœﬁÔ˜¿:($K9˚¨˚k˚˚öÿN˜˜y†˜ûﬁ˜•@Ó˚>Ù˚(&˚˚Ê*˜ ⁄’∫–¨ç˚m˚N˚7à:U¿ÿÄ-†v˜B¿¯mw˜ı≈©˜B˜◊˚B≈˜BÙ¿"¯mR˚ÿ¸eƒÉ˜ú¯ç¸-|¿˜ ¿s£˜ê¿∞ h ˜ø i Ÿ˜™±);¿ÙÚ›æÎâÈçﬂV& ;X)6˜h¯Å˜˚¬#$˚T˚>¥T‘uâ©5{UCâ0ã˚!˜E˜ã˜ã˜—ã˜!ãÈVŒ1ùçä6“°∂ƒ◊V˚h˚Aâ?±È€‘µÿﬂÃa;1Ca>ç˚|¿e±¯rw∆ ˜π ∏¯r¯òL˚£"\%˚ 'hºËà˜‰L˚„˚æ?˜ÿœ≤–¨çH.≈-˚b¿˜3¿¯7±e¿≠ ˜‰ ‹˜ü∆˚UÛˆΩˆ˜˜∫˚&"R'˚$˜y¯]L2â‹ƒrK∫@˚)7˚
+˚"˚'œ˚
+˜9’»∂ ®çE˚YF˚EH¶◊}L˚îÒ]Ú˜=∆È˜.å¸e˚S¿˘"w˜	» »L`ÉkZÅä}åÅåWöôâãö‰†Õÿ¯»L0Ï L-|¿˜√¿ãv˜¨¿¨ \ ˜Ã f Ÿ¨˜s˚*ÅÛ3˜%˜˜◊˜!ÁVÕ0öç6÷ù∂»◊˜ ¡˚˚7)˚ä Ûâ√‘Ùﬂ–c/B3>cJåVV¿…Ë÷Z('4T/˚I’˜è˚=†v˜∂v˜ãwå¯såŸ˜3˜m˜6˚m€˚]˜°˜N˜ã<˚$˚X˚'˜X<˜M˚åw†v˜r≈¯œÑ˘Ñ‘·˜r˜Ÿ‚˚r‘˚¨˘^?ÆG˜¸˚≠Êã’˜¸›ãwì˘i∞˜B–˜¯Fç˜¸F–˜:¯òH˚¸Nâ@˚¯ND˚¸Nâ˚¯NH¸-˚>v˙,wæ ˜Ü˚S?˜W˜9˜%˜D≤˜<‰˜"Y4˚U˚2˚>˚Bø˚‰˚'¸-˚>v˙,w˜ ä˘m◊˚ø˚9˚%˚Dd˚<2˚"Ω‚˜¡˜2˜>˜BW˜2˜'d†v˘^w˜£œ˜£œ˜∫˜Æ¯8:˚~˚˛˚˜˛:˜≠¸8-†v˜s∏˜0∏Æ¯~¯Ö˜†"°˜0˜∏"™˜rYl˚r˚!™˜rYl˚r˚^˜u˚0˚^˜l˚sΩ™˜s˜!l˚sΩ™˜s˜˚˜]u˚0˚!°˜0˚—ëv˘|w~˜˚¥|˜≈˘|X˚»˝|˜*|¿˜ª∏˜)∏Û¿ß≈˜G¿˜[¿˜$≈¯$˘m˚f˚6˚7˚e˚e˜6˚7˜f˜f˜6˜7˜e˜e˚6˜7˚fV˜H˜˚!˚F˚F˚˚!˚H˚H˚˜!˜F˜F˜˜!˜H9˚Î‰˜˚S…˚˜S≈ïΩ≠ã◊ÿ`µ*˚9¸B¿˜Ä˜)ÏøΩ}OBKâJ˚†v˜Ë≈˜ñ≈”œ”œ˜Ë˜Í≈˚Í˜ñ¯≈¸Yw†v˜∆≈˜∏≈”œ¯œ”œ˜∆˜ç˜ﬂ÷˜˜7÷˚˚—œQ˜~ÈÃ[))J[-˚~˜K†vã„¯•Ïãw—œ¯¡œú—œ¯˝çl˜â¸˝À˜à¯˝ç¸˝œ˘^'˚ä˝˚ã˘'Ê|≈˘≈≠œ¯≠œ≠˜˘˚W˜˚E˜u˜t˜˜E˜W˜W˚˜E˚t˚u˚˚E˚Wœ˜0€˜2˜Q˜P€˚2˚0˚0;˚2˚P˚Q;˜2˜0˜ïã‰¯∫÷ã˙˜Z’˜H˘ç˜I˝”˜Y˘^G˚7˝â˚C˘6˚B˝â˚6˘B¸ãı˜¥ıÏﬂ`˜I¯ı7!†ﬂ¸ı7!˚*†v˜ä≈ã¯à¯à˜ä≈¸àQ˚˚>v˜D¿e±¯rw∆ ˜π ‹¯r¯òL˚£"\%˚ 'hºËà˜‰L˝WÀ˜gs´µÄ∂ÿœ≤–¨ç$.≈˜É|∏˜¥∏h∏˜¥∏–¿˜h¿˜¿˜h¿<˜x˘)ﬂ°:KLu;77u€ À°‹ﬂ"e˝Kª¯X˘ã\√£˚˛˚]9  π9˜˜π›ˆˆ]›˚√^ﬂ°:KLu;77u€ À°‹ﬂ<¸K¯˚]9  π9˜˜π›ˆˆ]›˚?˚>v˜D¿¯L±e¿± ˜Ú ‹˜ñˆº˜˜˜∫˚  \˚˚˚Z˜ˆ$¯1˜ñQ)â‹Œp9π@˚1@˚˚&˚&÷˚˜1ÿ÷≤’¶ç˚µ ˚é†v¯6≤˜f≤√≤˜f≤√¯∆;ÀK€€ÀÀ€€KÀ;;KK;≤≈∫∫≈≈∫\QQ\\QQ\∫≈Rã÷˘wÑ¯ı˜ñ⁄˜ù˘^C˚z˝â˚|˘B|ö˘^ö˚iö˜4ö˜ùîÈî¸€ö˜™˘
+endstream
+endobj
+11 0 obj
+<<
+/FontFile3 10 0 R
+/CapHeight 691
+/StemH 0
+/Type/FontDescriptor
+/Flags 32
+/Descent -191
+/FontName/DGXCZB+HelveticaNeue-Light
+/Ascent 714
+/FontBBox[-166 -211 1050 967]
+/XHeight 729
+/ItalicAngle 0
+/StemV 63
+>>
+endobj
+12 0 obj
+<<
+/Subtype/Type1
+/Widths[278 0 0 556 0 889 0 0 241 241 0 0 278 370 278 333 556 556 556 556 556 556 556 556 556 556 278 0 0 0 0 0 0 630 667 704 685 593 537 741 704 222 0 0 537 833 704 741 630 0 667 630 556 685 593 907 0 611 0 0 0 0 0 0 0 519 574 519 574 519 259 556 537 185 185 500 185 833 537 556 574 574 315 481 296 537 463 741 481 463 463 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 400 0 0 0 0 0 0 800 800 0 0 0 0 0 0 0 0 0 0 0 537 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500]
+/LastChar 208
+/BaseFont/DGXCZB+HelveticaNeue-Light
+/FirstChar 32
+/Encoding 9 0 R
+/Name/F0
+/FontDescriptor 11 0 R
+/Type/Font
+>>
+endobj
+13 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[32/space 40/parenleft/parenright 45/hyphen 48/zero/one/two/three/four 54/six/seven/eight 58/colon 65/A/B/C/D 73/I 77/M 79/O/P 82/R/S 97/a/b/c/d/e/f/g/h/i 108/l/m/n/o/p 114/r/s/t/u 119/w/x]
+>>
+endobj
+14 0 obj
+<<
+/Subtype/Type1C
+/Length 3836
+/Length1 3836
+>>
+stream
+  FYLPPS+HelveticaNeue-Heavy   @¯ ¯¯¯¯˚=˚~˙‹˙K
+ ãã
+ ãã  :  6  ë¶  · ê≤øƒCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.12 pt. Helvetica* 85 Heavy   08472HelveticaNeueHeavy  *  " Q F O E J Y   H B $ M C S U * P 1 I % . 4 G X 0 N      # 3 	     
+ V D T ,   @ ü ¯<£Ã/2ºAëß>~î‡#`£ÏaùÎ;¢ÃÊt≈ˇ	l	÷
+
+m
+Â •‡'qÙ˚„¡†v˜˜¯TwÇ˘g˜Û¯òç⁄˚é˚6˚´˚û˜S∏˜˜ç∑˚˜V˚ü˘^˚Qw˚-v˜3˜˜µ˜˚˜ƒ˜>˜[˜>‹˜Ÿ¯(÷•BIDq<?>q∆Êˆ≈´π˚†¸÷˜>˜zç\ÆºsÀ˜'”˜˜˜&F˜ ˚7OYqZjâ(«˚6d|˜˜
+Íı˜´˜>˜g˜>˜^˜Õ ï≥∂«ƒ¥[Qé˜>,˜Dì.˜ ˚N˚-˚˚˚3˚B˜%˜=˜˜ø˜™˚3e{cxbCb∫“àw†v¯˜˚˜ ƒ˜>˜E˜>ÿƒ˜>˜Ø∏ƒß¡ÀËÉCD˚è˜>˜·÷}˜˚AMEjVlâP“˚9w|˜˚˜˜µ˜˜Hw´˜>˜[˜>|˜∆¯(’¶F@åIy<8=q⁄“|Õ•‘Ÿ˜ù˜ ˚>˚èâ∫hZ£K˚'C˚˚å˚&–˚ ˜7«Ω•º¨çDO˜6˚ˆ†v¯õw‡˜ ˜> ˜>¯õ˚>0˜>˜W˚>˚˜>˚ã˜*˜&v˜˜Ñ˜P‡˜*Â˚*˜P˚L˜ß˜6˜à˚HB˚B˜˚P˜9˚ã˚‚ã˜N˜'˜NÃ˜N`˜è¯õ˚N˚N˜N†˚N˚·˜N˜N˚N˚„d˚J˜˚˜:±˜˜ê˜˚˜¶˜>˜Z˜8.¯"˜•JlSCEo»»À£Õ÷◊•JI˜5˜ä˚7ÆJâ¿m\¶M˚':˚˚˚&“˚˜1¬øßª™çZKÉR:qvéì|B{ìÇôá¢˚>Ç˚ü˜p˜˜áõ˜4‡R|Ù1Â˜∂vÃ˜®˜>˜C˜8º˜[˜)¥´õ±î∞ï∑é£öè p]:ãeãjúãµï˜f∑ì©†∫Æ∫|dk{ÅnÖ˚
+s˚Lò˚= ŸYÓ…Ãùπ∑tçzç{ë{˜?w¥ãª∑˜w˜'˚¶˚POÅq]]pk_àG˜|˜4¯<˜4µ˜N˘h¯_˜@Ü˚;Ì˚.˚l˚ ˚9˚c˚c˜ ˚9˜l˜I˜˜ ˜Lï˚N9ÑYY4˚]ıııπı˜Ÿ√eCï˚ˆ†v˘^w ˜> ˜>˘^˚>w|˜˚˜˜µ˜˜Hwƒ˜>˜[˜>|ƒ˜6º«çZ¨Ωq«˜7–˜ ˜&˜C˜˚'KZs[hâ˜ê˚>˜†˚ ÷•BIDq<?>q∆Êˆ≈´π˚t†v¯˜)Åw ˜>∞ ˜>˜ïPÃ∑≈ﬂ¢üáÖ°˜/é~}å~BQhIrâ0Ê˚9˚ôÜ˜˜≤˜Í˜>¯¯õ"˜1˚>˚15˚·˚{˚!∞a˜%™™èå™˜||âã}fsî¥˜ÄÙ˚„†v˘^wÀ˜NÀ˜N˘^˚Nd|˜˜µ˜´˜>˜c˜>˜^˜óÕ£⁄⁄⁄§<IIr=<<sŸÕ˚>˚0˜˚
+˜5˜5˜˜
+˜0˜0˚˜˚5˚5˚˚˚0Æ†v˜Ç˜$˜K˜)À˜N˜u˜NÀ˜N˜Ç˜-˜1–˜E˜=˚»˚˚Á˜N˚)˜ƒ∂pHJasQ˚w†v¯˜ ˜Hwƒ˜>˜E˜>ƒ˜>˜Øƒß¡ÀËÉCD˚è˜>˜·÷}˜˚AMEjVqâ˜û˚>˜ã˜4¯˜4À˜N˜±˜NÀ˜«˜m˜˜˜~˜q˚˜˚o˚«˜N˚4„˜—L˚˚#ST˚!à3˜®†vã˜Ç˜ƒ˜@ãwÃ˜C¯R˜CúÃ˜C¯≤çl˜*¸≤˜"˜*¯≤ç¸≤˜C˘^˚¶˚¸pâ˚¯p˚¶ú|˜$¯\˜$¢˜N˚9˜N˜a˜N˚7˜N§¢˜Ñ˚Kå˜%C˜8˜1˜.≈˜I˜#ª$®X#®$ï¬∫Ωô≥ƒ»vJà˜N˜5ä˚#–˚"˚˚1N˚0˚ˆ]Òn§ÚnÒLVQwS<W¶ﬂá˚¨†v¯-˜÷˜È˜>È˜>¯-Ò˜%¢∫£ê≤ööäâõ˜åpoçp˚%W]˚)9˚›˜K†vã˜K˜6˜Bãwã˘’ò˘’¯õ˚A6˚„â`?˜„˚6A˚‰â4˜‰˚@˜6¸õ˜@‹˜Ìç›˚Ì˜@˜|˜4¯<˜4∞˜N˜‡˜N∞˜˘˚c˜˚9˜u˜u˜˜9˜c˜c˚˜9˚u˚u˚˚9˚c˜Nıπı˜˜π!!!]!˚˚]ıı˜®†v¯˜˚˜ ƒ˜>˜+˜>˜+˜>‹ƒ˜>˜ëºı•Æ»πùeN˚ª˜>˜íﬂí√‘∑¶jS˚≈˜>˜ Óy˜˚9EXnTb oQ†JLTiWlâ\“˚9w†v¯@˜˜$w˜§˜H˜§¯@¸@˜H˘M˚!Ñ˚&g)ç˚˚á†v˜\˜$ª˜À˜˚˜\˜$˚À˚$wÇ˜˜ZÙ˜6˜®˜>˚ ˜+˜i˜+˚"˜>Ú˜—˜ŒÀægKDQpQOR®–œƒ´»˚¥˚˚7˜+X˜˜˜'«˜.„X»;õçlÀô≤À ˜˚¡˚˚	˚"U˚H∞PŒ{âÚ;}UE:l˜≥¯¬øtRORuYWUü…≈Ω°√wÇ˜¯K˜∞˜8˜y˜8˜œ˜˚ Ö˜ÊÊë˜˜ ˜é˚00à˚˚Ü˚˜`€˜@˜N˜N;˜?˚`˚Z@˚?˚N˚N÷˚@˜Zw†v˜/˜$¯"w˜‰˜>¯é˜ø¯"˚7˚Ã¸˚3˜≈˚/˜>˜/Ê˜$¸F˜D˜uç˚u”ã˜)˜8˜˜˜$À˜N˜p˜N˚1˜NÙ˜é˜Õ˜)√∑vLPbvP˚)˚N˚)˜Î˜-˜ø˜>‹\Õ?°x√ß±øÀ˜)˚´˚â˚‚˜N˚$˜$≤∞zWX_zk˚$”†v˜ò˜$˜5˜)À˜N˜Ü˜N˚K˜CÙÀ˜N˜ò˜!‚óACêçwéEõs˜Lr•àÙâ©Öœu‡?ùçx÷®∞‘ÿ˜$˚ƒ˚¸ ˜N˚)˜(øµsVUmmS˚0˚ˆ˚-v˙wØ˜3˜5˘m9˚5c˚à˚Fé˚?≥˚›˚5˜$H˜]˜0é˜.à˜5π˜0Œ˜wã˜$¯1˜)º˜3˜b˜>¯„˜$˚ﬂ∏∑ßú¿¨Ò ÎΩã˜ã˜)˚”˚ã˚Bã˚˚	ï˚A˜3◊å§ÃÂ¡ØjU\eiVhUiGgOWFPd7ä2wÇ˜˜t˜±˜R˚˜∞˜>˜x˜3‹˜c˜ÅÀ∏øÀÿµWJR\YDI_ª«‹¯˜´˜u* ˚˚g-˚;˚W˚F”˚C˜b˜,˜Ê˜:˜)Ú˚IM{Qhâ⁄è∞ÌÌöùâÇõ$õÅò{ëow†v¯≥˜.«¯è«¯≥˜‚âv}D6[ L˚r˚á9˜KåÊö˜ƒ˜∫Û”Î©§˜¸èwÇ˜˜I˜˜#˜ß˜3˚ ˜3˜d˜3˚(˜>Ú˜î˜»åööåöœ√y>NTrQ5b¥ﬁç˚3˚GÅ˜8˜7˜˜$Õ˜2›dƒ;†çlÀñ¨À»˜"˚æ˚˚)˚:˚0á˜3 ä≥Ø–¬∏r^OL~Y|ä|é|ä˚ˆ˚-v˙w˜3Ç˘mŒ˚π˚0à˚5é˚.]˚0H˚˜$›˜5≥˜é˜?à˜Fc˜9˜5w|˜ ˚˜¯w√˜>˜E˜>x¯—¯õ˚>˚™∏/SsfUm£–˜¡˚>˚Ã˚∂5˜)«Õ¨¿´çHD˜9R|˜˜µ˜´˜>¯ƒ˜›˜˚œ˚˚;"˚
+˚9˚3˜ ˜0˜˜ €˜ö˚9TÉmiPCn–Œ”ö‹Í∂≤l_å-|˜˚˜N˜W˜<˚˜Ø˜>˜.˜>ú¶˜?˚%ê˜b˜˜	˜π˜∂p◊"†=ú˚îºØ∏éß†ûáÇô$ôÇì}u˜1ú˜Ö˚¨˚%˚i˚˚ ˜àˆp©Ñ¿Écb\}jstëó{HzòÄû•|ö˘^ö˚fö˜7î˜°î÷î¸¥ì˜œ˘
+endstream
+endobj
+15 0 obj
+<<
+/FontFile3 14 0 R
+/CapHeight 697
+/StemH 0
+/Type/FontDescriptor
+/Flags 262176
+/Descent -174
+/FontName/FYLPPS+HelveticaNeue-Heavy
+/Ascent 714
+/FontBBox[-169 -234 1096 951]
+/XHeight 729
+/ItalicAngle 0
+/StemV 170
+>>
+endobj
+16 0 obj
+<<
+/Subtype/Type1
+/Widths[315 0 0 0 0 0 0 0 296 296 0 0 0 407 0 0 630 630 630 630 630 0 630 630 630 0 316 0 0 0 0 0 0 704 722 759 759 0 0 0 0 315 0 0 0 926 0 778 685 0 722 667 0 0 0 0 0 0 0 0 0 0 0 0 0 593 630 593 630 611 370 611 630 296 0 0 296 926 630 611 630 0 426 556 389 630 0 833 537]
+/LastChar 120
+/BaseFont/FYLPPS+HelveticaNeue-Heavy
+/FirstChar 32
+/Encoding 13 0 R
+/Name/F1
+/FontDescriptor 15 0 R
+/Type/Font
+>>
+endobj
+17 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[32/space 40/parenleft/parenright 45/hyphen/period 48/zero/one/two/three/four/five 57/nine/colon/semicolon 65/A/B/C/D/E/F 72/H/I 75/K/L/M/N/O/P 82/R/S 85/U 87/W 97/a/b/c/d/e/f/g/h/i 108/l/m/n/o/p 114/r/s/t/u/v/w/x/y 201/ellipsis]
+>>
+endobj
+18 0 obj
+<<
+/Subtype/Type1C
+/Length 4278
+/Length1 4278
+>>
+stream
+  CWXDGJ+HelveticaNeue-Medium   @¯ ¯¯¯¯˚9˚q˙æ˙L
+ ãã
+ ãã  6  2  •¶  õ ê≥¿Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.12 pt. Helvetica* 65 Medium   06472HelveticaNeue  6  1 S P U F J O $ I Q  % B . H 4 G X * M D C T y / 0 , " E    Z )  & V 	 
+  3 8 -  6 W Y   '  N #   8   I Ö …T{æV≤µ¯ÑÃAƒ˛>Tj±yØﬁ4jßs¿		4	k	î	ÿ
+
+J
+r
+‡&@ò’ˇ7¥Ÿ˝sŸÇ¸ú†v˜¶Ò˜ÄÒ◊˜˜»˜˜]¯¯˜MÕƒs-1FoS˚K˚¸˜˜¶˜R˜`ä≤˜„‰d˜˚`˚œ˚æ†v¯;È-˜ «˜–«˜˜ä0˜… Ÿõúàâõ˜åÅÑçqEGPT~âPÔ R}Â¯ÂØ˜˜∫˜˜Ω◊%^ËÂ‰∏ËÒÒ∏.21^.%1˜:Í˜˜3˜2,˜˚:˚:,˚˚2˚3Í˚˜:˚—ÜÂ˜Ô‡È˜ì¯D·˚≈5ç°]˜§£èç§„á{{ã{Xá£∫˜®Ú‡$˜/˚˚/5-}Â˜-÷˜ÂÆ˜¯•˜y˜/û'˜'˚7˚.+˚˚'˚3Ê˚˜6˜Î ˜§˚ RwcnI,_”‹÷ÿé¡«⁄ÿºJCè¸-†v¯ôw˜˜  ˜ ˜¯ô˚0‰˜˜ ˚?†v¯M◊?Â«˜˜v˜ÿ«˜˜≈∏◊º«◊Œ´h:ç˚Ÿ˜˜˜˜D«˚GPhRiâçP◊˚ ”zÒ¯¥Ò±˜¯#˜˘?¯{|˜.˚‰˚5å˚jã˚˚>ã˚`ã˚`˜˚>˜jã˜Aã˜˜
+ï˜?˚#ÅN8˚˚-K˜˜˜À˜˜-Û¿O9†?†v¯MÂ˜Kw«˜˜v˜«˜˜≈◊º«◊Œ´h:ç˚Ÿ˜˜˜˜D«˚GPh\oâ˜ù˚d˚>v˜EÂ¯◊?Â ˜˜∞˜‹¯a˜ñ1d/#/VŸÛ˜º‘ÎÈº2-¸"¸U˜˜ñçRØ“sÕ˜-—˜˜˜+<˜˚7IMrPkâ(—˚ ¸”ãÒ¯íÒ◊˜˜˝˜˜]¯¯˜˜Xµ˚˚#˚#a˚˚X˚˚%˜º˜pÍ˜4˜Y˜Y,˜4˚p˚º-}Â˜,—yv˜JÂ´˜,˜˜j˜∫¯˜BC=qYcJöæH«∑ùºì6Ωî¬äÆ¢˜˜˜!¥&˚˚d˚É˜√ê∏•Àπ»ÄP HBî9|+Ä$v˚&ﬂYË»‘û∑∏\î¨{πûØíëú⁄âÇãÑvÖñß˜É†vã˜/¯ ˜7ãw’˜¯ã˜ú’˜¯ªçl˜Z¸ªÚ˜Z¯ªç¸ª˜˘^˚B˚T¸√â˚Y¯√˚DR˚a‡˜Â˜Û◊?ÂÆ˜˜ß˜‹˜±Â,b·‡·ÆÈÓ≥923e/&$˜ë¯?˚‹Dâ≈nP¶J˚'4˚˚˚(œ˚˜8À∆≠ƒ´ç<6b\/QWñÃ}˚˚ï˜	cÛ˜7Êÿ˜/âzÒ¯¥Ò¨˜)˜˜±˜"˜§¨˜Ç˚Eé˜=˜7˜"˜"À˜4’^€-ßXfñ˚2¥ÄéXôißãΩã”‘†≈ã·ã…ië/˜˜)˚⁄˚)˚˚H˚#AØA˜j§ÌpÃ~Ωx®Ä©uãTãUbU˚ã'ã:∂ã˜˚„†v¯D‡ˆÂÈ˜î¯D‡¸D˜¯DÏ‡*¿∂§ñ™¢öâáö‰êyqçgAFu˚`6˜ã˜˜ë˜˜A˜Í¯çÎ¸˜	˜6¯ô˚"¸â.¯˚*¸â&¯˚¸†v˘^w◊˜◊˜˘^˚¸-†v˘^w ˜ ˜˘^˚-}Â¯ÂÆ˜¯ü˜Ï˜Ä%«˚˚>6˚˚0˚,‰˚˜6˜ﬁ’˜†˚AÄ]_I(eÊ·˜1ﬁ™∆ πiLîd}Â?◊¯Â˜Kw ˜˜∞˜º¯a˜ñ1d/#/VŸÛ˜º‘ÎÈº2-H¸"˚ñ˜ º“çG≠÷z—˜-—˜˜˜+<˜˚7QJlYlâ˜ú˚˚}Â¯Â´˜$˜˜q˜®´˜:˚çÏQ˜ˆ˜∏˜Ò7©8ûÿ7û7ì√∏»ì¨Ω∏|Uï˜˜}+∑!-˚h˚"›mﬂyﬁxﬁÑéOéP@Ç`ã†NY£ÕÖ˜Úã˜Ï˜˜V˜˜V˜pÏ˜˜˚˜·˚˜˜˚˜·˚˜˜˚”†v˘^w“˜˜È˜“˜¯°é˜Ÿ¸°˜˘^˚¸¢â˚⁄¯¢˚˜zÒ¯¥Ò±˜¯F˜¯˘o˚j˚˚>˚`˚`˜˚>˜j˜j˜˜>˜`˜`˚˜>˚j%˜-À˚˚˚K˚˚-˚-K˜˜˜À˜˜-Æ†v¯w˜Ìw◊˜◊˜˜ÑÒ˜~˚È˜0˚≈¯A˜±˜±˚.˚“˚Ÿ˜Ÿ˚ú†v˜QÍ¯BwÑ˘>˜ﬂ¯„çåˆ˚«˚n˚z˚∞˜Œ˜Q˜±Œ˚Q˜˚ß˘^˚d}Â?◊¯Â˜KwÆ˜˜∞˜º˜)˜ëË±Íˆ„¬G˚1`.%(_„‰¯"¯a˚˚úâƒhC£J˚˚9˚O˚/⁄˚˜7ÃÃ§∆©çDE˜ ˚ô†v˜n˜ º˜∑º˜n˜∑˜ ˚∑-ãÒ¯ôÍø˜˜Ç˜¯ôÒ˚Èü…‡∂‹√€√◊–ã˜ãÂU˜˚?ã˚0ã6˚ã˚/˜Ìé¶ÿÂÌ†AYäâ˚˚
+T0I-LP4ä˚¯r-}Í¯ÆÍØ˜˜î˜˜™‹'o˜˜&˜&ß˜ÔÔß˚˚&˚&o˚'˘˚]b˚a˚3˚3¥˚a˜]˜]¥˜a˜3˜3b˜a˚]˚˚aÍ˘wé¯î˜[ç~c}_~oVãyyèéy+á••â¶˜¶ﬂË∞˜]¯µ˚˚¸â˚¯˚”†v˜÷˜ ˜∞w‘˜˜Ÿ˜‘˜˜÷˜Ÿ˚÷˜˘^˚˚∞˚Ÿ˜∞˚-†v˜:Â¯Pw˜ÿ˜ ¯û˜î1¯P˚ ˚¿¸9˚˜¿˚:˜ ˜:Â˚\¯"ç˚»˚hwã˜ ˜eÒ˜O˜ ◊˜◊¯ù˜ ¸ ˜e˜¸Ò˚¸˜O¯˜ ¸ñ?}Â?◊¯Mw«˜˜v˜x¯ñ¯ô˚˚¿∏;kN,Mf¨Ê˜—˚˚‹˚≈G˜ƒ…≠øßçHC˜¸˚>v˙.wº˜˜≤˚S7˜"d˜,˜;˜;∂˜+€˜#.0˚ V˚4˚5˚SÀ˚#€˚¸˚>v˙.w˜˜É˘oﬂ˚#≤˚,˚;˚;`˚+;˚"ËÊ˜¿˜4˜5˜SK˜#;˜¸ã˜˜Ä˜–˜`–¯˜˜˚†¸é˜˜˚¡†v˜∫Í˜sÒ◊˜˜⁄˜˚˜¯˜]¯¯˜_tÃ∆y0@`d<˚a˚¸˜˜∫˜L»˜¶Q˚hãdûl˜p®◊ﬁ˜L´`ëçt¢ìÍÆ˜˜;”˚0˚È˜∫ã˜<¯˜<˜V˜˜&¯∂ç˜#¸∂˜˜Y˘^˚˚¸∂â˚ ¯∂˚˚$¸∂â˚¯∂˚?ã˜ ¯Úw◊˜◊¯|˜ ˚ˇ¯Ú˚-}Í˜¿Â˜ÒÆ˜˜ó˜ª˜—˜ºù∫öªÁ¥F>6jF*A[∂÷Ñ˚˚ êÙB˜˜@—˜˜˜;Ô˚\XxilâçØ˜F˜©Ò˚˛”z˜ ˘wœ˜˜‰˜œ˜ï˚K˜	0˜D˜D˜	Ê˜K¯]˚¸4+Ö˚˚6˚6Ö˜Î¯4˚˚†v¯ôwî¯â˜Y˜˜M¯ô˚
+˚¸!â˚¯!˚˚ã˜S‚˜Éè˜˜˜S˜˚S˜˚Z˜™˜D˜É˚˚˚3˚ ˜3˚˜G˚â-}Í˜à‡v˜ÜÍ™˜&˜˜u˜5˜…˜x˜ŸÂèË}˚;Q^?2]À‡é˚˚&é‹)˜6˜˜›˜!Â[–<õç6Œ£´√—˜˚ ˚˚!6%˚Ö˜”â≤“⁄ πcPB5<p?é-†v¯ÇÂ˜w˜u˜¿¯Ç˜@¸Ç˜˘P.z70j+åR†v˜—Ò˜O˜ ◊˜◊˜˜—˜◊Ò˚◊˜O¯˜ ¸Å¸ã˜–˜–˜˜˚˜p†v¯M◊?Â«˜˜`˜˜`˜º«˜˜«·¡ª∆–°eD˚‡˜˜√‚¨æÿ‰êR9˚¬˜˜˘˜Kª˚@ZjVe∆tP¶L9`hXià\”˚ ¡ãÒ˜sÂ˜YÒ◊˜˜…˜.˜Ù˜]˜Ÿ˜q◊∑cEC_b?˚q˚%˜‹˜MŸ‚˜Ï\œ4ûçxÃß∞ø”˜7≈˚˚Ô˜%˜`œ∞qCK^hO˚`¸ã˜˜Ä˜–˜‡––å`u`_ÄN⁄õ¬«å›˜˚`˜Ä˜˜˚-}Í˜2Â˜∂Í≠˜&˜˜Ä˜Ù˜¢¯ˇ‡µG@>aE68d“◊◊≤Œﬁ¨˚s¸N˚ëÈ>˜˜ZÕ˜W˜;˜`Z˜6˚ZÙ˚-3$˚˚#‰.˜Àƒ©¡©çâÑ/}˚(˚ãàPe≤ƒÜzú˘^ú˚jô˜=ã˜úîÔî¸ﬂô˜™˘
+endstream
+endobj
+19 0 obj
+<<
+/FontFile3 18 0 R
+/CapHeight 700
+/StemH 0
+/Type/FontDescriptor
+/Flags 32
+/Descent -191
+/FontName/CWXDGJ+HelveticaNeue-Medium
+/Ascent 714
+/FontBBox[-165 -221 1066 952]
+/XHeight 731
+/ItalicAngle 0
+/StemV 114
+>>
+endobj
+20 0 obj
+<<
+/Subtype/Type1
+/Widths[278 0 0 0 0 0 0 0 278 278 0 0 0 389 278 0 556 556 556 556 556 556 0 0 0 556 278 278 0 0 0 0 0 667 704 722 722 630 593 0 722 278 0 685 574 889 722 760 667 0 704 648 0 722 0 944 0 0 0 0 0 0 0 0 0 556 611 556 611 556 315 593 574 241 0 0 241 870 574 593 611 0 352 519 333 574 519 778 537 519 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1000]
+/LastChar 201
+/BaseFont/CWXDGJ+HelveticaNeue-Medium
+/FirstChar 32
+/Encoding 17 0 R
+/Name/F2
+/FontDescriptor 19 0 R
+/Type/Font
+>>
+endobj
+21 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[32/space 35/numbersign 45/hyphen 48/zero/one 53/five 65/A 67/C 73/I 77/M 79/O/P 83/S 97/a 99/c/d/e 103/g/h/i 108/l 110/n/o/p 114/r/s/t/u]
+>>
+endobj
+22 0 obj
+<<
+/Subtype/Type1C
+/Length 2352
+/Length1 2352
+>>
+stream
+  GDCMMN+HelveticaNeue-Roman   @¯ ¯¯¯¯˚:˚f˙»˙L
+ ãã
+ ãã  ;  7  t£  	 ó∏≈001.100Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.12 pt Helvetica* 55 Roman   05472HelveticaNeue    1 S P U F J O $ I Q " M  0 E  4 B * T V D . H        B r ∏ Ê@búÌ$≥∆›0åèÉñ˚8¿=°¡f¸â†v˜∏€˜ö€ŸÍ˜ÍÍŸÍ˜∏˜n˜"äÿ€˜˜>⁄˚"˚ÕÍ;˜Nˆº]66Z\ å˚N˚—†v¯KÂw»‡∞»‡˜zP˜ΩŸ˜Â/éRbb8â0˜;?÷¯÷ØÂ˜÷ÂØ˜ñ˚+‚˚˜8˜8‚˜˜+˜,4˜˚8˚84˚˚,Â˜”—‰‰”E˚˚CE22C—˜˚„ã÷¯÷Ï‡˜J˘46˚/3@„˚›,Æy„Ã÷dVÄí≤˜’Ú÷$˚÷˜>÷˜&÷ØÂ˜ΩÂ¯9˜8H|ZiE˚X€Âé¯˜êS˜?˚K˚!%˚˚/˚2êŸ˚˜9˜›…˜¢¸˜$⁄ë¿Œ‰ﬂ»J:è¸@†v¯ôw˜Û–‡–‡¯ô60‡˜Y6#‡-†v¯Z L÷À‡˜ñ‡∏À‡˜∏ËΩ–ÚÃ≥bL˚Ú‡˜Ë˜aŸ˚AQmKgâP›;”z€¯‡€∂Í˘7¯á˜,u˚€˚)˚p˚
+˚=˚c˚d˜ ˚8˜r˜H˜˜ ˜Fù,˚
+ÇC3˚˚?C˜˜7˜)”˜ ˜>Ó‹X&ü-†v¯Z÷˜MwÀ‡˜ñ‡À‡˜∏ËΩ–ÚÃ≥bL˚Ú‡˜Ë˜aŸ˚MBqMoâ˜•6R˚Ev˜N÷¯ L÷Œ‡˜œÂ‹¯g˜õ&d(˚˚	]ÈÒÏ∑Ì˜˜Ω-*¸$¸a‡˜üçN±◊w¿˜2Ÿ˜˜&˜&<˜˚3DIrRoâ(—6â†v˜k€¯7wÑ˘+ÑÌ€˜k˜¬Ÿ˚kÙ˚´˘^"Ω5ç˜˚·˚Ü¸@†v˘^w–‡–‡˘^6˚ô†v˜Ç€Ω˜µΩ˜Ç˜µ€˚µ˜z€¯‡€±Í¯ÇÍ±˜˘˚V˜˚H˜w˜w˜˜H˜V˜V˚˜H˚w˚w˚˚H˚VÍ˜$‘˜*˜B˜B‘˚*˚$˚$B˚*˚B˚BB˜*˜$R÷L ¯÷˜MwØÂ˜œ‡º¯¢˘^6˚ûâ»e?üV˚2=˚˚&˚&⁄˚˜3“Õ§ƒßçDE‡¨¸$˜í≤Ó˜˜	π-%*_)˚˚YÈÏ¸âz€¯‡€∞ÂGÍ˜ÂÂJÍX¯Ÿ¯ç˜1Ö˚–˚&˚˚K˚%˚˜j˜r§˜r˜z)$,p5˚ 'ø˜1˚B˜=˜4˜˜)»˜,˜ ˚≥˚•X˚•˚ò„Ë€®€Ìœ_%ñ˚÷¯÷ØÂE‡˜á‡Ë¯˜H\]E˚W[ü√ ªü√ïƒïÀå¨£˜˚[áÄÉäÑpãù≥˜û˜&†.X˚(^˚Ü‡◊è¿°”¡»AK;ë-y®3z4r˚	$ÿaÈ” §¬∫Sßs∑¶ûêîö¸†v˘^w›Í›Í˘^,˚*÷¯÷™‡AÂ˜z‡HÂ§™˜7˚êÌ\˜Ù˜≥˜Ô7ß6ûX<û1ï»ø∆ôæ√≈vIë‡˜Ñ0Ø˚1$`#(‡oﬂx§‡xﬂÄIJCVEI£◊à-÷L ¯ZwÀ‡˜ñ‡∏¯Ä¯ô6˚∏.YF$Jc¥ ˜Ú6˚Ë˚µ=˜’≈©ÀØçH9€˚÷¯÷ØÂ¯ã˜Û˜-¬˚	˚8;˚˚/˚.ﬂ˚˜2˜⁄÷˜û4=ÄZ[9˚ `ÈÍÙ±Ï˜—∏eJò˜q†vã˜¯t˜ãw€Â¯ßÂú€Â¯Êçl˜s¸Ê‹˜s¯Êç¸ÊÂ˘^˚˚v¸Ï˚u¯Ï˚?˚fœ˜÷¯ L÷ØÂE‡˜µ€⁄˜§–˚iÛËÓ∑‰˜ˆ≥-0*a$˚"˜Ç¯T;⁄AâåƒlQ®J˚GO˚+˚˚!ÿ˚˜.Ãœ™ ßçi˚_;˚ÜSA°…á6˚ê˜dÏ˜7ÿ·˜<-†v˜bœ˜*œ≠¯|Ò–®˜b˜n˚b–®˜bœ0†˜*Ìœ2®˜aFn˚a˚®˜aFn˚a˚GÒv˚* GÏ˜t˜nv˚*˚†˜*-†v¯êœ˜£‡˜¯˘YJ x3q*G˜L¸ê‡-÷¯œ÷µÂ˜∏Âµ˜˚0ô˚`˜r˜rô˜`˜0˜1}˜`˚r˚r}˚`˚1ÂåÙå˜H˜%˜%å˚H"!ä˚H˚%˚%ä˜Hı-÷˜›÷˜/÷Æ‡˜øÂ¯j˘M˚ÚI¸‘á¨≥∏¶¡ãÍÃH-˚FT:6P¬‘Ü6˚éÔ@˜˜9ﬁ˜˜˜6$‹˚[V{hlâç±˜`˜≤zú˘^ú˚jó˜•íÔí¸Èó˜™˘
+endstream
+endobj
+23 0 obj
+<<
+/FontFile3 22 0 R
+/CapHeight 714
+/StemH 0
+/Type/FontDescriptor
+/Flags 32
+/Descent -198
+/FontName/GDCMMN+HelveticaNeue-Roman
+/Ascent 714
+/FontBBox[-166 -210 1076 952]
+/XHeight 731
+/ItalicAngle 0
+/StemV 85
+>>
+endobj
+24 0 obj
+<<
+/Subtype/Type1
+/Widths[278 0 0 556 0 0 0 0 0 0 0 0 0 389 0 0 556 556 0 0 0 556 0 0 0 0 0 0 0 0 0 0 0 648 0 722 0 0 0 0 0 259 0 0 0 871 0 760 648 0 0 648 0 0 0 0 0 0 0 0 0 0 0 0 0 537 0 537 593 537 0 574 556 222 0 0 222 0 556 574 593 0 333 500 315 556]
+/LastChar 117
+/BaseFont/GDCMMN+HelveticaNeue-Roman
+/FirstChar 32
+/Encoding 21 0 R
+/Name/F3
+/FontDescriptor 23 0 R
+/Type/Font
+>>
+endobj
+25 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[32/space 45/hyphen/period/slash/zero/one/two 52/four 54/six/seven/eight 69/E 71/G/H 76/L 82/R/S 85/U 97/a/b/c/d/e/f/g 105/i 109/m/n/o/p 114/r 117/u/v/w]
+>>
+endobj
+26 0 obj
+<<
+/Subtype/Type1C
+/Length 2984
+/Length1 2984
+>>
+stream
+  PXZJPD+HelveticaNeue-Italic   7¯¯˚:˚f˙Ê˙Q
+ ãã
+ ãã   ˚   ˜  @•  é êCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.  !  - J G F  4 D O ( S P V Q        H  6  & 3 W ) X  C B E N #   " Q ì Ì eÆˇc≠Û@üË_y≠7aµ6rª‘tõœ0è	&	Ç
+¸-ã€˘wí¯~í¯mú€¸˜˘,¸@†v¯ôw˜ÛÜ˜˚ ˜ Ü‡˜ ¯ô6(˜˜Y5u#·˚ˆ†v¯N÷˜÷¢˜Ò¢‡Í¯NÔô÷( üÜŒ‡òôâàòô”tësçsã˚á'"p3|@„˚÷˜>÷˜&÷ï‡˜œ‡˜˜»€§¡ÕÔÈ¨BBÖÿ@éôê•¶˜&Hﬁ˚,˚"˚˚˚Z1ª˚
+˜?˜È«˜¶6KsXhAFJ∏€öåöçö¸âz€¯‡€öÍ|Í˜µÍTÍT¯˙¯ã˜3ê˚–˚!˚˚F˚"÷W‡tÏq®—xƒqB+1b2˚;µ˜ë,˚C˜?˜@˜˜)—˜'˜8¥2£+•TJùXß–‡Í´—Ì–h˚à˚÷¯÷†‡˜ ‡¯â˜ı˜áB√˚	˚M&˚.˚8˚”7˜!˜‚Õ˜©6LsU`B,jœ€˜—˜˜Õ∂eL-†v¯Z L÷¯3‡∞Ü‡«˜≤ñ¥õ¥©•≠´º•∫Ω≥tZyÉ`áxI˚¬‡ ˜ªî≥ë≤ã°Ê\µ*DEkQ`âPõŸ9˜z€L ˜}€˜ß€±Í¯}Íh¯««Ÿ¯˚À{;˜xú˚iB,˚+˚#GÍ˜˜@Ì˜K˜[Û„Y˚Í˜9˚’˚2˚à˚(˚`˚{˚Y˜˚˜Wÿ›ß«¡˚—†v¯KŸ=ÂÜ¯∞Ü‡º˜yì≤óº¢¨¶¥Ø™∫óüêïã†ãìãîãìäüÊçÅÅâÅ4NWDcâ@§˜;?÷¯÷ú‡˜‚‡Ò˜aˆœ˜"˜Ë∂J:%G˚#˚.Zƒ‡6ä˚›0˜˜IÙ˜2˜=˜>◊˚˚I˚ ˚0˚=-÷L ¯Zwö‡∞¯ú¯ô6O˚≤y5B9-ãYc¢ºùì∂èûÕ˜¬6L˚ªÇcÖdãu0∫aÏ“—´≈∂çP{=›R˚Ev˜N÷¯ L÷¯[‡ÿ¯[˜—˚E˚ ˚7]ƒÿ˜ ‘˜)˜Ë≥V7¸å¸óﬂ¬˜©çFüŸu ˜Iı˜@˜1˜D·˚FXxHXâ(ù’;-÷¯œ÷§Â˜’Â§˜õ˚-∫˚˜)˜~“˜◊˜˜RHŸ˚˚r3˚≤˚4Â}Ô∆˜±˜.˜}˚<L[˚∑˚27l‘˜-÷˜“÷˜F÷®Â˜≤ÂcÂ¯¯)˜à.W3$2a∆ﬂÍ¬€ﬂπS:¥˜ ˜≠˜âH—˚	˚ <C˚Xf9t˚-˚Ã$˜(Ë˜0Ï˜˜'˜9Á˚
+QJuZkâÙ©∑˜$˜$’ÆfCå˚ô†v˜Ç€•˜∆•˜Ç˜∂õ€˚∂-†v˘÷Ï¯s¯‘˘M¸]z@¯˚=˚G˚˚iB˚zÏÕ˜f˜!˜ú˜7˜,-÷˜•÷˜s÷°ÂÉÂ˜dÂLÂj˜V¯ò“æ∫“—∂fDH[[HGW™’‘¬¸Y<Qµ‡ÎÕΩËﬂ∫V@1KT2(˚%¯\T±UΩuâî$yHB!˚˜ K˜˜˜·˜‘lÃF®çä"÷ùøÀŸ˜,Ã#(˚'H˚-†v¯õœ˜˜…¯E˘YI:a%b6}GÃã¬ê ö˚¸ØÂ-ã÷¯√÷¯DÂ˜2¯h‰ê¬ÿÍ‘π^AEcbWd˚ "˚Q^z˚k¯Xõ÷¸ùæ¡∂∑ß˜ÿ˜T‘ã˜Aã˜
+6“˚ã˚,ã3,|˚&?˚f÷˜÷¯ L÷u‡a‡‘ı˜fÍÀ˜)˜‰∂U:#O˚$˚6aÃ’$¯R˜«;{,âç‘Ã|A≥@˚<&˚:˚-˚Õ0˜Ã∆£¬∞çâp$q"˚ãàJOõ–Ü6˚éÌ^Ù˜‹¥Ú∑öØòøó¿-†v˜:÷á¯ë¯¯ÀâçF˚‹˚x˜E˚Ö‡Ø˜:Èö÷-Ì¯hC¸8¸_z7˜À”z€˘w√Ê˘k˘^,1¸@o˚i2˚0ã˚L–˜´È¯P,2¸8b˚[Ê˚˜eã˜˜ª˜
+ªóßó¡ó¬˚—èv˘Äwy¯yz‘˜º˘ÄBdã€˜ã€˜w€í˘í¯Öù€¸&ø˜ã¯õ€¸ª˜w¯!õ€¸ÄÆ†v˜≈€˜ç€¯~ÿëÍ˜Ä˘˜Yh“–x2Xq1˚*˚j˚D¸ÍÀ˜≈˜g–¥Îù˚>m}BéUîqÓnƒ£»èÃí”yÀMûçhÍôÕﬁÍ˜!˚¥˚˚ß˚=†v¯ôwµ¯X¯Ç¯ô/˚t¸Bâ_¯B1’¸ôÊ”†v˜€€˜«wí˘^íÍ–˜€¯
+F˚€Í˜*˘^,K˚«¸
+Ã˜«+˜†vãı˜º˜ãw¯œò˘é¯ô/˚X¸/âhr¯/+˚N¸/âk¯/1»¸ôÂ˜M¯&ç•¸&Â¸ã˜ö˜ö˜£˜˚R÷av¯Z÷˜Mw¯Z‡∏¯Z˜∆&J˚"˚7Rª‹˜…˜,˜)⁄≤I9H¸_˚∆◊ûÎç∏XñœRÍ˜CÌ˜1˜5˜JÊ˚LRnZeâç¬˜ô6˚÷˜:÷˜*÷Å‡˜∆‡÷˜Õ¡û»î…ìŒê∞°ç[Ü]odm]ZuIã[ã^£ãª ˜vŒïÀ•Ã∏∆SFcÜ1É˚Å˚'Å˚*!”c·‚Ω¶ªØçâÜ^§o∫ãö£êíòò ÉàÄáÉã}Äì££ï®è†¨˜!ëßï∞ã®Ù2¶'˚*V˚zR÷L ¯÷˜Mwú‡∏Ò˜\˜—˜ ˜ﬂπR>˚ B˚)˚.c¿ﬂ¯å¯ñ7T˚®â–w=°L˚I!˚@˚1˚“5˜–æûŒæçHyA€˜^†v¯Z L÷¯À˜ï‡∏Ü‡≈˜£ñæì™ØÆ≠©Ω´∫π•r`ÑdÇcM˚ª‡ƒ˜üî∑ñµß©∞®¿≠ª∏≠mc|árá{C˚‹‡Ã˜ í®ì∑ã©ﬂD´BFGeTcŒ|Y•JDJfU_âçPûÿ<zú˘^ú˚jó˜•íÔí¸Èó‡˜™˘
+endstream
+endobj
+27 0 obj
+<<
+/FontFile3 26 0 R
+/CapHeight 714
+/StemH 0
+/Type/FontDescriptor
+/Flags 36
+/Descent -198
+/FontName/PXZJPD+HelveticaNeue-Italic
+/Ascent 714
+/FontBBox[-166 -210 1106 957]
+/XHeight 731
+/ItalicAngle -12
+/StemV 85
+>>
+endobj
+28 0 obj
+<<
+/Subtype/Type1
+/Widths[278 0 0 0 0 0 0 0 0 0 0 0 0 389 278 333 556 556 556 0 556 0 556 556 556 0 0 0 0 0 0 0 0 0 0 0 0 611 0 759 722 0 0 0 556 0 0 0 0 0 685 648 0 722 0 0 0 0 0 0 0 0 0 0 0 519 593 537 593 537 296 574 0 222 0 0 0 852 556 574 593 0 333 0 0 556 481 759]
+/LastChar 119
+/BaseFont/PXZJPD+HelveticaNeue-Italic
+/FirstChar 32
+/Encoding 25 0 R
+/Name/F4
+/FontDescriptor 27 0 R
+/Type/Font
+>>
+endobj
+29 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[32/space 44/comma/hyphen/period 66/B 73/I 76/L 82/R 87/W 97/a/b/c/d/e 105/i 110/n/o 114/r/s/t]
+>>
+endobj
+30 0 obj
+<<
+/Subtype/Type1C
+/Length 1864
+/Length1 1864
+>>
+stream
+  !HYUTHW+HelveticaNeue-HeavyItalic   8¯¯˚9˚xs˙L
+ ãã
+ ãã      0©  * êïCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy    # J P  3 B E  - C S U F T  * O D  8    m ° Î	}wzõˇDú˚{§æoÜÃ˚„”ã˜&˜6˜˜˜&¯t˜N˚/˜NÉ˜Ò˜eå˜È˜%Àe»Löçh›ùΩÀÈŸmŸ˚U˚·˜.˚&˜≥¡áWTfs@˚q˚˜–ª«ÜI>M}J˚&˚ˆ†v¯õw‡˜Å˜”˚Y˜YÅ˜>˜ ¯õ˚>(˜g˜W˚>p˚˜>d|˜˜ø˜î˜>˜j˜>î˜g˚-ÙB˜$˜P˜	˜˜M˜)$€˚"˚P˚˚˚L˜>ë—Ø˜ÁÀ°]J;i˚ *Otª∆˚á†v˜\˜$õ˜Ê˜ÿ˜\©˜$˚»m˚$”†v˜ò˜˜@˜$¯N˜H+˜Nh˜µ¯Œ˜ºæ~N>QvH˚(˚†¸"˜N¡˜ò–˜Õ¶jL[Üeãf}é~é}˜OÄüã™§¥é≥ø–w∞Vòçh˜õæ◊ˆ˜,(¨˚˚ÚR|Ù1Âˇ ı√ˇ Y
+>ˇ HˇˇvÃ˜Ç˜>˜2˜8*˜8}˜5˜$Ô˜.a∂Øå\Öw&$ihò¥∆˜kºí¨õ¡æ†wmG;èQà˚Å˚p˚Ü ”dÏ’æûπ´çBpãçèr˜;àîáòùßí¨îØóª≤˜$–.Æ˚$˚'c˚pw|˜˚˜˜µ˜˜Hwî˜>x˜ù˜Msπ¬‹ÆˆÎ√™dR<f˚,¯¯Î˚>U˚úâ≈wY•C˚H+˚4˚<à˚√+˜Ãæ£¬ÆçH}K˜9˚„Rã˜4¯æwÉ¯ΩÉ¯õ≠˜4˚‚˜¯æ˚Nw|˜˚˜˜µ˜˜Hw¯5˜>®¯5˜∆@c˚,Sn≥¡›¨˜ÒxƒßdP¸F˚∆˜6∏ö‘çK¶πs⁄˜EÎ˜;˜8˜RÒ˚OTu\fâø˜ç˚>˚t†v¯˜˚˜)Å¯p–Å˜>Ω˜Çú„Ø∆Ëã´°áÖ¢ ¨˜*zìzåtãFPdNhâ@û‡˚9˚ôÖ˜˜±˜û¯˜ﬂ˘7˚>j˚05t˚·c˚P~NÑcãg<›Ä⁄¨´èç≠•˜yäzâyãnsç§ùè†ê¢¥˜X˜ ¢˜ d|˜˜
+Íı˜î˜8˜n˜8¯π˜nè®ç®™˜*$ÿ˚˚P˚˚˚L˚-ÙB˜$˜Ùª˜¥˚:h~ouQSl®¡ÜúåìåïóÍÃù∞¥—ƒ¶[QÜ˚|˜˚˜M˜X˜<"Ù≥˜>Ï˜>lÄ˜>˚ê‡Y˜˜˜$®˜3ÒT°+£NöTí∞∞µóÆû°Öï¨ïÄè{äy˜.˜í˚Æ˚ ˚˚ f˚)Œp◊zﬁv¥â^a\Änpsëö{HòÉúå£˚„˚B€È˜Dd˜íâÿÇRmlRÖy;ËàÏ∞ß˜ Ø˜D˚I˚„†v˘^wÉ˜„É˜N˜)˘^˚Nw†v¯(˜˚˜¯'˜I–Å˜>π˜pù‡óÓÙãØ•ubwÜuÜsP˚ß˜>…˜®ë•óøã≠0‰Sƒ.0L`hrâPô ˚>?|˜˜p˜`˚˜î˜>–¯ª˜ﬁ˜ä&Ã˚˚P˚˚˚L˚-ÙB˜$˜ÚÃ˜(™˚9V~khURn∑÷0⁄™ÙÔá£äùÖò~Pô}ìwär˚„ã˜DÜ˜pÜ˜K∞˜D˚K˜∫ã˜V˜µ˜{˜˜˜å˜˜˜O˜V¯wç¸w˜O˜Á˘^˚S˚^¸úâ¯ú˚>˚f¸úâê¯ú˚O|ö˘^ö˚fö˜7î˜°î÷î¸¥ì˜>˜œ˘
+endstream
+endobj
+31 0 obj
+<<
+/FontFile3 30 0 R
+/CapHeight 697
+/StemH 0
+/Type/FontDescriptor
+/Flags 262180
+/Descent -174
+/FontName/HYUTHW+HelveticaNeue-HeavyItalic
+/Ascent 714
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/StemV 170
+>>
+endobj
+32 0 obj
+<<
+/Subtype/Type1
+/Widths[315 0 0 0 0 0 0 0 0 0 0 0 315 407 315 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 722 0 0 0 0 0 0 315 0 0 593 0 0 0 0 0 722 0 0 0 0 944 0 0 0 0 0 0 0 0 0 593 630 574 630 611 0 0 0 296 0 0 0 0 630 611 0 0 426 537 389]
+/LastChar 116
+/BaseFont/HYUTHW+HelveticaNeue-HeavyItalic
+/FirstChar 32
+/Encoding 29 0 R
+/Name/F5
+/FontDescriptor 31 0 R
+/Type/Font
+>>
+endobj
+33 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[65/A 83/S 85/U]
+>>
+endobj
+34 0 obj
+<<
+/Subtype/Type1C
+/Length 573
+/Length1 573
+>>
+stream
+  !IWWKQP+HelveticaNeue-HeavyItalic   8¯¯˚9˚xs˙L
+ ãã
+ ãã      ©   êïCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy    6 4 "    O Õ˚„Ê|˜-¯‘w´˜N˘é˘^˚N>¸q˚w,˚ãHc´¿±ñ∞í≠ﬁ¯˚N:¸	Å\Å`ãO˚Ú.˜N˜ñ≈˜˜T≥ú|˜-˜˝˜z˚-˜-ã˜N!˜N˜1˜Nî˜Ñ˚=â˜5˜>˜e˜ˆ˜˜ ˚æ)¶('¶mê∂∏ªûπ¨§Ö~úDõîxp˜N¨˜Bê˚√˚,˚#˚'F˚6"”\‰k’q˜ ÉDdlk@ê3`§ÿ¡†v˜˜¯Tw>˘f>˜W”˜˜èú˚˜O˚	˘^˚P√˚Sç¶˚ï˚7|ö˘^ö˚fö˜7î˜°î÷î¸¥ì˜>˜œ˘
+endstream
+endobj
+35 0 obj
+<<
+/FontFile3 34 0 R
+/CapHeight 697
+/StemH 0
+/Type/FontDescriptor
+/Flags 262242
+/Descent -174
+/FontName/IWWKQP+HelveticaNeue-HeavyItalic
+/Ascent 714
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/StemV 170
+>>
+endobj
+36 0 obj
+<<
+/Subtype/Type1
+/Widths[704 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 667 0 741]
+/LastChar 85
+/BaseFont/IWWKQP+HelveticaNeue-HeavyItalic
+/FirstChar 65
+/Encoding 33 0 R
+/Name/F6
+/FontDescriptor 35 0 R
+/Type/Font
+>>
+endobj
+37 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[65/A/B 68/D 73/I 79/O]
+>>
+endobj
+38 0 obj
+<<
+/Subtype/Type1C
+/Length 626
+/Length1 626
+>>
+stream
+  KFBFOP+HelveticaNeue-Italic   7¯¯˚:˚f˙Ê˙Q
+ ãã
+ ãã   ˚   ˜  •  X êCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.    # * 0 " %    g  –	B¸Æã€˜ã€˜w€¯öÍIÍ˜;˜€˜`Ÿ–|0˚˚Ä\˚z˚ ;˜ı˜!˜ﬂ˜◊a¿Jûçhﬂòø€⁄˜ P ˚ ˚≥÷;˜D∆‹Ñ72V\(˚h¸†v˘^wí˜âíÍ˜*˘^,˜z€¯‡€±Í¯àÍ±˜º˚Y˜˚˜W˜Ç˜&˜d˜t˜E˚˜˚M˚à˚(˚`˚{Í˜@Ì˜K˜[˜“#˚˚>'˚J˚Q˚#GÍ˜ú†v˜k€¯7wT˘+¯.˘
+ç¿˚„˚ä˚¶˚ªı˜˜k˜¡¨˚kÌ˚˘^#¡ã€¯æ€¯€Íí˜¶˜Ä˜5˜@˜°˜=/Û˚F˚é◊;˜,˜2≤)"˚A(˚F˚^˚9zú˘^ú˚jó˜•íÔí¸Èó‡˜™˘
+endstream
+endobj
+39 0 obj
+<<
+/FontFile3 38 0 R
+/CapHeight 714
+/StemH 0
+/Type/FontDescriptor
+/Flags 96
+/Descent -198
+/FontName/KFBFOP+HelveticaNeue-Italic
+/Ascent 714
+/FontBBox[-166 -210 1106 957]
+/XHeight 731
+/ItalicAngle -12
+/StemV 85
+>>
+endobj
+40 0 obj
+<<
+/Subtype/Type1
+/Widths[667 685 0 704 0 0 0 0 259 0 0 0 0 0 759]
+/LastChar 79
+/BaseFont/KFBFOP+HelveticaNeue-Italic
+/FirstChar 65
+/Encoding 37 0 R
+/Name/F7
+/FontDescriptor 39 0 R
+/Type/Font
+>>
+endobj
+41 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[108/l 117/u]
+>>
+endobj
+42 0 obj
+<<
+/Subtype/Type1C
+/Length 422
+/Length1 422
+>>
+stream
+  !HYNLLR+HelveticaNeue-HeavyItalic   8¯¯˚9˚xs˙L
+ ãã
+ ãã      ©  à êïCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     V M \v˚„w|˜˚˜¯(wú˜Ip¯Ó¯õ˚>O˚≠}BkYCãdz£©üçùê£∆˜¥˚>H˚œÜuÜpãiêoô˚ ˜!—…ß≈±çP|D˜7˚ˆ†v˘^wÅ˜”Å˜>˜)˘^˚>|ö˘^ö˚fö˜7î˜°î÷î¸¥ì˜>˜œ˘
+endstream
+endobj
+43 0 obj
+<<
+/FontFile3 42 0 R
+/CapHeight 697
+/StemH 0
+/Type/FontDescriptor
+/Flags 262180
+/Descent -174
+/FontName/HYNLLR+HelveticaNeue-HeavyItalic
+/Ascent 714
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/StemV 170
+>>
+endobj
+44 0 obj
+<<
+/Subtype/Type1
+/Widths[296 0 0 0 0 0 0 0 0 630]
+/LastChar 117
+/BaseFont/HYNLLR+HelveticaNeue-HeavyItalic
+/FirstChar 108
+/Encoding 41 0 R
+/Name/F8
+/FontDescriptor 43 0 R
+/Type/Font
+>>
+endobj
+45 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[57/nine]
+>>
+endobj
+46 0 obj
+<<
+/Subtype/Type1C
+/Length 407
+/Length1 407
+>>
+stream
+  EOARME+HelveticaNeue-Italic   7¯¯˚:˚f˙Ê˙Q
+ ãã
+ ãã   ˙   ˜   ˝•  } êCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.      {¸-÷˜D÷˜‘÷èÂcÂ˜±ÂÏ˜¶˜Œ6^√‹‡ΩÌÌÁ∏R3-U:&¥˚¢˚%˚âŸP˜
+˜!œ÷˜¿∞‡°˜Ë˜"GÎ˚*Ë˚**˚
+˚$˚‹.˜
+≈Ã†º¨çâk#\˚ ˚ãêEj≤Œzú˘^ú˚jó˜•íÔí¸Èó‡˜™˘
+endstream
+endobj
+47 0 obj
+<<
+/FontFile3 46 0 R
+/CapHeight 714
+/StemH 0
+/Type/FontDescriptor
+/Flags 36
+/Descent -198
+/FontName/EOARME+HelveticaNeue-Italic
+/Ascent 714
+/FontBBox[-166 -210 1106 957]
+/XHeight 731
+/ItalicAngle -12
+/StemV 85
+>>
+endobj
+48 0 obj
+<<
+/Subtype/Type1
+/Widths[556]
+/LastChar 57
+/BaseFont/EOARME+HelveticaNeue-Italic
+/FirstChar 57
+/Encoding 45 0 R
+/Name/F9
+/FontDescriptor 47 0 R
+/Type/Font
+>>
+endobj
+49 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[103/g 109/m]
+>>
+endobj
+50 0 obj
+<<
+/Subtype/Type1C
+/Length 565
+/Length1 565
+>>
+stream
+  !IJQGVU+HelveticaNeue-HeavyItalic   8¯¯˚9˚xs˙L
+ ãã
+ ãã      ©   êïCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     H N    Ö˚„d˚JÙ"˜;≥˜˜ú˜˚˜ì˜>ts|˚à˜j˜˜R— ˜oπ‚¯7˚7¨}BâœqJüG˚84˚4˚)˚	ÿ8˜
+º»üµ•ç9xâ9!wzëïlñÑöü˜˜/Nuπ¬Ÿ≤‡‚√§]O<c<7˜∫†v¯(˜˚˜˘[˜I–Å˜> ˜Ωö–©±…ãØùrmtÖjÖrS˚†˜>≈˜®∞’ö®¡Õ¨£zetÖlÜxQ˚®˜>Õ˜∏ëßìÆã¥ÏD¥+?ZkR\ŒQ°MHIjZeâPôŒ˚8|ö˘^ö˚fö˜7î˜°î÷î¸¥ì˜>˜œ˘
+endstream
+endobj
+51 0 obj
+<<
+/FontFile3 50 0 R
+/CapHeight 697
+/StemH 0
+/Type/FontDescriptor
+/Flags 262180
+/Descent -174
+/FontName/IJQGVU+HelveticaNeue-HeavyItalic
+/Ascent 714
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/StemV 170
+>>
+endobj
+52 0 obj
+<<
+/Subtype/Type1
+/Widths[611 0 0 0 0 0 944]
+/LastChar 109
+/BaseFont/IJQGVU+HelveticaNeue-HeavyItalic
+/FirstChar 103
+/Encoding 49 0 R
+/Name/F10
+/FontDescriptor 51 0 R
+/Type/Font
+>>
+endobj
+53 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[51/three 53/five]
+>>
+endobj
+54 0 obj
+<<
+/Subtype/Type1C
+/Length 490
+/Length1 490
+>>
+stream
+  RCOEPR+HelveticaNeue-Italic   7¯¯˚:˚f˙Ê˙Q
+ ãã
+ ãã   ˚   ˜   •  – êCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.       m ¸-÷˜•œ˜z÷åÂ˜øÂTÂÿ˜j˜‰·ÂÇ˚ +FO,˚q⁄ÿé1˚3à·C˜ ˜D€˜Ì…t¬F©dÀû «ﬁ˜;ƒ˚˚+D%˚	zÂÌó¿π⁄≈…|8˚!}1è-÷˜›÷˜/÷íÂ˜¿Â¯ü˘M˚˚˚¸
+◊∂£ø•ΩÊΩW0%N7˚5a∏›1˚ﬂA˜‘«ûª¡¡æ•‘’˜CË˚_\piâç√˜T˜∑zú˘^ú˚jó˜•íÔí¸Èó‡˜™˘
+endstream
+endobj
+55 0 obj
+<<
+/FontFile3 54 0 R
+/CapHeight 714
+/StemH 0
+/Type/FontDescriptor
+/Flags 36
+/Descent -198
+/FontName/RCOEPR+HelveticaNeue-Italic
+/Ascent 714
+/FontBBox[-166 -210 1106 957]
+/XHeight 731
+/ItalicAngle -12
+/StemV 85
+>>
+endobj
+56 0 obj
+<<
+/Subtype/Type1
+/Widths[556 0 556]
+/LastChar 53
+/BaseFont/RCOEPR+HelveticaNeue-Italic
+/FirstChar 51
+/Encoding 53 0 R
+/Name/F11
+/FontDescriptor 55 0 R
+/Type/Font
+>>
+endobj
+57 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[122/z]
+>>
+endobj
+58 0 obj
+<<
+/Subtype/Type1C
+/Length 354
+/Length1 354
+>>
+stream
+  !WYENKT+HelveticaNeue-HeavyItalic   8¯¯˚9˚xs˙L
+ ãã
+ ãã      	©  D êïCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     [ 6˚„˚ã˜˜°˜a¯‘a¯~¶˜˚Æ˜œ˜°•˜¸Wq˚˜á˚Œ˚°|ö˘^ö˚fö˜7î˜°î÷î¸¥ì˜>˜œ˘
+endstream
+endobj
+59 0 obj
+<<
+/FontFile3 58 0 R
+/CapHeight 697
+/StemH 0
+/Type/FontDescriptor
+/Flags 262180
+/Descent -174
+/FontName/WYENKT+HelveticaNeue-HeavyItalic
+/Ascent 714
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/StemV 170
+>>
+endobj
+60 0 obj
+<<
+/Subtype/Type1
+/Widths[537]
+/LastChar 122
+/BaseFont/WYENKT+HelveticaNeue-HeavyItalic
+/FirstChar 122
+/Encoding 57 0 R
+/Name/F12
+/FontDescriptor 59 0 R
+/Type/Font
+>>
+endobj
+61 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[67/C]
+>>
+endobj
+62 0 obj
+<<
+/Subtype/Type1C
+/Length 382
+/Length1 382
+>>
+stream
+  !MPNZBI+HelveticaNeue-HeavyItalic   8¯¯˚9˚xs˙L
+ ãã
+ ãã      	©  ` êïCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     $ R˚„Ê|˜-¯J˜-∞˜N˘b¯]˜Pç˚ﬂ˚G˚Ü˚!˚T˚z˚ù˜GR˜˜d˜Î˜K≥˚NC~OU="p—Á˜¿˜7˜!‚ØVIÉ|ö˘^ö˚fö˜7î˜°î÷î¸¥ì˜>˜œ˘
+endstream
+endobj
+63 0 obj
+<<
+/FontFile3 62 0 R
+/CapHeight 697
+/StemH 0
+/Type/FontDescriptor
+/Flags 262180
+/Descent -174
+/FontName/MPNZBI+HelveticaNeue-HeavyItalic
+/Ascent 714
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/StemV 170
+>>
+endobj
+64 0 obj
+<<
+/Subtype/Type1
+/Widths[741]
+/LastChar 67
+/BaseFont/MPNZBI+HelveticaNeue-HeavyItalic
+/FirstChar 67
+/Encoding 61 0 R
+/Name/F13
+/FontDescriptor 63 0 R
+/Type/Font
+>>
+endobj
+65 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[104/h]
+>>
+endobj
+66 0 obj
+<<
+/Subtype/Type1C
+/Length 382
+/Length1 382
+>>
+stream
+  !LJHPHH+HelveticaNeue-HeavyItalic   8¯¯˚9˚xs˙L
+ ãã
+ ãã      	©  ` êïCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     I R˚„w†v¯(˜˜Hw¯'˜IÅ˜>π˜pù‡óÓÙãØ•ubwÜuÜsP˚ß˜>…˜®ë•óøã≠‰Sƒ.0L`htâç¬˜î˚>|ö˘^ö˚fö˜7î˜°î÷î¸¥ì˜>˜œ˘
+endstream
+endobj
+67 0 obj
+<<
+/FontFile3 66 0 R
+/CapHeight 697
+/StemH 0
+/Type/FontDescriptor
+/Flags 262180
+/Descent -174
+/FontName/LJHPHH+HelveticaNeue-HeavyItalic
+/Ascent 714
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/StemV 170
+>>
+endobj
+68 0 obj
+<<
+/Subtype/Type1
+/Widths[630]
+/LastChar 104
+/BaseFont/LJHPHH+HelveticaNeue-HeavyItalic
+/FirstChar 104
+/Encoding 65 0 R
+/Name/F14
+/FontDescriptor 67 0 R
+/Type/Font
+>>
+endobj
+69 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[112/p]
+>>
+endobj
+70 0 obj
+<<
+/Subtype/Type1C
+/Length 404
+/Length1 404
+>>
+stream
+  !XNZXVX+HelveticaNeue-HeavyItalic   8¯¯˚9˚xs˙L
+ ãã
+ ãã      	©  v êïCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     Q h˚„w˚-v˜3˜˜µ˜˚˜¯4˜>ËV˚B˜>º˜ÖçN™¿vŒ˜EÂ˜?˜-˜Uı˚D^qYdâhó»˚9˜X¸(Mrπ¬◊∞˜ÂÿóQ]>h˚ -|ö˘^ö˚fö˜7î˜°î÷î¸¥ì˜>˜œ˘
+endstream
+endobj
+71 0 obj
+<<
+/FontFile3 70 0 R
+/CapHeight 697
+/StemH 0
+/Type/FontDescriptor
+/Flags 262180
+/Descent -174
+/FontName/XNZXVX+HelveticaNeue-HeavyItalic
+/Ascent 714
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/StemV 170
+>>
+endobj
+72 0 obj
+<<
+/Subtype/Type1
+/Widths[630]
+/LastChar 112
+/BaseFont/XNZXVX+HelveticaNeue-HeavyItalic
+/FirstChar 112
+/Encoding 69 0 R
+/Name/F15
+/FontDescriptor 71 0 R
+/Type/Font
+>>
+endobj
+73 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[68/D 107/k]
+>>
+endobj
+74 0 obj
+<<
+/Subtype/Type1C
+/Length 425
+/Length1 425
+>>
+stream
+  !WRAWKB+HelveticaNeue-HeavyItalic   8¯¯˚9˚xs˙L
+ ãã
+ ãã      ©  ã êïCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     % L By˚„˜ã˜4¯˜4¯≥˜NÉ˜”˜Ø˜˜R˜r˜p˚›˚K˚†˜,˚4ˆ·¬b˚.\˚$˚5˚?ã˜e˜ w˜kwÅ˜>¨˜3«ΩŸ˚e˜M˚˜œ˜˜`˚f˚E˚CâŸ¯˚>|ö˘^ö˚fö˜7î˜°î÷î¸¥ì˜>˜œ˘
+endstream
+endobj
+75 0 obj
+<<
+/FontFile3 74 0 R
+/CapHeight 697
+/StemH 0
+/Type/FontDescriptor
+/Flags 262180
+/Descent -174
+/FontName/WRAWKB+HelveticaNeue-HeavyItalic
+/Ascent 714
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/StemV 170
+>>
+endobj
+76 0 obj
+<<
+/Subtype/Type1
+/Widths[759 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 574]
+/LastChar 107
+/BaseFont/WRAWKB+HelveticaNeue-HeavyItalic
+/FirstChar 68
+/Encoding 73 0 R
+/Name/F16
+/FontDescriptor 75 0 R
+/Type/Font
+>>
+endobj
+77 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[70/F/G/H 75/K 121/y]
+>>
+endobj
+78 0 obj
+<<
+/Subtype/Type1C
+/Length 669
+/Length1 669
+>>
+stream
+  !JADCVP+HelveticaNeue-HeavyItalic   8¯¯˚9˚xs˙L
+ ãã
+ ãã      ©   êïCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy    ' ( Z ) ,    6 • Ï%]˚„d†v˜ß˜$˜˜4É˘<É˜N≈˜ß˜Ω©˜$˚Ωß˜˜Ì¨˜4¸ß˜|˜-˚	v˜ë˜˜M˜-±˜N˜·˜Dº˘q¯k˜Eê˚	‹˚H¸p¸U˚Ñ˜'D˜˜ºß∆∂çháC˜ﬁ¯˚Ωn˚˜ú6o[m3+Zƒ˜ ˜,˜+Õ¬eHâ˚˚B˜¯«wW˘ W˚<àß¶àß˜>£¡˜$⁄˜ú¯É˚F˚/¸âd¯˚AÎ¸éviátXãuvåéuÊ†v˜∫˜4˜òwÄ˘ïÄ˜N»˜∫˜åN˚∫˜N˜)˘^˚NU˚ò˚å¡˜ò˚NÊ†v˘^wÉ˘≈É˜Nπ˜mÏﬁ˜'˚¿˜h˚h¯8˜È˜∫˚ä˚∑˚¨â∆˜¨˚N|ö˘^ö˚fö˜7î˜°î÷î¸¥ì˜>˜œ˘
+endstream
+endobj
+79 0 obj
+<<
+/FontFile3 78 0 R
+/CapHeight 697
+/StemH 0
+/Type/FontDescriptor
+/Flags 262180
+/Descent -174
+/FontName/JADCVP+HelveticaNeue-HeavyItalic
+/Ascent 714
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/StemV 170
+>>
+endobj
+80 0 obj
+<<
+/Subtype/Type1
+/Widths[611 778 741 0 0 741 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 537]
+/LastChar 121
+/BaseFont/JADCVP+HelveticaNeue-HeavyItalic
+/FirstChar 70
+/Encoding 77 0 R
+/Name/F17
+/FontDescriptor 79 0 R
+/Type/Font
+>>
+endobj
+81 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[74/J]
+>>
+endobj
+82 0 obj
+<<
+/Subtype/Type1C
+/Length 368
+/Length1 368
+>>
+stream
+  !HOOPZO+HelveticaNeue-HeavyItalic   8¯¯˚9˚xs˙L
+ ãã
+ ãã      	©  R êïCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     + D˚„R|˜-¯‘wã˜>¯Ò˘^˚N(¸y~LvoSãdv°≤£í©ì®˚?ÇdÜbk˚(˜
+fÈ˜;Ë◊˜<≠|ö˘^ö˚fö˜7î˜°î÷î¸¥ì˜>˜œ˘
+endstream
+endobj
+83 0 obj
+<<
+/FontFile3 82 0 R
+/CapHeight 697
+/StemH 0
+/Type/FontDescriptor
+/Flags 262180
+/Descent -174
+/FontName/HOOPZO+HelveticaNeue-HeavyItalic
+/Ascent 714
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/StemV 170
+>>
+endobj
+84 0 obj
+<<
+/Subtype/Type1
+/Widths[593]
+/LastChar 74
+/BaseFont/HOOPZO+HelveticaNeue-HeavyItalic
+/FirstChar 74
+/Encoding 81 0 R
+/Name/F18
+/FontDescriptor 83 0 R
+/Type/Font
+>>
+endobj
+85 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[77/M 120/x]
+>>
+endobj
+86 0 obj
+<<
+/Subtype/Type1C
+/Length 440
+/Length1 440
+>>
+stream
+  !HHEPKF+HelveticaNeue-HeavyItalic   8¯¯˚9˚xs˙L
+ ãã
+ ãã      ©  ö êïCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     . Y Rà˚„˜®†vã˜a˜˛˜'ãwÉ˙DòÉ˜Dı¯Àçhµ¸À˜#˜Æ¯Àç˚¸À˜D˜)˘^˚î˚ä¸ëâi¯ë˚î˚ã˜-˜|˜G˜P˜	˜-Ã˚-˜C˚˜ü˜h˜ê˚Q,˚Z˜˚D˜
+˚à|ö˘^ö˚fö˜7î˜°î÷î¸¥ì˜>˜œ˘
+endstream
+endobj
+87 0 obj
+<<
+/FontFile3 86 0 R
+/CapHeight 697
+/StemH 0
+/Type/FontDescriptor
+/Flags 262180
+/Descent -174
+/FontName/HHEPKF+HelveticaNeue-HeavyItalic
+/Ascent 714
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/StemV 170
+>>
+endobj
+88 0 obj
+<<
+/Subtype/Type1
+/Widths[926 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 537]
+/LastChar 120
+/BaseFont/HHEPKF+HelveticaNeue-HeavyItalic
+/FirstChar 77
+/Encoding 85 0 R
+/Name/F19
+/FontDescriptor 87 0 R
+/Type/Font
+>>
+endobj
+89 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[78/N 84/T]
+>>
+endobj
+90 0 obj
+<<
+/Subtype/Type1C
+/Length 405
+/Length1 405
+>>
+stream
+  !ONWIAX+HelveticaNeue-HeavyItalic   8¯¯˚9˚xs˙L
+ ãã
+ ãã      ©  w êïCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     5 / 0e˚„w†v¯æ˜4ø˘˘F˘^¸Úk˚4˜f˚	¸æ˜N˜	¯æ˜fÊ†v˘^w{˘û{˜HÊ¯gç˜9¸g˜S˜)˘^˚H2¸gâ˚;¯g˚S|ö˘^ö˚fö˜7î˜°î÷î¸¥ì˜>˜œ˘
+endstream
+endobj
+91 0 obj
+<<
+/FontFile3 90 0 R
+/CapHeight 697
+/StemH 0
+/Type/FontDescriptor
+/Flags 262180
+/Descent -174
+/FontName/ONWIAX+HelveticaNeue-HeavyItalic
+/Ascent 714
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/StemV 170
+>>
+endobj
+92 0 obj
+<<
+/Subtype/Type1
+/Widths[741 0 0 0 0 0 630]
+/LastChar 84
+/BaseFont/ONWIAX+HelveticaNeue-HeavyItalic
+/FirstChar 78
+/Encoding 89 0 R
+/Name/F20
+/FontDescriptor 91 0 R
+/Type/Font
+>>
+endobj
+93 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[90/Z 119/w]
+>>
+endobj
+94 0 obj
+<<
+/Subtype/Type1C
+/Length 428
+/Length1 428
+>>
+stream
+  !RCZBHB+HelveticaNeue-HeavyItalic   8¯¯˚9˚xs˙L
+ ãã
+ ãã      ©  é êïCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     X ; K|˚„˜Kã˜3˜U˜;¯<˜Â˜D˜*˜Ùçñ˚Ù˜D˜¢¯õ˚G˚+˚¸âÄ˜¸˚8˚)˚¸â~˜¸˚=úã˜4¯˜4`˘`¯˚´˜4¸¯`¯´˜4¸‹j˚4˜¸S¸|ö˘^ö˚fö˜7î˜°î÷î¸¥ì˜>˜œ˘
+endstream
+endobj
+95 0 obj
+<<
+/FontFile3 94 0 R
+/CapHeight 697
+/StemH 0
+/Type/FontDescriptor
+/Flags 262180
+/Descent -174
+/FontName/RCZBHB+HelveticaNeue-HeavyItalic
+/Ascent 714
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/StemV 170
+>>
+endobj
+96 0 obj
+<<
+/Subtype/Type1
+/Widths[667 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 833]
+/LastChar 119
+/BaseFont/RCZBHB+HelveticaNeue-HeavyItalic
+/FirstChar 90
+/Encoding 93 0 R
+/Name/F21
+/FontDescriptor 95 0 R
+/Type/Font
+>>
+endobj
+97 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[80/P]
+>>
+endobj
+98 0 obj
+<<
+/Subtype/Type1C
+/Length 370
+/Length1 370
+>>
+stream
+  !KXWJAI+HelveticaNeue-HeavyItalic   8¯¯˚9˚xs˙L
+ ãã
+ ãã      	©  T êïCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     1 F˚„Æ†v˜{˜-˜E˜-¯é˜N|˜Nº˜{˜9˜B˜Â˜H˜=·˚˚Û˜.˚-Ù≈¡ÉFPfb5˚|ö˘^ö˚fö˜7î˜°î÷î¸¥ì˜>˜œ˘
+endstream
+endobj
+99 0 obj
+<<
+/FontFile3 98 0 R
+/CapHeight 697
+/StemH 0
+/Type/FontDescriptor
+/Flags 262180
+/Descent -174
+/FontName/KXWJAI+HelveticaNeue-HeavyItalic
+/Ascent 714
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/StemV 170
+>>
+endobj
+100 0 obj
+<<
+/Subtype/Type1
+/Widths[685]
+/LastChar 80
+/BaseFont/KXWJAI+HelveticaNeue-HeavyItalic
+/FirstChar 80
+/Encoding 97 0 R
+/Name/F22
+/FontDescriptor 99 0 R
+/Type/Font
+>>
+endobj
+101 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[102/f]
+>>
+endobj
+102 0 obj
+<<
+/Subtype/Type1C
+/Length 381
+/Length1 381
+>>
+stream
+  !AKVONX+HelveticaNeue-HeavyItalic   8¯¯˚9˚xs˙L
+ ãã
+ ãã      	©  _ êïCopyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.Heavy     G Q˚„˚¨†v¯-˜÷˜ô¯?ô˜>·¯-Ó¢˜(≤íïØ…öôâäõ£˜mêhé`ãEDxFhygÑcÇg8t˚ﬁ|ö˘^ö˚fö˜7î˜°î÷î¸¥ì˜>˜œ˘
+endstream
+endobj
+103 0 obj
+<<
+/FontFile3 102 0 R
+/CapHeight 697
+/StemH 0
+/Type/FontDescriptor
+/Flags 262180
+/Descent -174
+/FontName/AKVONX+HelveticaNeue-HeavyItalic
+/Ascent 714
+/FontBBox[-165 -228 1139 952]
+/XHeight 729
+/ItalicAngle -12
+/StemV 170
+>>
+endobj
+104 0 obj
+<<
+/Subtype/Type1
+/Widths[370]
+/LastChar 102
+/BaseFont/AKVONX+HelveticaNeue-HeavyItalic
+/FirstChar 102
+/Encoding 101 0 R
+/Name/F23
+/FontDescriptor 103 0 R
+/Type/Font
+>>
+endobj
+105 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[32/space 98/beta]
+>>
+endobj
+106 0 obj
+<<
+/Subtype/Type1C
+/Length 458
+/Length1 458
+>>
+stream
+  BKRUNG+Symbol   F¯ ¯¯¯¯)¡˚H˚∏˙÷˙Å
+ ãã
+ ãã   ˘   ı   ˛™  ´ Éäbeta002.001Copyright © 1994-1997 Stream Technologies Inc. All Rights Reserved.
+ Simpele is a trademark of Stream Technologies Inc.Simpele     á ß¸$&˚`v˜dª˘6≠»Ë>Ÿ˜fÎYÒÍ¯ï˜]ƒxÀo≤s´vú_†Ï ¡†Æ¿Á1’˚ZUujgklp^˝ ÚeÉOÉS·èßé£§é˜N∆a≤~»ã˜›Ê˜%|,\OAX_üµb¯â√º¬ΩÏ ºN?PpSoÑsíã|nx~wyùÄßõ§èãèÍøø˚ s£¯Üç˜?ò˜Åã˚véØ
+¥
+_˜é˘
+endstream
+endobj
+107 0 obj
+<<
+/FontFile3 106 0 R
+/CapHeight 671
+/StemH 0
+/Type/FontDescriptor
+/Flags 4
+/Descent -223
+/FontName/BKRUNG+Symbol
+/Ascent 921
+/FontBBox[-180 -292 1090 1005]
+/XHeight 684
+/ItalicAngle 0
+/StemV 41
+>>
+endobj
+108 0 obj
+<<
+/Subtype/Type1
+/Widths[250 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 549]
+/LastChar 98
+/BaseFont/BKRUNG+Symbol
+/FirstChar 32
+/Encoding 105 0 R
+/Name/F28
+/FontDescriptor 107 0 R
+/Type/Font
+>>
+endobj
+109 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[110/a73]
+>>
+endobj
+110 0 obj
+<<
+/Subtype/Type1C
+/Length 178
+/Length1 178
+>>
+stream
+  BHZEJJ+ZapfDingbatsITC   6ã˚πœÉ
+ à?ãã
+ à?ãã   h   e   kë   ¨ a73    á %<¯
+˙0˚π…˝Ã˘7˘Ã˝YV¯Á˙¸Á‰˙!—ç˙s˙sçç¯Õ˘
+endstream
+endobj
+111 0 obj
+<<
+/FontFile3 110 0 R
+/CapHeight 1667
+/StemH 0
+/Type/FontDescriptor
+/Flags 4
+/Descent -293
+/FontName/BHZEJJ+ZapfDingbatsITC
+/Ascent 1667
+/FontBBox[0 -143 976 814]
+/XHeight 0
+/ItalicAngle 0
+/StemV 0
+>>
+endobj
+112 0 obj
+<<
+/Subtype/Type1
+/Widths[761]
+/LastChar 110
+/BaseFont/BHZEJJ+ZapfDingbatsITC
+/FirstChar 110
+/Encoding 109 0 R
+/Name/F31
+/FontDescriptor 111 0 R
+/Type/Font
+>>
+endobj
+113 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[32/space 45/hyphen/period 49/one 67/C 84/T 97/a/b 100/d/e/f 104/h/i 108/l/m/n/o/p 114/r/s/t]
+>>
+endobj
+114 0 obj
+<<
+/Subtype/Type1C
+/Length 1764
+/Length1 1764
+>>
+stream
+  OCUUIT+HelveticaNeue-Bold   @¯ ¯¯¯¯˚:˚n˙ ˙c
+ ãã
+ ãã  :  6  e¶  … ó∏≈001.100Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a registered trademark of Linotype AG and/or its subsidiaries.12 pt. Helvetica* 75 Bold   07472HelveticaNeue    5 B C M F    $ P N Q T J U O G I  E S    $ ü Ù
+Z]ÑòÎ0ï¯iíÕFÉúˆ4¸d†v¯⁄˜˜w˜1˜w˜1¯⁄˜j˜¸›˚˜j?}Í:‹˜"÷˜Í´˜"˜^˜"º¯˜\lá3˚]bò¿ø≥ö∑î∑ìΩå£†˚NÙ√êÆ°¡ΩµÇNQ:é4~33o˚	!ŸZÌ Õú∫∏Tåzèzê{˜$~†Ü∫∫˜°˜˚¢$˚˚c˚Éd}ˆ.Ë˜ﬂˆ˜Kw¡˜"˜Å˜"|¡˜ºÕçR™ t◊Ú˜ﬁ˜R˜Q˚ﬁ$KKsVhâ˜ò˚"¯¸\5f<77f⁄·‚∞⁄ﬂﬂ∞<4¸†v˘^w≈˜"≈˜"˘^˚"?}ˆ˜Â˜ˆ®˜"¯¥˜t˜3ï6˜(˚D˚1 ˚
+˚/˚4˚˜7˜	‡ø˜≥˚kÇ]hR<_¥ÂáÂ≥ç•—Â–™eCò¸-†v¯Zˆ˜w˜é˜"¯˘P˚| 0i(ç ˜D¸Z˜"¸ã˜.«˜1«˜1˜.˚1Êz˜¯x˜±˜1˘M¯n˜9x˚Á˚1˚q˚˚9˚h˚b˜˚9˜q˜C˜˜˜Fõ˚,-UI+˚!V˜˜˜¿˜˜!ŸœUDïd}ˆ˜ﬂˆ±˜"˜è˜"±˜ñ˚8Ù˚ ˜6˜7Ù˜ ˜8˜9"˜ ˚7˚6"˚ ˚9˜"ﬁ®ﬁÎÏ®889n8*+nﬁ›˜î†v¯7Ì)˜≈˜"˜J˜"˜J˜"‹≈˜"˜¿ºœùßÂáFO˚∂˜"˜¥ÃöÕ€‹ëRF˚π˜"˜Ó˜<æ˚CUb^m…oQ£JHUlVfâ\—˚d˚5v˜<ˆ˜ﬂË.ˆ¡˜"˜Ü˜"Ï¡˚J˜"˜äçX≠∆p…˜+◊˜˜˜'B˜˚6KSrTiâlÕ˚˜ô¸</k€ﬂﬂ©ﬁËÊ¨69l7m;.˚}Í˜˜Í®˜˚˜"˜D˜˚˜"§®˜<˚ë˜	^˜˜
+˜
+∑˜Î:©8ûX:û;íæµ∫ë´æµ|Tè˜˜Ä#±˚˚˚i˚0›n›y§Òu∆|`YW{bSW§…ä¸†v¯ôwÔ˜	≈˜"≈˜"¯ô˚"0˜"˜Y˚"˚	˜"˚æÖ˜˜–ÍÁ˜"˜~˘4˚"˚/5,·˚≈$◊w‚ß™åè£˜à|}ä|[óª˜îÛÍ#R†v¯7Ì)˜¡˜"˜]˜"ÿ¡˜"˜£∏Ù¨∂ÿÕ§a6˚∏˜"˜“˜e‡˚+OMoQgàP”˚˚—†v¯:ÍÂˆ‡˜"‡˜"¯:ÌÍ)™∂õõ±ùúäâúıåsqér˚RI0c6,‡R†v¯7˜˜Kw¡˜"˜]˜"¡˜"˜£Ù¨∂ÿÕ§a6˚∏˜"˜“˜e‡˚+VMoQgà˜°˚"˚á†v˜h˜¿˜¡¿˜h˜¡˜˚¡d}ˆ.Ë˜ﬂˆ˜Kw´˜"˜Ü˜"|¯;˜˘^˚"˚òâåæjO•N˚,>˚˚¨˚#◊˚˜0Õ≈£√¨çâ˜V6o9-3f‡‹‡´€ËÁ©;7˚ô†v¯#˜
+˚
+˜¡˜"–¡˜"˜}0ÊØ÷Ûú†âàò˜éÇçÅFE^JqâPÎ˚zú˘^ú˚jô˜=ã˜úîÒî¸ÿô˜™˘
+endstream
+endobj
+115 0 obj
+<<
+/FontFile3 114 0 R
+/CapHeight 700
+/StemH 0
+/Type/FontDescriptor
+/Flags 262176
+/Descent -182
+/FontName/OCUUIT+HelveticaNeue-Bold
+/Ascent 714
+/FontBBox[-166 -218 1078 975]
+/XHeight 731
+/ItalicAngle 0
+/StemV 142
+>>
+endobj
+116 0 obj
+<<
+/Subtype/Type1
+/Widths[278 0 0 0 0 0 0 0 0 0 0 0 0 407 278 0 0 556 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 741 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 611 0 0 0 0 0 0 0 0 0 0 0 0 574 611 0 611 574 333 0 593 258 0 0 258 906 593 611 611 0 389 537 352]
+/LastChar 116
+/BaseFont/OCUUIT+HelveticaNeue-Bold
+/FirstChar 32
+/Encoding 113 0 R
+/Name/F32
+/FontDescriptor 115 0 R
+/Type/Font
+>>
+endobj
+117 0 obj
+<<
+/Type/Pages
+/Kids[118 0 R 119 0 R]
+/Count 2
+>>
+endobj
+118 0 obj
+<<
+/Resources<</ProcSet[/PDF/Text]/Font<<
+/F10 52 0 R
+/F3 24 0 R
+/F11 56 0 R
+/F22 100 0 R
+/F8 44 0 R
+/F20 92 0 R
+/F9 48 0 R
+/F2 20 0 R
+/F23 104 0 R
+/F6 36 0 R
+/F14 68 0 R
+/F21 96 0 R
+/F19 88 0 R
+/F17 80 0 R
+/F7 40 0 R
+/F4 28 0 R
+/F15 72 0 R
+/F1 16 0 R
+/F12 60 0 R
+/F16 76 0 R
+/F5 32 0 R
+/F0 12 0 R
+/F13 64 0 R
+/F18 84 0 R
+>>
+/ExtGState<</GS1 2 0 R/GS0 1 0 R/GS3 4 0 R/GS2 3 0 R>>>>
+/Parent 117 0 R
+/Contents 5 0 R
+/MediaBox[0 0 1296 540]
+/Type/Page
+>>
+endobj
+119 0 obj
+<<
+/Resources<</ProcSet[/PDF/Text]/Font<</F32 116 0 R/F31 112 0 R/F1 16 0 R/F0 12 0 R/F28 108 0 R/F2 20 0 R>>/ExtGState<</GS0 1 0 R/GS4 6 0 R>>>>
+/Parent 117 0 R
+/Contents 7 0 R
+/MediaBox[0 0 1296 540]
+/Type/Page
+>>
+endobj
+120 0 obj
+<<
+/Type/Catalog
+/PageLabels 8 0 R
+/Pages 117 0 R
+>>
+endobj
+121 0 obj
+<<
+/XPressPrivate(%%DocumentProcessColors:\n%%EndComments)
+/Producer(QuarkXPress(tm) 6.5)
+/CreationDate(20061211160851)
+/Title<FEFF0041006C006C002D0069006E002D00310050006500700074006900640065005F0030003000360033002E007100780064>
+/Creator(QuarkXPress(tm) 6.5)
+>>
+endobj
+xref
+0 122
+0000000000 65535 f 
+0000000015 00000 n 
+0000000059 00000 n 
+0000000114 00000 n 
+0000000161 00000 n 
+0000000207 00000 n 
+0000024879 00000 n 
+0000024925 00000 n 
+0000098086 00000 n 
+0000098136 00000 n 
+0000098523 00000 n 
+0000104174 00000 n 
+0000104400 00000 n 
+0000105068 00000 n 
+0000105338 00000 n 
+0000109257 00000 n 
+0000109488 00000 n 
+0000109923 00000 n 
+0000110233 00000 n 
+0000114594 00000 n 
+0000114822 00000 n 
+0000115445 00000 n 
+0000115664 00000 n 
+0000118099 00000 n 
+0000118325 00000 n 
+0000118724 00000 n 
+0000118958 00000 n 
+0000122025 00000 n 
+0000122254 00000 n 
+0000122670 00000 n 
+0000122846 00000 n 
+0000124793 00000 n 
+0000125032 00000 n 
+0000125419 00000 n 
+0000125516 00000 n 
+0000126170 00000 n 
+0000126409 00000 n 
+0000126633 00000 n 
+0000126737 00000 n 
+0000127444 00000 n 
+0000127673 00000 n 
+0000127884 00000 n 
+0000127978 00000 n 
+0000128481 00000 n 
+0000128720 00000 n 
+0000128922 00000 n 
+0000129012 00000 n 
+0000129500 00000 n 
+0000129729 00000 n 
+0000129904 00000 n 
+0000129998 00000 n 
+0000130644 00000 n 
+0000130883 00000 n 
+0000131080 00000 n 
+0000131179 00000 n 
+0000131750 00000 n 
+0000131979 00000 n 
+0000132161 00000 n 
+0000132249 00000 n 
+0000132684 00000 n 
+0000132923 00000 n 
+0000133106 00000 n 
+0000133193 00000 n 
+0000133656 00000 n 
+0000133895 00000 n 
+0000134076 00000 n 
+0000134164 00000 n 
+0000134627 00000 n 
+0000134866 00000 n 
+0000135049 00000 n 
+0000135137 00000 n 
+0000135622 00000 n 
+0000135861 00000 n 
+0000136044 00000 n 
+0000136137 00000 n 
+0000136643 00000 n 
+0000136882 00000 n 
+0000137144 00000 n 
+0000137246 00000 n 
+0000137996 00000 n 
+0000138235 00000 n 
+0000138527 00000 n 
+0000138614 00000 n 
+0000139063 00000 n 
+0000139302 00000 n 
+0000139483 00000 n 
+0000139576 00000 n 
+0000140097 00000 n 
+0000140336 00000 n 
+0000140606 00000 n 
+0000140698 00000 n 
+0000141184 00000 n 
+0000141423 00000 n 
+0000141618 00000 n 
+0000141711 00000 n 
+0000142220 00000 n 
+0000142459 00000 n 
+0000142701 00000 n 
+0000142788 00000 n 
+0000143239 00000 n 
+0000143478 00000 n 
+0000143660 00000 n 
+0000143749 00000 n 
+0000144212 00000 n 
+0000144453 00000 n 
+0000144639 00000 n 
+0000144739 00000 n 
+0000145279 00000 n 
+0000145494 00000 n 
+0000145793 00000 n 
+0000145884 00000 n 
+0000146144 00000 n 
+0000146362 00000 n 
+0000146538 00000 n 
+0000146713 00000 n 
+0000148561 00000 n 
+0000148793 00000 n 
+0000149179 00000 n 
+0000149246 00000 n 
+0000149715 00000 n 
+0000149948 00000 n 
+0000150018 00000 n 
+trailer
+<<
+/Size 122
+/Root 120 0 R
+/Info 121 0 R
+/ID[<95B6C5C0F52915391C017D4FE1FE44A0><95B6C5C0F52915391C017D4FE1FE44A0>]
+>>
+startxref
+150297
+%%EOF
