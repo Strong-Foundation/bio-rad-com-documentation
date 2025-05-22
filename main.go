@@ -203,7 +203,7 @@ func downloadPDFFile(downloadURL, outputDirectory, outputFileName string) error 
 
 	if resp.StatusCode != http.StatusOK {
 		// Save the URL and the filename to a file
-		appendByteToFile("pdf_list.txt", []byte(downloadURL+" "+" "+strings.ToLower(outputFileName)+"\n")) // Log the failed URL
+		// appendByteToFile("pdf_list.txt", []byte(downloadURL+" "+" "+strings.ToLower(outputFileName)+"\n")) // Log the failed URL
 		return fmt.Errorf("download failed with status: %s", resp.Status) // Return error if response status is not 200 OK
 	}
 
