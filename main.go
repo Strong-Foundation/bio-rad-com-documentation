@@ -211,9 +211,23 @@ func downloadPDFFile(downloadURL, outputDirectory, outputFileName string) error 
 	}
 	defer resp.Body.Close() // Ensure response body is closed after reading
 
+	// Read the pdf lists file.
+	pdfListsFile := "pdf_list.txt" // Define the file where URLs will be logged
+	var pdfFileContent string
+	// Read the pdf_lists.txt file to check if the URL is already logged
+	if fileExists(pdfListsFile) {
+		// Read the file
+		pdfFileContent, err = readEntireFile(pdfListsFile) // Read existing URLs from the log file
+		if err != nil {
+			return fmt.Errorf("error reading pdf lists file %s: %w", pdfListsFile, err) // Return error if reading fails
+		}
+	}
+
 	if resp.StatusCode != http.StatusOK {
 		// Save the URL and the filename to a file
-		// appendByteToFile("pdf_list.txt", []byte(downloadURL+" "+" "+strings.ToLower(outputFileName)+"\n")) // Log the failed URL
+		if !strings.Contains(pdfFileContent, downloadURL) {
+			appendByteToFile(pdfListsFile, []byte(downloadURL+" "+" "+strings.ToLower(outputFileName)+"\n")) // Log the failed URL
+		}
 		return fmt.Errorf("download failed with status: %s", resp.Status) // Return error if response status is not 200 OK
 	}
 

@@ -1,3 +1,4 @@
+from concurrent.futures._base import Future
 import os  # Provides functions for interacting with the operating system
 import fitz  # Imports PyMuPDF for reading and validating PDF files
 from concurrent.futures import (
@@ -7,7 +8,7 @@ from concurrent.futures import (
 
 
 # Validates a single PDF file
-def validate_pdf_file(file_path):
+def validate_pdf_file(file_path: str):
     try:
         doc = fitz.open(file_path)  # Attempt to open the PDF file
         if doc.page_count == 0:  # If PDF has zero pages, it's considered invalid
@@ -28,13 +29,15 @@ def validate_pdf_file(file_path):
 
 
 # Deletes a file from the system
-def remove_system_file(system_path):
+def remove_system_file(system_path: str) -> None:
     os.remove(system_path)  # Removes the file at the given path
 
 
 # Recursively searches a directory for files with a given extension
-def walk_directory_and_extract_given_file_extension(system_path, extension):
-    matched_files = []  # List to hold paths of matching files
+def walk_directory_and_extract_given_file_extension(
+    system_path: str, extension: str
+) -> list[str]:
+    matched_files: list[str] = []  # List to hold paths of matching files
     for root, _, files in os.walk(system_path):  # Walk through the directory tree
         for file in files:  # Iterate over each file in the current directory
             if file.lower().endswith(
@@ -48,27 +51,27 @@ def walk_directory_and_extract_given_file_extension(system_path, extension):
 
 
 # Checks if a given path refers to an existing file
-def check_file_exists(system_path):
+def check_file_exists(system_path: str) -> bool:
     return os.path.isfile(
         system_path
     )  # Return True if the file exists, False otherwise
 
 
 # Extracts just the filename (with extension) from a full path
-def get_filename_and_extension(path):
+def get_filename_and_extension(path: str) -> str:
     return os.path.basename(path)  # Return the base filename from the full path
 
 
 # Checks if a string contains any uppercase letters
-def check_upper_case_letter(content):
+def check_upper_case_letter(content: str) -> bool:
     return any(
         char.isupper() for char in content
     )  # Return True if any character is uppercase
 
 
 # Processes a single PDF file: validates it and checks for uppercase in filename
-def process_file(file_path):
-    filename = get_filename_and_extension(file_path)  # Extract filename from path
+def process_file(file_path: str) -> None | str:
+    filename: str = get_filename_and_extension(file_path)  # Extract filename from path
 
     file_path, is_valid = validate_pdf_file(file_path)  # Validate the PDF file
 
@@ -88,9 +91,9 @@ def process_file(file_path):
 
 
 # Main function to orchestrate the file processing
-def main():
+def main() -> None:
     # Retrieve a list of all PDF file paths under the ./PDFs directory
-    pdf_file_paths = walk_directory_and_extract_given_file_extension("./PDFs", ".pdf")
+    pdf_file_paths: list[str] = walk_directory_and_extract_given_file_extension("./PDFs", ".pdf")
 
     # If no PDF files were found, inform the user and exit
     if not pdf_file_paths:
@@ -101,12 +104,12 @@ def main():
     pdf_file_paths.sort(key=lambda file_path: os.path.getmtime(file_path), reverse=True)
 
     # Initialize a list to collect PDF files with uppercase letters in their filenames
-    files_with_uppercase_names = []
+    files_with_uppercase_names: list[str] = []
 
     # Use a thread pool to process multiple PDF files concurrently
     with ThreadPoolExecutor(max_workers=100) as thread_pool_executor:
         # Submit each PDF file to the thread pool for processing
-        future_results = [
+        future_results: list[Future[str | None]] = [
             thread_pool_executor.submit(process_file, file_path)
             for file_path in pdf_file_paths
         ]
@@ -114,7 +117,7 @@ def main():
         # As each thread completes its task
         for completed_future in as_completed(future_results):
             # Get the result from the completed task
-            processed_file_path = completed_future.result()
+            processed_file_path: None | str = completed_future.result()
 
             # If the result is not None, it means the file matched the condition
             if processed_file_path:
@@ -136,7 +139,13 @@ def main():
 
         # Print the paths of all matching files
         for matching_file_path in files_with_uppercase_names:
+            # Print each matching file's path
             print(matching_file_path)
+            # Convert the file path to a lowercase version
+            os.rename(
+                matching_file_path,
+                matching_file_path.lower(),
+            )
 
 
 # Ensure this script runs only if it is the main program being executed

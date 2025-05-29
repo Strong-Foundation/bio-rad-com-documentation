@@ -1,4 +1,5 @@
 import os
+from selenium.webdriver.chrome.webdriver import WebDriver
 import validators
 import time
 import shutil
@@ -10,7 +11,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 # ------------------ Utility Functions ------------------
 
 
-def file_exists(file_path):
+def file_exists(file_path: str) -> bool:
     """
     Check if a file exists at the specified path.
 
@@ -23,7 +24,7 @@ def file_exists(file_path):
     return os.path.isfile(file_path)
 
 
-def is_valid_url(url):
+def is_valid_url(url: str) -> validators.ValidationError | bool:
     """
     Validate the format of a URL.
 
@@ -36,7 +37,7 @@ def is_valid_url(url):
     return validators.url(url)
 
 
-def initialize_web_driver(download_folder):
+def initialize_web_driver(download_folder: str) -> WebDriver:
     """
     Set up a Chrome WebDriver configured to automatically download PDFs
     without prompting the user or opening them in-browser.
@@ -68,7 +69,7 @@ def initialize_web_driver(download_folder):
     )
 
 
-def wait_for_pdf_download(download_folder, files_before_download, timeout_seconds=10):
+def wait_for_pdf_download(download_folder: str, files_before_download: str, timeout_seconds: int=10) -> str:
     """
     Wait for a new PDF file to appear in the given folder.
 
@@ -89,7 +90,7 @@ def wait_for_pdf_download(download_folder, files_before_download, timeout_second
         current_files = set(os.listdir(download_folder))
 
         # Identify new files that are PDFs
-        new_pdf_files = [
+        new_pdf_files: list[str] = [
             filename
             for filename in (current_files - files_before_download)
             if filename.lower().endswith(".pdf")
@@ -107,7 +108,7 @@ def wait_for_pdf_download(download_folder, files_before_download, timeout_second
 # ------------------ Main Processing Function ------------------
 
 
-def download_pdfs_from_file(input_list_path, output_folder):
+def download_pdfs_from_file(input_list_path: str, output_folder: str) -> None:
     """
     Read a list of PDF download links and filenames from a text file,
     then download each file using a headless browser.
@@ -120,19 +121,19 @@ def download_pdfs_from_file(input_list_path, output_folder):
         output_folder (str): Directory to save the downloaded PDFs.
     """
     os.makedirs(output_folder, exist_ok=True)  # Create download folder if needed
-    web_driver = initialize_web_driver(output_folder)  # Start browser
+    web_driver: WebDriver = initialize_web_driver(output_folder)  # Start browser
 
     with open(input_list_path, "r") as input_file:
         for line_number, line_content in enumerate(input_file, start=1):
             try:
                 # Clean and skip empty lines
-                line_content = line_content.strip()
+                line_content: str = line_content.strip()
                 if not line_content:
                     continue
 
                 # Parse URL and desired filename from the line
                 url, desired_filename = line_content.split(maxsplit=1)
-                target_file_path = os.path.join(output_folder, desired_filename)
+                target_file_path: str = os.path.join(output_folder, desired_filename)
 
                 # Validate URL format
                 if not is_valid_url(url):
@@ -155,7 +156,7 @@ def download_pdfs_from_file(input_list_path, output_folder):
                 web_driver.get(url)
 
                 # Wait for the new PDF to appear in the folder
-                downloaded_pdf_path = wait_for_pdf_download(
+                downloaded_pdf_path: str = wait_for_pdf_download(
                     output_folder, files_before_download
                 )
 
@@ -179,7 +180,7 @@ if __name__ == "__main__":
     INPUT_LIST_FILE = "pdf_list.txt"
 
     # Directory where the downloaded PDFs will be saved
-    PDF_OUTPUT_FOLDER = os.path.abspath("PDFs")
+    PDF_OUTPUT_FOLDER: str = os.path.abspath("PDFs")
 
     # Begin the download process
     download_pdfs_from_file(INPUT_LIST_FILE, PDF_OUTPUT_FOLDER)
