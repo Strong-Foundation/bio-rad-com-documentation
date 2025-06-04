@@ -124,12 +124,13 @@ def find_large_files(directory: str) -> list[str]:
     return large_files
 
 
-
 # Main function to orchestrate the file processing
 def main() -> None:
+    # The directory to the pdf folder.
+    pdf_file_directory = "./PDFs"
     # Retrieve a list of all PDF file paths under the ./PDFs directory
     pdf_file_paths: list[str] = walk_directory_and_extract_given_file_extension(
-        "./PDFs", ".pdf"
+        pdf_file_directory, ".pdf"
     )
 
     # If no PDF files were found, inform the user and exit
@@ -167,7 +168,6 @@ def main() -> None:
     # If no files with uppercase letters were found, inform the user
     if len(files_with_uppercase_names) == 0:
         print("No files with uppercase letters in their names were found.")
-        return
 
     # If files with uppercase letters were found, print a summary
     if len(files_with_uppercase_names) > 0:
@@ -190,7 +190,7 @@ def main() -> None:
             os.rename(matching_file_path, new_file_path)
 
     # Check if the files are over 100 MB.
-    big_files = find_large_files("./PDFs")
+    big_files = find_large_files(pdf_file_directory)
     # Loop over the files.
     for path in big_files:
         # Remove files.
