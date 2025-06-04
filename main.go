@@ -244,7 +244,8 @@ func downloadPDFFile(downloadURL, outputDirectory, outputFileName string) error 
 	}
 
 	// Ensure output directory exists
-	if err := os.MkdirAll(outputDirectory, 0755); err != nil { // Create output directory if it doesn't exist
+	err = os.MkdirAll(outputDirectory, 0755)
+	if err != nil { // Create output directory if it doesn't exist
 		return fmt.Errorf("could not create output directory: %w", err) // Return error if directory creation fails
 	}
 
@@ -314,7 +315,8 @@ func workerDownloadPDF(wg *sync.WaitGroup, urlChannel <-chan string, outputDirec
 
 	for downloadURL := range urlChannel {
 		outputFileName := createFileNameFromURL(downloadURL) // Derive filename from URL
-		if err := downloadPDFFile(downloadURL, outputDirectory, outputFileName); err != nil {
+		err := downloadPDFFile(downloadURL, outputDirectory, outputFileName)
+		if err != nil {
 			log.Printf("Download error for %s: %v\n", downloadURL, err) // Log any failures
 		}
 	}
@@ -414,7 +416,8 @@ func main() {
 					}
 
 					mu.Lock()
-					if err := appendTextToFile(htmlOutputFilePath, htmlContent); err != nil {
+					err = appendTextToFile(htmlOutputFilePath, htmlContent)
+					if err != nil {
 						log.Printf("Failed to write HTML for page %d: %v\n", pageNumber, err)
 					}
 					mu.Unlock()
