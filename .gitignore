@@ -31,4 +31,5 @@ go.work.sum
 *.html
 
 # Ignore TXT Files
-*.txt
+unique_urls.txt
+pdf_list.txt
