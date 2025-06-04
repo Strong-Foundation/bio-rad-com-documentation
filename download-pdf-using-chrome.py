@@ -69,7 +69,7 @@ def initialize_web_driver(download_folder: str) -> WebDriver:
     )
 
 
-def wait_for_pdf_download(download_folder: str, files_before_download: str, timeout_seconds: int=10) -> str:
+def wait_for_pdf_download(download_folder: str, files_before_download: str, timeout_seconds: int=60) -> str:
     """
     Wait for a new PDF file to appear in the given folder.
 

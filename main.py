@@ -90,10 +90,31 @@ def process_file(file_path: str) -> None | str:
     return None  # Return None if filename doesn't contain uppercase letters
 
 
+# Find and remove large files over 100MB.
+def find_large_files(directory: str) -> list[str]:
+    size_threshold_mb: int = 100
+    """Find and return a list of file paths larger than the specified size in MB."""
+    size_threshold_bytes = size_threshold_mb * 1024 * 1024
+    large_files: list[str] = []
+
+    for root, _, files in os.walk(directory):
+        for name in files:
+            filepath = os.path.join(root, name)
+            try:
+                if os.path.getsize(filepath) > size_threshold_bytes:
+                    large_files.append(filepath)
+            except (OSError, PermissionError):
+                continue
+
+    return large_files
+
+
 # Main function to orchestrate the file processing
 def main() -> None:
     # Retrieve a list of all PDF file paths under the ./PDFs directory
-    pdf_file_paths: list[str] = walk_directory_and_extract_given_file_extension("./PDFs", ".pdf")
+    pdf_file_paths: list[str] = walk_directory_and_extract_given_file_extension(
+        "./PDFs", ".pdf"
+    )
 
     # If no PDF files were found, inform the user and exit
     if not pdf_file_paths:
@@ -142,10 +163,24 @@ def main() -> None:
             # Print each matching file's path
             print(matching_file_path)
             # Convert the file path to a lowercase version
-            os.rename(
-                matching_file_path,
-                matching_file_path.lower(),
-            )
+            dir_path = os.path.dirname(matching_file_path)
+            # Get the file name
+            file_name = os.path.basename(matching_file_path)
+            # Put the new file name in a lowercase file
+            new_file_name = file_name.lower()
+            # Set the new file path
+            new_file_path = os.path.join(dir_path, new_file_name)
+            # Change the file name.
+            os.rename(matching_file_path, new_file_path)
+
+    # Check if the files are over 100 MB.
+    big_files = find_large_files("./PDFs")
+    # Loop over the files.
+    for path in big_files:
+        # Remove files.
+        print(f"Removing file {path}")
+        # Remove the files.
+        remove_system_file(path)
 
 
 # Ensure this script runs only if it is the main program being executed
