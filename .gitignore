@@ -29,3 +29,6 @@ go.work.sum
 
 # HTML
 *.html
+
+# Ignore TXT Files
+*.txt
