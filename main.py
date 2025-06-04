@@ -90,23 +90,39 @@ def process_file(file_path: str) -> None | str:
     return None  # Return None if filename doesn't contain uppercase letters
 
 
-# Find and remove large files over 100MB.
+# Find and return a list of file paths larger than the specified size in MB
 def find_large_files(directory: str) -> list[str]:
     size_threshold_mb: int = 100
-    """Find and return a list of file paths larger than the specified size in MB."""
+    """
+    Scans a directory and returns a list of files larger than `size_threshold_mb` megabytes.
+
+    Args:
+        directory (str): The root directory to scan.
+        size_threshold_mb (int): Size threshold in megabytes. Default is 100MB.
+
+    Returns:
+        list[str]: List of file paths exceeding the size threshold.
+    """
     size_threshold_bytes = size_threshold_mb * 1024 * 1024
     large_files: list[str] = []
 
     for root, _, files in os.walk(directory):
         for name in files:
             filepath = os.path.join(root, name)
+
+            # Only check actual files (ignore symlinks and dirs)
+            if not check_file_exists(filepath):
+                continue
+
             try:
                 if os.path.getsize(filepath) > size_threshold_bytes:
                     large_files.append(filepath)
-            except (OSError, PermissionError):
+            except (OSError, PermissionError) as e:
+                print(f"Skipping {filepath}: {e}")
                 continue
 
     return large_files
+
 
 
 # Main function to orchestrate the file processing
